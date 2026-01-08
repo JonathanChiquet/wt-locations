@@ -1,0 +1,1009 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Big Chief LA",
+        "license": "C10-0001599-LIC",
+        "address1": "1700 Silver Lake Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90026",
+        "directionUrl": "https://maps.app.goo.gl/pksX4A3qCHqmpeABA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.26829177116417, 34.08952188989419]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Silver Lake",
+        "license": "C10-0000921-LIC",
+        "address1": "2334 Fletcher Dr",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90039",
+        "directionUrl": "https://maps.app.goo.gl/5WYwv46ucYzkyTib9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.25788349289196, 34.104866572435995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Flora",
+        "license": "C10-0000530-LIC",
+        "address1": "8151 3rd St W",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90048",
+        "directionUrl": "https://maps.app.goo.gl/s3zrU14atvcBUWrq7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3670307505636, 34.072609409008145]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Goat Global Westwood",
+        "license": "C10-0000600-LIC",
+        "address1": "2299 S Westwood Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90064",
+        "directionUrl": "https://maps.app.goo.gl/TaFnM493dAEYULz39"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.43078306590695, 34.04255873267134]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "SWED A Snoop Dogg Store",
+        "license": "C10-0000756-LIC",
+        "address1": "5494 W Centinela Ave",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90045",
+        "directionUrl": "https://maps.app.goo.gl/7guJDrkzP9ioKPUY8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.37626257754859, 33.97691486139813]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Xzibit's West Coast Cannabis Bel Air",
+        "license": "C10-0000616-LIC",
+        "address1": "641 Sepulveda Blvd N",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90049",
+        "directionUrl": "https://maps.app.goo.gl/5CXwBAiNdncLaF8L9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4690558662023, 34.076963244449615]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "1841 El Camino (Horizon Collective Inc)",
+        "license": "C10-0000009-LIC",
+        "address1": "1841 El Camino Ave",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95815",
+        "directionUrl": "https://maps.app.goo.gl/dMoWhMsEEzvVDUUFA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.42341872171345, 38.6114789330746]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Earthman Delivery (MRKHUUGUY LLC)",
+        "license": "C9-0000754-LIC",
+        "address1": "5360 South Watt Ave",
+        "address2": "Suite 110F",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95826",
+        "directionUrl": "https://maps.app.goo.gl/eEQzndsuDu4mtFHx5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.37112854232821, 38.527614572012176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Mainstage Sacramento (Greenstone Biomass Research LLC)",
+        "license": "C10-0000574-LIC",
+        "address1": "2320 Broadway",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95818",
+        "directionUrl": "https://maps.app.goo.gl/FjNB7ZhCHXy9hGBF8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.48249706404167, 38.55884445464493]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Pocket Dispensary (Mind Inc.)",
+        "license": "C10-0001156-LIC",
+        "address1": "1195 Florin Rd",
+        "address2": "Suite 5 & 6",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95831",
+        "directionUrl": "https://maps.app.goo.gl/tuvHcju7GPd71Sdh7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.51261967116409, 38.496252644561146]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Zen Garden South Sac (Sacramento King Equity Ventures LLC)",
+        "license": "C10-0001046-LIC",
+        "address1": "7909 Bruceville Rd",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95823",
+        "directionUrl": "https://maps.app.goo.gl/Cp1X5nWB3mBm6kGN8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.42575862569859, 38.4714335978959]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "CA Collective (NTZ Inc)",
+        "license": "C10-0000255-LIC",
+        "address1": "210 Phelan Ave",
+        "address2": "",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95112",
+        "directionUrl": "https://maps.app.goo.gl/DeWP9zfTsdJSCC4j6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.86689384898068, 37.31238110214577]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Exotix San Jose (Lucrum Enterprises, Inc.)",
+        "license": "C12-0000138-LIC",
+        "address1": "1859 Little Orchard St",
+        "address2": "",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95125",
+        "directionUrl": "https://maps.app.goo.gl/adibJZ8huX1u8AsA6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.87229664869807, 37.304673607758225]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Purple Lotus Patient Center Downtown (VMK Inc)",
+        "license": "C10-0001440-LIC",
+        "address1": "66 West Santa Clara St",
+        "address2": "",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95113",
+        "directionUrl": "https://maps.app.goo.gl/j82PHZjEEQgzDRLG9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.8913300352058, 37.3356331]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Purple Lotus Retail (VMK Inc)",
+        "license": "C10-0000241-LIC",
+        "address1": "752 Commercial St",
+        "address2": "",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95112",
+        "directionUrl": "https://maps.app.goo.gl/jUAfAZ4NKQMpBLH49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.89032309472883, 37.36519318797823]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Cake House San Jose (Bundy Canyon LLC)",
+        "license": "C10-0001576-LIC",
+        "address1": "1075 N 10 St",
+        "address2": "",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95112",
+        "directionUrl": "https://maps.app.goo.gl/NSSpcgGmeHQ8sGbg9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.89696144869805, 37.3617536004572]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Purple Star MD (Purple Star MD Collective)",
+        "license": "C10-0000133-LIC",
+        "address1": "2520 Mission St",
+        "address2": "",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94110",
+        "directionUrl": "https://maps.app.goo.gl/X5DKmMoYCwQvXK28A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.41907292171346, 37.75675385375589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Burke Group (The Burke Group)",
+        "license": "C11-0000990-LIC",
+        "address1": "1500 Burke Ave",
+        "address2": "Ste A",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94124",
+        "directionUrl": "https://maps.app.goo.gl/3in6nrm9UBrSRkjp9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.38472535026673, 37.74425446085285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Green Door (MRNH)",
+        "license": "C12-0000590-LIC",
+        "address1": "843 Howard St",
+        "address2": "",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94103",
+        "directionUrl": "https://maps.app.goo.gl/FabVUmXjcZbAo1ba6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.40355373705701, 37.78244859197021]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Santa Ana (HNHPC Inc)",
+        "license": "C10-0000230-LIC",
+        "address1": "2400 Pullman St",
+        "address2": "Suite A",
+        "city": "Santa Ana",
+        "state": "CA",
+        "zip": "92705",
+        "directionUrl": "https://maps.app.goo.gl/XVRw9VK1PW9qKHoaA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.84433627753398, 33.71519485961006]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Evergreen (STPC Enterprises Inc)",
+        "license": "C10-0000363-LIC",
+        "address1": "1320 Edinger Ave E",
+        "address2": "",
+        "city": "Santa Ana",
+        "state": "CA",
+        "zip": "92705",
+        "directionUrl": "https://maps.app.goo.gl/QpGYogmp1Q986T1S9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.85267403705701, 33.726585562907594]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "JadeRoom Santa Ana (The 10 Spot Inc)",
+        "license": "C10-0000400-LIC",
+        "address1": "2700 S Shannon St",
+        "address2": "",
+        "city": "Santa Ana",
+        "state": "CA",
+        "zip": "92704",
+        "directionUrl": "https://maps.app.goo.gl/j1X4eNmGMddLCA5t7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.92300970822114, 33.711311148359805]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Purplez (Russell Ave Corp.)",
+        "license": "C10-0001578-LIC",
+        "address1": "817 Russell Ave",
+        "address2": "Suite C",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "zip": "95403",
+        "directionUrl": "https://maps.app.goo.gl/NZP5eKRm2VpJTfrF9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.73065643520577, 38.469638100152125]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Cake House Santa Rosa (Stony Point Wellness)",
+        "license": "C10-0001322-LIC",
+        "address1": "411 Stony Point Rd",
+        "address2": "",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "zip": "95401",
+        "directionUrl": "https://maps.app.goo.gl/wd9eTzuRNPtPFicf9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.74242229472883, 38.432135352623334]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Outpost (JVA Global Supplies LLC)",
+        "license": "C10-0000799-LIC",
+        "address1": "335 Ohair Ct",
+        "address2": "",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "zip": "95407",
+        "directionUrl": "https://maps.app.goo.gl/zcwJLLESkDasj6Eu9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.72520907753396, 38.404336776189076]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Antioch",
+        "license": "C10-0001618-LIC",
+        "address1": "2625 Crow Court",
+        "address2": "",
+        "city": "Antioch",
+        "state": "CA",
+        "zip": "94509",
+        "directionUrl": "https://maps.app.goo.gl/zJGRBBV2UTECP1xZ7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.84155199102628, 38.009882546275804]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Higher Ground Baldwin Park [RD X CATALYST BALDWIN PARK LLC]",
+        "license": "C10-0001441-LIC",
+        "address1": "13467 Dalewood St",
+        "address2": "",
+        "city": "Baldwin Park",
+        "state": "CA",
+        "zip": "91706",
+        "directionUrl": "https://maps.app.goo.gl/h6XncWChBrfTNGb8A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.98185467157369, 34.067265505651626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Bellflower",
+        "license": "C10-0001340-LIC",
+        "address1": "9032 Artesia Blvd Ste 201",
+        "address2": "Building B",
+        "city": "Bellflower",
+        "state": "CA",
+        "zip": "90706",
+        "directionUrl": "https://maps.app.goo.gl/GesSYpdp4HcXm8nb8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.14158047157368, 33.87488160103631]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Distro Depot",
+        "license": "C11-0002033-LIC",
+        "address1": "36650 Sunair Plaza",
+        "address2": "",
+        "city": "Cathedral City",
+        "state": "CA",
+        "zip": "92234",
+        "directionUrl": "https://maps.app.goo.gl/EBDcJ3566RiWvyU56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.467955452118, 33.78255369445353]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Caliwee Delivery",
+        "license": "C9-0000034-LIC",
+        "address1": "5855 Green Valley Cir",
+        "address2": "Suite 105",
+        "city": "Culver City",
+        "state": "CA",
+        "zip": "90230",
+        "directionUrl": "https://maps.app.goo.gl/4EUpSQygTiPeRB1N6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.38860248465643, 33.98371016959159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "We Roll Up Culver City",
+        "license": "C10-0001365-LIC",
+        "address1": "11834 Jefferson Blvd",
+        "address2": "",
+        "city": "Culver City",
+        "state": "CA",
+        "zip": "90230",
+        "directionUrl": "https://maps.app.goo.gl/YMso2cqkTsYfWxPv5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.40205764432632, 33.98550874221304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Daly City",
+        "license": "C10-0001231-LIC",
+        "address1": "1000 King Dr",
+        "address2": "",
+        "city": "Daly City",
+        "state": "CA",
+        "zip": "94015",
+        "directionUrl": "https://maps.app.goo.gl/6niNDCDFo9buhNmb6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.46961202742521, 37.650514090745574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannaco Delivery",
+        "license": "C12-0000343-LIC",
+        "address1": "15872 Little Morongo Rd",
+        "address2": "Suite 100 & 101",
+        "city": "Desert Hot Springs",
+        "state": "CA",
+        "zip": "92240",
+        "directionUrl": "https://maps.app.goo.gl/DC4dd41zxLSppATg8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.52528609257482, 33.93276874401793]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst El Monte",
+        "license": "C10-0000885-LIC",
+        "address1": "12154 Valley Blvd",
+        "address2": "",
+        "city": "El Monte",
+        "state": "CA",
+        "zip": "91732",
+        "directionUrl": "https://maps.app.goo.gl/mJEtSgUcGBhe4SaM6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.01512499610533, 34.06139005797547]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Goat Global",
+        "license": "C10-0001614-LIC",
+        "address1": "1672 Myrtle Ave",
+        "address2": "",
+        "city": "Eureka",
+        "state": "CA",
+        "zip": "95501",
+        "directionUrl": "https://maps.app.goo.gl/NQTEYUxZZpUR8ri9A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -124.13601214272464, 40.794122378241504]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Bright Spot",
+        "license": "C10-0000961-LIC",
+        "address1": "1990 Walters Ct",
+        "address2": "",
+        "city": "Fairfield",
+        "state": "CA",
+        "zip": "94533",
+        "directionUrl": "https://maps.app.goo.gl/4WyhpE4aTFniiT1ZA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-121.98969827955678, 38.27050906040938]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Showcase",
+        "license": "C10-0001246-LIC",
+        "address1": "101 Grobric Ct",
+        "address2": "",
+        "city": "Fairfield",
+        "state": "CA",
+        "zip": "94534",
+        "directionUrl": "https://maps.app.goo.gl/ZEQkPtMs5KXmqQYz7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.13621717955681, 38.21660122076086]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Hawthorne",
+        "license": "C10-0001427-LIC",
+        "address1": "14115 Crenshaw Blvd",
+        "address2": "",
+        "city": "Hawthorne",
+        "state": "CA",
+        "zip": "90250",
+        "directionUrl": "https://maps.app.goo.gl/CpeJ5s9AsJCjH3DQ9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3270846600693, 33.90301419227668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Dr. Greenthumb's La Mesa",
+        "license": "C10-0000422-LIC",
+        "address1": "8760 Campo Road",
+        "address2": "",
+        "city": "La Mesa",
+        "state": "CA",
+        "zip": "91941",
+        "directionUrl": "https://maps.app.goo.gl/DhAjfCxZn8yPV41u5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.00894404290561, 32.75337142633836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Cherry",
+        "license": "C10-0000525-LIC",
+        "address1": "3170 Cherry Ave",
+        "address2": "",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip": "90806",
+        "directionUrl": "https://maps.app.goo.gl/TBvFU4Bgq3F9XXTZA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.16661569305123, 33.81518005185605]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Pine",
+        "license": "C10-0000801-LIC",
+        "address1": "433 Pine Ave",
+        "address2": "Unit 500",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip": "90802",
+        "directionUrl": "https://maps.app.goo.gl/A6pPhfn5M9XvNc9m9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.19277250839197, 33.77251225303821]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Lynwood",
+        "license": "C10-0001428-LIC",
+        "address1": "5110 E Imperial Hwy",
+        "address2": "",
+        "city": "Lynwood",
+        "state": "CA",
+        "zip": "90262",
+        "directionUrl": "https://maps.app.goo.gl/VVEf7rRuthzKoLc7A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.18282157116481, 33.93067377333173]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Higher Ground Lynwood",
+        "license": "C10-0001420-LIC",
+        "address1": "11510 Alameda St",
+        "address2": "",
+        "city": "Lynwood",
+        "state": "CA",
+        "zip": "90262",
+        "directionUrl": "https://maps.app.goo.gl/Xn4HmZnfVhsXHvUZ9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.22512658585562, 33.93067151813415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Velvet Cannabis Martinez",
+        "license": "C10-0000667-LIC",
+        "address1": "4808 Sunrise Dr",
+        "address2": "Suite A",
+        "city": "Martinez",
+        "state": "CA",
+        "zip": "94553",
+        "directionUrl": "https://maps.app.goo.gl/4qanGpsRPyDizqdu6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.08176372883591, 38.000649715556484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "CV Distro",
+        "license": "C11-0001957-LIC",
+        "address1": "4213 McHenry Ave",
+        "address2": "",
+        "city": "Modesto",
+        "state": "CA",
+        "zip": "95356",
+        "directionUrl": "https://maps.app.goo.gl/ZJXwCR4nqpgcGGp9A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ -120.99505714423643, 37.70067911571444]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Kush Alley Retail",
+        "license": "C10-0000093-LIC",
+        "address1": "16733 Schoenborn St",
+        "address2": "",
+        "city": "North Hills",
+        "state": "CA",
+        "zip": "91343",
+        "directionUrl": "https://maps.app.goo.gl/Kk3LQ1cKK12zEbWJ9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.49778677753399, 34.222900960516874]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Swish Cannabis [VALLEY OPPORTUNITIES LLC]",
+        "license": "C10-0000976-LIC",
+        "address1": "10701 Burbank Blvd W",
+        "address2": "",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip": "91601",
+        "directionUrl": "https://maps.app.goo.gl/ZJZfDjWRHw5qRaec7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.36390093520576, 34.17263614145538]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Ounce [NEWCORP ACQUISITION LLC]",
+        "license": "C10-0001218-LIC",
+        "address1": "11032 Magnolia Blvd",
+        "address2": "",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip": "91601",
+        "directionUrl": "https://maps.app.goo.gl/CM33UkKPt3rsNsLv6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.37171131349233, 34.16479662785047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fast Flavors [KWIKI BUD LLC]",
+        "license": "C9-0000431-LIC",
+        "address1": "414 Lesser St",
+        "address2": "Suite 309",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94601",
+        "directionUrl": "https://maps.app.goo.gl/G66RNGJCVzRdeGr98"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.22034797301536, 37.763168523717155]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Kanna [KANNA INC]",
+        "license": "C10-0000419-LIC",
+        "address1": "2019 Macarthur Blvd",
+        "address2": "",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94602",
+        "directionUrl": "https://maps.app.goo.gl/BejPVedRzhGxNcog6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.21826835240057, 37.80089219229614]
+      }
+    },
+    {
+
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Palm Desert",
+        "license": "C10-0000937-LIC",
+        "address1": "39420 Berkey Dr",
+        "address2": "",
+        "city": "Palm Desert",
+        "state": "CA",
+        "zip": "92211",
+        "directionUrl": "https://maps.app.goo.gl/VMx1GjB3pJ66yKhz5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-116.30321139472882, 33.762512332855835]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Pomona",
+        "license": "C10-0001405-LIC",
+        "address1": "1958 S Garey Ave",
+        "address2": "",
+        "city": "Pomona",
+        "state": "CA",
+        "zip": "91766",
+        "directionUrl": "https://maps.app.goo.gl/ViqA3GkAa2pmoYrS7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.74246193520578, 34.062398380736326]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Higher Ground San Bernardino",
+        "license": "C10-0001021-LIC",
+        "address1": "240 Redlands Blvd E",
+        "address2": "",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92408",
+        "directionUrl": "https://maps.app.goo.gl/AvoTfby3WX9ee72JA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.28080765240058, 34.06350873142659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Buzz Cannabis Mission Valley",
+        "license": "C10-0001094-LIC",
+        "address1": "2605 Camino Del Rio S",
+        "address2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92108",
+        "directionUrl": "https://maps.app.goo.gl/kfqY4s4afeMjfD6g9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.13655723919088, 32.76914630732558]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bonafide",
+        "license": "C10-0001283-LIC",
+        "address1": "7570 San Fernando Rd",
+        "address2": "",
+        "city": "Sun Valley",
+        "state": "CA",
+        "zip": "91352",
+        "directionUrl": "https://maps.app.goo.gl/hBGXxPbnRp8UzdRM6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.35351205054936, 34.20940129049584]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vallejo Relief Center",
+        "license": "C11-0001480-LIC",
+        "address1": "315 Henry St",
+        "address2": "",
+        "city": "Vallejo",
+        "state": "CA",
+        "zip": "94591",
+        "directionUrl": "https://maps.app.goo.gl/kLZcMnob7ou19R4XA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-122.2278430878572, 38.11194008899737]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Cake House Vista",
+        "license": "C10-0000769-LIC",
+        "address1": "1275 S Santa Fe Ave",
+        "address2": "Suite 103",
+        "city": "Vista",
+        "state": "CA",
+        "zip": "92083",
+        "directionUrl": "https://maps.app.goo.gl/cQzJF6jzwmMbS8eD7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.22573047938523, 33.18759418497108]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Nature's Story",
+        "license": "C10-0001023-LIC",
+        "address1": "6455 Topanga Canyon Blvd N",
+        "address2": "",
+        "city": "Woodland Hills",
+        "state": "CA",
+        "zip": "91303",
+        "directionUrl": "https://maps.app.goo.gl/GCQhfXCyEMfZBi8h9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.60615414432186, 34.18823869541415]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Vault Woodland Hills",
+        "license": "C10-0000458-LIC",
+        "address1": "22815 Ventura Blvd",
+        "address2": "Unit 291",
+        "city": "Woodland Hills",
+        "state": "CA",
+        "zip": "91364",
+        "directionUrl": "https://maps.app.goo.gl/vsgy129E9ZvXxkcv8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.6238891154863, 34.16623667632304]
+      }
+    }
+  ]
+}
