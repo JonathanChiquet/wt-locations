@@ -1008,7 +1008,7 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "N.Miami",
+        "retailer": "The Flowery Dispensary Miami",
         "license": "",
         "address1": "11900 Biscayne Blvd",
         "address2": "Suite 108",
@@ -1020,6 +1020,244 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-80.16511369051301, 25.88612189339028]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Inverness",
+        "license": "",
+        "address1": "3129 E Gulf to Lake Hwy",
+        "address2": "",
+        "city": "Inverness",
+        "state": "FL",
+        "zip": "34453",
+        "directionUrl": "https://maps.app.goo.gl/kZ5Ftrn2nEzBVgfd8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.38226026157281, 28.852335350292304]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Dispensary Clearwater",
+        "license": "",
+        "address1": "1201 N Highland Ave",
+        "address2": "",
+        "city": "Clearwater",
+        "state": "FL",
+        "zip": "33755",
+        "directionUrl": "https://maps.app.goo.gl/C2993mA2qTsTKzty8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.77511291742569, 27.978228636714483]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Jacksonville",
+        "license": "",
+        "address1": "8669 Baymeadows Rd",
+        "address2": "",
+        "city": "Jacksonville",
+        "state": "FL",
+        "zip": "32256",
+        "directionUrl": "https://maps.app.goo.gl/2hnmUVJ7faGtUCxa8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.57778653083484, 30.22135432869535]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Dispensary Ocala",
+        "license": "",
+        "address1": "1704 S Pine Ave",
+        "address2": "",
+        "city": "Ocala",
+        "state": "FL",
+        "zip": "34471",
+        "directionUrl": "https://maps.app.goo.gl/Sj4pKiqNPUoPWhJm9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.14022341738203, 29.170814526023698] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Dispensary Port Orange",
+        "license": "",
+        "address1": "3790 S Nova Rd",
+        "address2": "",
+        "city": "Port Orange",
+        "state": "FL",
+        "zip": "32129",
+        "directionUrl": "https://maps.app.goo.gl/2qn5gogne86VFuDy8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.0067139750551, 29.129912357426818]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Dispensary Tallahassee",
+        "license": "",
+        "address1": "1968 W Tennessee St",
+        "address2": "",
+        "city": "Tallahassee",
+        "state": "FL",
+        "zip": "32304",
+        "directionUrl": "https://maps.app.goo.gl/Hm8Ht1wj699XRk7k9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.31683714616918, 30.449509333630346]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Venice",
+        "license": "",
+        "address1": "1763 Tamiami Trl",
+        "address2": "",
+        "city": "Venice",
+        "state": "FL",
+        "zip": "34293",
+        "directionUrl": "https://maps.app.goo.gl/V8N9SuFH6LzKhw6E7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.4207171732789, 27.069392285359122] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Dispensary Hollywood",
+        "license": "",
+        "address1": "1113 S 30th Ave",
+        "address2": "",
+        "city": "Hollywood",
+        "state": "FL",
+        "zip": "33020",
+        "directionUrl": "https://maps.app.goo.gl/nNV1gGyvrpnRuVCw8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.16716737516595, 26.001110027934047]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery West Palm Beach",
+        "license": "",
+        "address1": "5613 Okeechobee Blvd",
+        "address2": "",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "zip": "33417",
+        "directionUrl": "https://maps.app.goo.gl/W1ic39s7azgQUXg48"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.12961443096297, 26.70818538859352]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Orlando",
+        "license": "",
+        "address1": "8586 Orange Blossom Trl",
+        "address2": "",
+        "city": "Orlando",
+        "state": "FL",
+        "zip": "32809",
+        "directionUrl": "https://maps.app.goo.gl/J27zzCuEf3Hz2KvB8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.40445816343843, 28.440307407243136]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Dispensary Fort Myers",
+        "license": "",
+        "address1": "11620 S Cleveland Ave",
+        "address2": "",
+        "city": "Fort Myers",
+        "state": "FL",
+        "zip": "33907",
+        "directionUrl": "https://maps.app.goo.gl/geS8aKb94Ki4YCA79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.87250180398242, 26.571036318352636]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Melbourne",
+        "license": "",
+        "address1": "1755 Palm Bay Rd NE",
+        "address2": "",
+        "city": "Palm Bay",
+        "state": "FL",
+        "zip": "32905",
+        "directionUrl": "https://maps.app.goo.gl/MimzZrjPWjTn9oqV9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.61943133091629, 28.035894338082212] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery",
+        "license": "",
+        "address1": "7985 S US Hwy 17 92",
+        "address2": "",
+        "city": "Fern Park",
+        "state": "FL",
+        "zip": "32730",
+        "directionUrl": "https://maps.app.goo.gl/ciguhCj5QELdRoSr8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.34869291740122, 28.651387673986267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Dispensary Orange Park",
+        "license": "",
+        "address1": "491 Blanding Blvd",
+        "address2": "",
+        "city": "Orange Park",
+        "state": "FL",
+        "zip": "32073",
+        "directionUrl": "https://maps.app.goo.gl/uJZw3FqTn24FqV6G6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-81.74683450570255, 30.158042268968337]
       }
     }
   ]
