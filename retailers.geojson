@@ -1004,6 +1004,23 @@
         "type": "Point",
         "coordinates": [-118.6238891154863, 34.16623667632304]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "N.Miami",
+        "license": "",
+        "address1": "11900 Biscayne Blvd",
+        "address2": "Suite 108",
+        "city": "Miami",
+        "state": "FL",
+        "zip": "33181",
+        "directionUrl": "https://maps.app.goo.gl/Uu5UUsHRZHSvnpEd9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.16511369051301, 25.88612189339028]
+      }
     }
   ]
 }
