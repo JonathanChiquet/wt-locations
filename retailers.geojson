@@ -1259,6 +1259,516 @@
         "type": "Point",
         "coordinates": [-81.74683450570255, 30.158042268968337]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannabist Tempe",
+        "license": "",
+        "address1": "520 S Price Rd",
+        "address2": "Ste 1 & 2",
+        "city": "Tempe",
+        "state": "AZ",
+        "zip": "85288",
+        "directionUrl": "https://maps.app.goo.gl/EbfmjCgTUy5mxK1u6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.89168290263463, 33.42554923384666]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Copperstate Distribution",
+        "license": "",
+        "address1": "2424 W University Dr",
+        "address2": "",
+        "city": "Tempe",
+        "state": "AZ",
+        "zip": "85281",
+        "directionUrl": "https://maps.app.goo.gl/ixNsjfCT8JmCAk8q6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.97497853282283, 33.422553154201104]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Zen Leaf Mesa",
+        "license": "",
+        "address1": "550 W McKellips Rd",
+        "address2": "Bldg 1",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85201",
+        "directionUrl": "https://maps.app.goo.gl/WRd4dTHcV4zGp2Yy7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.84321672911165, 33.45181570883229]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Zen Leaf Dunlap",
+        "license": "",
+        "address1": "4244 W Dunlap Ave",
+        "address2": "Ste 1",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85051",
+        "directionUrl": "https://maps.app.goo.gl/PpEjKZpMVg8hx3av9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.150820406954, 33.56797174018753]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "GreenPharms Mesa",
+        "license": "",
+        "address1": "7235 E Hampton Ave",
+        "address2": "Unit 115",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85209",
+        "directionUrl": "https://maps.app.goo.gl/cq3YFeFq5LxjJghh8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6766504004682, 33.388359194675836]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis McDowell",
+        "license": "",
+        "address1": "2439 W McDowell Rd",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85009",
+        "directionUrl": "https://maps.app.goo.gl/ZixMsdZD94azfnL79"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.11238645443717, 33.46573318191177] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Yuma Dispensary",
+        "license": "",
+        "address1": "4104 E 32nd St",
+        "address2": "",
+        "city": "Yuma",
+        "state": "AZ",
+        "zip": "85365",
+        "directionUrl": "https://maps.app.goo.gl/8Q5sn7b1wR5voBWTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.5625539283401, 32.67050971729671]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cookies Cannabis Tempe",
+        "license": "",
+        "address1": "2715 South Hardy Drive",
+        "address2": "",
+        "city": "Tempe",
+        "state": "AZ",
+        "zip": "85282",
+        "directionUrl": "https://maps.app.goo.gl/anGubr2wksWobFGP8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.95173648950681, 33.39978100271781]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Backpack Boyz",
+        "license": "",
+        "address1": "2 North 35th Avenue",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85009",
+        "directionUrl": "https://maps.app.goo.gl/fnzeGsnZ55UQreHC9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.13493896976901, 33.448409436235266] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Zen Leaf Arcadia",
+        "license": "",
+        "address1": "2710 E Indian School Rd",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85016",
+        "directionUrl": "https://maps.app.goo.gl/JyM728a5F8mufAuA8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.02297805812698, 33.495569862189356]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Ponderosa Dispensary Mesa",
+        "license": "",
+        "address1": "5550 E McDowell Rd",
+        "address2": "",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85215",
+        "directionUrl": "https://maps.app.goo.gl/ohgqcJcBdraUUD937"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.7113289047163, 33.49197229919212] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Deeply Rooted Boutique",
+        "license": "",
+        "address1": "11725 NW Grand Ave",
+        "address2": "",
+        "city": "El Mirage",
+        "state": "AZ",
+        "zip": "85335",
+        "directionUrl": "https://maps.app.goo.gl/s9GeRECwQL3fKB7W8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.31407694648342, 33.60962829075379]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "truBLISS Organics",
+        "license": "",
+        "address1": "6844 East Parkway Norte",
+        "address2": "",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85212",
+        "directionUrl": "https://maps.app.goo.gl/FJ8F1SG1kqS4NSYz6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.68573646068047, 33.33936065880272]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis Dunlap",
+        "license": "",
+        "address1": "701 E. Dunlap Ave",
+        "address2": "Suite 9",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85020",
+        "directionUrl": "https://maps.app.goo.gl/z5myS6qqfazAWDFMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.06438908696148, 33.56769819678632] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis Tolleson",
+        "license": "",
+        "address1": "9897 W McDowell Rd",
+        "address2": "#720",
+        "city": "Tolleson",
+        "state": "AZ",
+        "zip": "85353",
+        "directionUrl": "https://maps.app.goo.gl/bW55rhaxB49oQ3wN9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.27144894346604, 33.46332541170249]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sticky Saguaro",
+        "license": "",
+        "address1": "12338 E Riggs Rd",
+        "address2": "",
+        "city": "Chandler",
+        "state": "AZ",
+        "zip": "85249",
+        "directionUrl": "https://maps.app.goo.gl/CS1HVPz4tnqdQdV4A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8160401329993, 33.21967435274316]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Phoenix Cannabis Co.",
+        "license": "",
+        "address1": "16913 East Enterprise Drive",
+        "address2": "",
+        "city": "Fountain Hills",
+        "state": "AZ",
+        "zip": "85268",
+        "directionUrl": "https://maps.app.goo.gl/7mY3rdecrLhXHiQm9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.71494055812494, 33.596495436127995]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis South Chandler",
+        "license": "",
+        "address1": "26427 S Arizona Ave",
+        "address2": "",
+        "city": "Chandler",
+        "state": "AZ",
+        "zip": "85248",
+        "directionUrl": "https://maps.app.goo.gl/UuZ5ZvWXuwHoxBe57"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.8407410435069, 33.20591302815314]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis Bell Glendale",
+        "license": "",
+        "address1": "6676 W Bell Rd",
+        "address2": "",
+        "city": "Glendale",
+        "state": "AZ",
+        "zip": "85308",
+        "directionUrl": "https://maps.app.goo.gl/NhPmavNH6Pg5fRgC9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.20228181949828, 33.638707663605274]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis Grand Glendale",
+        "license": "",
+        "address1": "6840 Grand Ave",
+        "address2": "",
+        "city": "Glendale",
+        "state": "AZ",
+        "zip": "85301",
+        "directionUrl": "https://maps.app.goo.gl/3u7JjYBdD51ghnhZ9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.20549617532049, 33.556146208096315]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis Litchfield Park",
+        "license": "",
+        "address1": "12323 W Camelback Rd",
+        "address2": "",
+        "city": "Litchfield Park",
+        "state": "AZ",
+        "zip": "85340",
+        "directionUrl": "https://maps.app.goo.gl/gsuBjKPJq8ScBKbH6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.32478605510016, 33.5071651309725]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis Lake Havasu",
+        "license": "",
+        "address1": "200 London Bridge Road",
+        "address2": "",
+        "city": "Lake Havasu City",
+        "state": "AZ",
+        "zip": "86403",
+        "directionUrl": "https://maps.app.goo.gl/DhNtDAMAd3DnoFPj6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.35027252926997, 34.47717248237153]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis Midtown Phoenix",
+        "license": "",
+        "address1": "3830 North 7th Street",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85014",
+        "directionUrl": "https://maps.app.goo.gl/gHPVqyXKnzz5PqXe9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.06542867347082, 33.49248296373183]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis North Chandler",
+        "license": "",
+        "address1": "17006 S Weber Dr",
+        "address2": "",
+        "city": "Chandler",
+        "state": "AZ",
+        "zip": "85226",
+        "directionUrl": "https://maps.app.goo.gl/BqmYnbQKfPhUUKes6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.97038878396998, 33.292900520927944]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Zen Leaf Gilbert",
+        "license": "",
+        "address1": "5409 S Power Rd",
+        "address2": "",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85212",
+        "directionUrl": "https://maps.app.goo.gl/f9eoVpUu4ik2BeWf7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.6859141832641, 33.31803647366439] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Story Cannabis Bullhead City",
+        "license": "",
+        "address1": "3550 North Lane #110",
+        "address2": "",
+        "city": "Bullhead City",
+        "state": "AZ",
+        "zip": "86442",
+        "directionUrl": "https://maps.app.goo.gl/hKCKEzVBDRArtpXm8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-114.586889885078, 35.05278879258946]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Health for Life Crismon",
+        "license": "",
+        "address1": "9949 E Apache Trail",
+        "address2": "",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85207",
+        "directionUrl": "https://maps.app.goo.gl/iFeGbbmL5b1AtXtHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.61524030469322, 33.4149079153778]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Zen Leaf Chandler",
+        "license": "",
+        "address1": "7200 W Chandler Blvd",
+        "address2": "",
+        "city": "Chandler",
+        "state": "AZ",
+        "zip": "85226",
+        "directionUrl": "https://maps.app.goo.gl/oy2BMR3KL2SL4Yy46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.96603883908497, 33.30622403905909] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "SWC Prescott by Zen Leaf",
+        "license": "",
+        "address1": "123 E Merritt St",
+        "address2": "",
+        "city": "Prescott",
+        "state": "AZ",
+        "zip": "86301",
+        "directionUrl": "https://maps.app.goo.gl/UP4UDLbR5iS6gdKk9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.46890184831439, 34.554990302909154]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Zen Leaf Cave Creek",
+        "license": "",
+        "address1": "12401 N. Cave Creek Rd.",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85022",
+        "directionUrl": "https://maps.app.goo.gl/toJ3wt2YKEBuUHB56"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-112.03666385812475, 33.599055637263646]
+      }
     }
   ]
 }
