@@ -1769,6 +1769,516 @@
         "type": "Point",
         "coordinates": [-112.03666385812475, 33.599055637263646]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Dispensaries Allentown",
+        "license": "",
+        "address1": "3025 Tilghman St",
+        "address2": "",
+        "city": "Allentown",
+        "state": "PA",
+        "zip": "18104",
+        "directionUrl": "https://maps.app.goo.gl/tDj6x7neikfjBfE68"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.52536570029979, 40.5989181875157]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Dispensaries Doylestown",
+        "license": "",
+        "address1": "812 N Easton Rd STE 6",
+        "address2": "",
+        "city": "Doylestown",
+        "state": "PA",
+        "zip": "18902",
+        "directionUrl": "https://maps.app.goo.gl/sWxmF4kp72NvsFbL7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.12980598681395, 40.33284419287355]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Dispensaries Elkins Park",
+        "license": "",
+        "address1": "8003 Old York Rd",
+        "address2": "",
+        "city": "Elkins Park",
+        "state": "PA",
+        "zip": "19027",
+        "directionUrl": "https://maps.app.goo.gl/VkuDM2H8CLSDXubj9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.128387444492125, 40.07553891659756]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Dispensaries Fishtown",
+        "license": "",
+        "address1": "957 Frankford Ave",
+        "address2": "",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19125",
+        "directionUrl": "https://maps.app.goo.gl/Ei63pf97TRksnAAZ9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.13412240031599, 39.96577122938764]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Dispensaries Lancaster",
+        "license": "",
+        "address1": "5471 Main St",
+        "address2": "",
+        "city": "East Petersburg",
+        "state": "PA",
+        "zip": "17520",
+        "directionUrl": "https://maps.app.goo.gl/mdpxqUm4ruYdxDzr6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.34943973099901, 40.09313808476422]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Dispensaries Pottstown",
+        "license": "",
+        "address1": "1450 E High St",
+        "address2": "",
+        "city": "Pottstown",
+        "state": "PA",
+        "zip": "19464",
+        "directionUrl": "https://maps.app.goo.gl/jVVdBeiWLgonk4Pr6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.61752815798054, 40.24332374438557]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Dispensaries Yeadon",
+        "license": "",
+        "address1": "735 Church Ln",
+        "address2": "",
+        "city": "Yeadon",
+        "state": "PA",
+        "zip": "19050",
+        "directionUrl": "https://maps.app.goo.gl/J8n8rJfTcz6BiWra7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.24977741565999, 39.933193246830626]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Maitri Pittsburgh",
+        "license": "",
+        "address1": "5845 Centre Ave",
+        "address2": "",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15206",
+        "directionUrl": "https://maps.app.goo.gl/GdSfQCxosESVNAnU8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.93047331749712, 40.45870191083441]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Maitri New Stanton",
+        "license": "",
+        "address1": "100 Bair Blvd",
+        "address2": "",
+        "city": "New Stanton",
+        "state": "PA",
+        "zip": "15672",
+        "directionUrl": "https://maps.app.goo.gl/Yhov5r69o3dAdSbW7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.61109068866749, 40.220314330991336]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Maitri Uniontown",
+        "license": "",
+        "address1": "27 W Main st",
+        "address2": "",
+        "city": "Uniontown",
+        "state": "PA",
+        "zip": "15401",
+        "directionUrl": "https://maps.app.goo.gl/xX1UX5ncXbhhksYt6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.72644691751123, 39.90092518528556]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hive Dispensary Williamsport",
+        "license": "",
+        "address1": "1490 High St",
+        "address2": "",
+        "city": "Williamsport",
+        "state": "PA",
+        "zip": "17701",
+        "directionUrl": "https://maps.app.goo.gl/snJurBYqwKnANtoR7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.0362995732979, 41.24471597670715]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hive Dispensary Shamokin Dam",
+        "license": "",
+        "address1": "2625 N Susquehanna Trail",
+        "address2": "",
+        "city": "Shamokin Dam",
+        "state": "PA",
+        "zip": "17876",
+        "directionUrl": "https://maps.app.goo.gl/HSSSCXRzBsevXfWt9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.82740287330829, 40.842732067547416]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hive Dispensary State College",
+        "license": "",
+        "address1": "1612 N Atherton St",
+        "address2": "",
+        "city": "State College",
+        "state": "PA",
+        "zip": "16803",
+        "directionUrl": "https://maps.app.goo.gl/AEwFSmf6cuykeW23A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.89331461563765, 40.80756510350947]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fluent Annville",
+        "license": "",
+        "address1": "1015 E Main st",
+        "address2": "",
+        "city": "Annville",
+        "state": "PA",
+        "zip": "17003",
+        "directionUrl": "https://maps.app.goo.gl/sd31jhQGECBzWW2t7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.49762610030659, 40.33343566393087]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fluent Hanover",
+        "license": "",
+        "address1": "648 Frederick St",
+        "address2": "",
+        "city": "Hanover",
+        "state": "PA",
+        "zip": "17331",
+        "directionUrl": "https://maps.app.goo.gl/oeLhhQSZWzUvCquT7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.99444746566344, 39.791002985772884]  
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fluent Mechanicsburg",
+        "license": "",
+        "address1": "6200 Carlisle Pike",
+        "address2": "",
+        "city": "Mechanicsburg",
+        "state": "PA",
+        "zip": "17050",
+        "directionUrl": "https://maps.app.goo.gl/jBFHtbPUp1wRQhfr9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.99554345612994, 40.24402000070769]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Local Leaf by PHG",
+        "license": "",
+        "address1": "109 Crossroads Rd",
+        "address2": "Suite 420",
+        "city": "Scottdale",
+        "state": "PA",
+        "zip": "15683",
+        "directionUrl": "https://maps.app.goo.gl/bkbKXmqPQ6uxeLa18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.55786528496967, 40.086969123313814]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Carlisle",
+        "license": "",
+        "address1": "1186 Harrisburg Pike",
+        "address2": "",
+        "city": "Carlisle",
+        "state": "PA",
+        "zip": "17013",
+        "directionUrl": "https://maps.app.goo.gl/KcFU7Ky8AiWhAUz9A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.14132892914493, 40.23329460273411]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Chambersburg",
+        "license": "",
+        "address1": "1640 Orchard Dr",
+        "address2": "",
+        "city": "Chambersburg",
+        "state": "PA",
+        "zip": "17201",
+        "directionUrl": "https://maps.app.goo.gl/f7QncdoeRgdi1XB77"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.66586048497415, 39.91311723140611]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Cranberry",
+        "license": "",
+        "address1": "20808 Rt 19",
+        "address2": "",
+        "city": "Cranberry Twp",
+        "state": "PA",
+        "zip": "16066",
+        "directionUrl": "https://maps.app.goo.gl/kaMhpYMGhDgu763a6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.1033554868042, 40.71483369603176]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Duncansville",
+        "license": "",
+        "address1": "370 Pound Ln",
+        "address2": "",
+        "city": "Duncansville",
+        "state": "PA",
+        "zip": "16635",
+        "directionUrl": "https://maps.app.goo.gl/ZDnS5HmQXCxC9UCy9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.4083004021541, 40.45030951517877]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Erie (Lake)",
+        "license": "",
+        "address1": "2108 W 8th St",
+        "address2": "",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16505",
+        "directionUrl": "https://maps.app.goo.gl/RHyEcLcTeFdwcofg9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.13054230026022, 42.11052684110394]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Erie (Peach)",
+        "license": "",
+        "address1": "1950 Rotunda Dr",
+        "address2": "",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16509",
+        "directionUrl": "https://maps.app.goo.gl/RMvTwpkcEzHLMRBK7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.08925183094796, 42.0595153181375]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Grove City",
+        "license": "",
+        "address1": "225 Westside Square Dr",
+        "address2": "Unit 109",
+        "city": "Mercer",
+        "state": "PA",
+        "zip": "16137",
+        "directionUrl": "https://maps.app.goo.gl/9hSnmxBX6CZpXwmZ7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.16093195795735, 41.14196570888678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Hermitage",
+        "license": "",
+        "address1": "2880 E State st",
+        "address2": "",
+        "city": "Hermitage",
+        "state": "PA",
+        "zip": "16148",
+        "directionUrl": "https://maps.app.goo.gl/3cGxmTvJeRjCXxrf8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.4569582333591, 41.233179824248055]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE King of Prussia",
+        "license": "",
+        "address1": "445a W Dekalb Pike",
+        "address2": "",
+        "city": "King of Prussia",
+        "state": "PA",
+        "zip": "19406",
+        "directionUrl": "https://maps.app.goo.gl/sKVbnRGyTTXpDKvv7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.3744780156559, 40.0905342422571]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Latrobe",
+        "license": "",
+        "address1": "117 Beatty County Rd",
+        "address2": "",
+        "city": "Latrobe",
+        "state": "PA",
+        "zip": "15650",
+        "directionUrl": "https://maps.app.goo.gl/zgEV4N7H65KQcSGD8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.43659186406983, 40.28711857435448]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Lebanon",
+        "license": "",
+        "address1": "1600 Cumberland St",
+        "address2": "",
+        "city": "Lebanon",
+        "state": "PA",
+        "zip": "17042",
+        "directionUrl": "https://maps.app.goo.gl/rJsgJBDamfjvtN5w5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.43971676776965, 40.33798546272639]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Meadville",
+        "license": "",
+        "address1": "18914 Park Avenue Plaza",
+        "address2": "",
+        "city": "Meadville",
+        "state": "PA",
+        "zip": "16335",
+        "directionUrl": "https://maps.app.goo.gl/rQR2JcaT88jSrKYS8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.16022738493002, 41.623234113352396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Mechanicsburg",
+        "license": "",
+        "address1": "5202 Simpson Ferry Rd #101",
+        "address2": "",
+        "city": "Mechanicsburg",
+        "state": "PA",
+        "zip": "17050",
+        "directionUrl": "https://maps.app.goo.gl/D22Pmuqyta5fRT139"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.9788386040233, 40.21775667371056] 
+      }
     }
   ]
 }
