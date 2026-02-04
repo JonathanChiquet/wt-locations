@@ -2279,6 +2279,244 @@
         "type": "Point",
         "coordinates": [-76.9788386040233, 40.21775667371056] 
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Monroeville",
+        "license": "",
+        "address1": "3841 William Penn Hwy",
+        "address2": "",
+        "city": "Monroeville",
+        "state": "PA",
+        "zip": "15146",
+        "directionUrl": "https://maps.app.goo.gl/NrE8PYC6nDj5zVVN9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.78213246406601, 40.437423716353834]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE New Castle",
+        "license": "",
+        "address1": "2622 W State St",
+        "address2": "",
+        "city": "New Castle",
+        "state": "PA",
+        "zip": "16101",
+        "directionUrl": "https://maps.app.goo.gl/GPYJ8QTZkUmUemSR7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.39944225055848, 41.01481826895285]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Philadelphia",
+        "license": "",
+        "address1": "3903 Aramingo Ave #101",
+        "address2": "",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19137",
+        "directionUrl": "https://maps.app.goo.gl/ACK2nwmMCpb1FLrm6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.08684820825613, 39.99796787093491] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Steelton",
+        "license": "",
+        "address1": "801 S Front St",
+        "address2": "",
+        "city": "Steelton",
+        "state": "PA",
+        "zip": "17113",
+        "directionUrl": "https://maps.app.goo.gl/mht5gLhrR5MjjDor8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.82697926222092, 40.2252204874555]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Warminster",
+        "license": "",
+        "address1": "435 York Rd",
+        "address2": "",
+        "city": "Warminster",
+        "state": "PA",
+        "zip": "18974",
+        "directionUrl": "https://maps.app.goo.gl/XKGRaaTuhQpZeuXH8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.09979131804258, 40.20199763180678]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE York",
+        "license": "",
+        "address1": "2139 White St",
+        "address2": "",
+        "city": "York",
+        "state": "PA",
+        "zip": "17404",
+        "directionUrl": "https://maps.app.goo.gl/c2RmW9GbyXFLZE9k9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-76.77433795058546, 39.961422352470095]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Aliquippa",
+        "license": "",
+        "address1": "2320 Sheffield Rd",
+        "address2": "",
+        "city": "Aliquippa",
+        "state": "PA",
+        "zip": "15001",
+        "directionUrl": "https://maps.app.goo.gl/iqBNQ8okceDPyQw46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.28218851988274, 40.60639463263282] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Bensalem",
+        "license": "",
+        "address1": "4201 Neshaminy Blvd",
+        "address2": "",
+        "city": "Bensalem",
+        "state": "PA",
+        "zip": "19020",
+        "directionUrl": "https://maps.app.goo.gl/SWESrYid6eraKVrLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.95035280455151, 40.13716039609169]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Cranberry Township",
+        "license": "",
+        "address1": "900 Commonwealth Dr",
+        "address2": "Suite 500",
+        "city": "Cranberry Twp",
+        "state": "PA",
+        "zip": "16066",
+        "directionUrl": "https://maps.app.goo.gl/RGVAvesuZWS9GkN6A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.11123020453758, 40.68352938507912]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Cranberry Norristown",
+        "license": "",
+        "address1": "2030 W Main St",
+        "address2": "Unit #11",
+        "city": "Norristown",
+        "state": "PA",
+        "zip": "19403",
+        "directionUrl": "https://maps.app.goo.gl/cdgjbmAuH7FAPn3G7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.37985361989489, 40.133290495825065]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Philadelphia",
+        "license": "",
+        "address1": "8900 Krewstown Rd",
+        "address2": "",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19115",
+        "directionUrl": "https://maps.app.goo.gl/oSxqALBJJuMJxSTZ8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.04922955852342, 40.08303688026097]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Pittsburgh",
+        "license": "",
+        "address1": "3105 W Liberty Ave",
+        "address2": "",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15216",
+        "directionUrl": "https://maps.app.goo.gl/JmV9HQ3xTPLA43oaA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.03834622967989, 40.39118855840545]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sunnyside Erie",
+        "license": "",
+        "address1": "7851 Peach St",
+        "address2": "",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16509",
+        "directionUrl": "https://maps.app.goo.gl/J9Fe2TZJat36MMZX7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-80.08166333703865, 42.051280537797396]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sunnyside Butler",
+        "license": "",
+        "address1": "201 Pillow St",
+        "address2": "",
+        "city": "Butler",
+        "state": "PA",
+        "zip": "16001",
+        "directionUrl": "https://maps.app.goo.gl/kw7YvUqiu8cavaDU9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-79.90537333336877, 40.86046809990694] 
+      }
     }
   ]
 }
