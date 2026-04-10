@@ -3401,40 +3401,6 @@
         "type": "Point",
         "coordinates": [-80.07658242324487, 42.06266534647698]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Fluent - Mechanicsburg",
-        "license": "",
-        "address1": "6200 Carlisle Pike",
-        "address2": "",
-        "city": "Mechanicsburg",
-        "state": "PA",
-        "zip": "17050",
-        "directionUrl": "https://maps.app.goo.gl/4bZ9QYDh7aTKXCp17"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.9954464119655, 40.24415509368439]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - Mechanicsburg",
-        "license": "",
-        "address1": "5202 Simpson Ferry Road",
-        "address2": "#101",
-        "city": "Mechanicsburg",
-        "state": "PA",
-        "zip": "17050",
-        "directionUrl": "https://maps.app.goo.gl/b8oxaA8R52r8JYq68"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.97909845984587, 40.21784722136821]
-      }
     }
   ]
 }
