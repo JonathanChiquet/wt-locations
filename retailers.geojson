@@ -3116,23 +3116,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Rise Pennsylvania - Carlisle",
-        "license": "",
-        "address1": "1186 Harrisburg Pike",
-        "address2": "",
-        "city": "Carlisle",
-        "state": "PA",
-        "zip": "17013",
-        "directionUrl": "https://maps.app.goo.gl/oQMRgPgex8SHEaJG9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.14146841546831, 40.233269957324836]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Ethos Pennsylvania - Pittsburgh North Fayette",
         "license": "",
         "address1": "470 Home Dr",
@@ -3145,23 +3128,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-80.1834016003179, 40.45120390614685]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - Warminster",
-        "license": "",
-        "address1": "435 York Rd",
-        "address2": "",
-        "city": "Warminster",
-        "state": "PA",
-        "zip": "18974",
-        "directionUrl": "https://maps.app.goo.gl/FRmRhz24LKCw4mNJ6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.10033848868196, 40.20197304860036]
       }
     },
     {
@@ -3201,40 +3167,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Rise Pennsylvania - King of Prussia",
-        "license": "",
-        "address1": "445a W Dekalb Pike",
-        "address2": "",
-        "city": "King of Prussia",
-        "state": "PA",
-        "zip": "19406",
-        "directionUrl": "https://maps.app.goo.gl/5qvQCiYfg3K2fw2t6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.37456384635637, 40.09061632078504]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - Monroeville",
-        "license": "",
-        "address1": "3841 William Penn Hwy",
-        "address2": "",
-        "city": "Monroeville",
-        "state": "PA",
-        "zip": "15146",
-        "directionUrl": "https://maps.app.goo.gl/pXXcScP4UjuGcyjUA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-79.78246505798985, 40.43730939399393]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Vytal Options - Kennett Square",
         "license": "",
         "address1": "716 W Baltimore Pike",
@@ -3247,23 +3179,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-75.72345304451217, 39.844603845288205] 
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - Philadelphia",
-        "license": "",
-        "address1": "3903 Aramingo Ave",
-        "address2": "#101",
-        "city": "Philadelphia",
-        "state": "PA",
-        "zip": "19137",
-        "directionUrl": "https://maps.app.goo.gl/hqgnV2t25GkbBZnR8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.08734518034501,  40.00666283370932]
       }
     },
     {
@@ -3298,108 +3213,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-77.89551491565165, 40.8108156138718]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - York",
-        "license": "",
-        "address1": "2139 White St",
-        "address2": "",
-        "city": "York",
-        "state": "PA",
-        "zip": "17404",
-        "directionUrl": "https://maps.app.goo.gl/D6gmfbN9dKk1qp7E8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.77435940827192, 39.961479916292134]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - Latrobe",
-        "license": "",
-        "address1": "117 Beatty County Rd",
-        "address2": "",
-        "city": "Latrobe",
-        "state": "PA",
-        "zip": "15650",
-        "directionUrl": "https://maps.app.goo.gl/S3FkB4SsHRmKHExf8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-79.43690791566523,  40.28699534444093]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - Chambersburg",
-        "license": "",
-        "address1": "1640 Orchard Dr",
-        "address2": "",
-        "city": "Chambersburg",
-        "state": "PA",
-        "zip": "17201",
-        "directionUrl": "https://maps.app.goo.gl/VfhidUm3EmTSDUo89"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-77.66598077519664, 39.91312236370392]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - Erie Lake",
-        "license": "",
-        "address1": "2108 W 8th St",
-        "address2": "",
-        "city": "Erie",
-        "state": "PA",
-        "zip": "16505",
-        "directionUrl": "https://maps.app.goo.gl/8QqtUcsfxafck9cR7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.13052874669054, 42.11132162955748]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - Steelton",
-        "license": "",
-        "address1": "801 S Front St",
-        "address2": "",
-        "city": "Steelton",
-        "state": "PA",
-        "zip": "17113",
-        "directionUrl": "https://maps.app.goo.gl/2qoKvR5V79yhg5oZ6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-76.827416402174, 40.225237628666335]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Rise Pennsylvania - Erie Peach",
-        "license": "",
-        "address1": "1950 Rotunda Dr",
-        "address2": "",
-        "city": "Erie",
-        "state": "PA",
-        "zip": "16509",
-        "directionUrl": "https://maps.app.goo.gl/khcrExvmRYRDBPWb6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-80.07658242324487, 42.06266534647698]
       }
     }
   ]
