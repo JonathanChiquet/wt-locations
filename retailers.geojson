@@ -1773,23 +1773,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Restore Dispensaries Allentown",
-        "license": "",
-        "address1": "3025 Tilghman St",
-        "address2": "",
-        "city": "Allentown",
-        "state": "PA",
-        "zip": "18104",
-        "directionUrl": "https://maps.app.goo.gl/tDj6x7neikfjBfE68"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.52536570029979, 40.5989181875157]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Restore Dispensaries Doylestown",
         "license": "",
         "address1": "812 N Easton Rd STE 6",
@@ -1807,40 +1790,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Restore Dispensaries Elkins Park",
-        "license": "",
-        "address1": "8003 Old York Rd",
-        "address2": "",
-        "city": "Elkins Park",
-        "state": "PA",
-        "zip": "19027",
-        "directionUrl": "https://maps.app.goo.gl/VkuDM2H8CLSDXubj9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.128387444492125, 40.07553891659756]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Restore Dispensaries Fishtown",
-        "license": "",
-        "address1": "957 Frankford Ave",
-        "address2": "",
-        "city": "Philadelphia",
-        "state": "PA",
-        "zip": "19125",
-        "directionUrl": "https://maps.app.goo.gl/Ei63pf97TRksnAAZ9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.13412240031599, 39.96577122938764]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Restore Dispensaries Lancaster",
         "license": "",
         "address1": "5471 Main St",
@@ -1853,40 +1802,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-76.34943973099901, 40.09313808476422]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Restore Dispensaries Pottstown",
-        "license": "",
-        "address1": "1450 E High St",
-        "address2": "",
-        "city": "Pottstown",
-        "state": "PA",
-        "zip": "19464",
-        "directionUrl": "https://maps.app.goo.gl/jVVdBeiWLgonk4Pr6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.61752815798054, 40.24332374438557]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Restore Dispensaries Yeadon",
-        "license": "",
-        "address1": "735 Church Ln",
-        "address2": "",
-        "city": "Yeadon",
-        "state": "PA",
-        "zip": "19050",
-        "directionUrl": "https://maps.app.goo.gl/J8n8rJfTcz6BiWra7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-75.24977741565999, 39.933193246830626]
       }
     },
     {
