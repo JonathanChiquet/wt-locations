@@ -3214,6 +3214,125 @@
         "type": "Point",
         "coordinates": [-77.89551491565165, 40.8108156138718]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Allentown",
+        "license": "",
+        "address1": "3025 Tilghman St",
+        "address2": "",
+        "city": "Allentown",
+        "state": "PA",
+        "zip": "18104",
+        "directionUrl": "https://maps.app.goo.gl/DqyiVfyRRFJP29oDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.52507602174825, 40.59890189505559]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Wilkes-Barre",
+        "license": "",
+        "address1": "765 Kidder St",
+        "address2": "",
+        "city": "Wilkes-Barre",
+        "state": "PA",
+        "zip": "18702",
+        "directionUrl": "https://maps.app.goo.gl/GPXePV62HHhZMLWm7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.84268833761429, 41.25009096586589]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Pottstown",
+        "license": "",
+        "address1": "1450 E High Street",
+        "address2": "",
+        "city": "Pottstown",
+        "state": "PA",
+        "zip": "19464",
+        "directionUrl": "https://maps.app.goo.gl/vrmwWduSFCddZdVW6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.61723847942892, 40.243430206548624]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Yeadon",
+        "license": "",
+        "address1": "735 Church Lane",
+        "address2": "",
+        "city": "Yeadon",
+        "state": "PA",
+        "zip": "19050",
+        "directionUrl": "https://maps.app.goo.gl/qA9ZtcaEnTPBsQK89"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.24951422361559, 39.93325030759815] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Scranton",
+        "license": "",
+        "address1": "1740 N Keyser Ave",
+        "address2": "",
+        "city": "Scranton",
+        "state": "PA",
+        "zip": "18508",
+        "directionUrl": "https://maps.app.goo.gl/mtydg982BWvKndXE9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.66820576035384, 41.4434885994542]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Philadelphia (Fishtown)",
+        "license": "",
+        "address1": "957 Frankford Ave",
+        "address2": "",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19125",
+        "directionUrl": "https://maps.app.goo.gl/iH4d5bX5FCNXof2D7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.13373357758562, 39.96569776812623]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Elkins Park",
+        "license": "",
+        "address1": "8003 Old York Rd",
+        "address2": "",
+        "city": "Elkins Park",
+        "state": "PA",
+        "zip": "19027",
+        "directionUrl": "https://maps.app.goo.gl/qkfDT97xqgnP5xsL9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.12788318922516, 40.07553070693147]
+      }
     }
   ]
 }
