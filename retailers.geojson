@@ -2997,23 +2997,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Wizard Trees",
-        "license": "",
-        "address1": "2501 E 25th St",
-        "address2": "",
-        "city": "Los Angeles",
-        "state": "CA",
-        "zip": "90058",
-        "directionUrl": "https://maps.app.goo.gl/8wjDE6zRbbAi7WVE9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.22775148650729, 34.01579792682851]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Zen Garden Sacramento",
         "license": "",
         "address1": "2201 Northgate Blvd",
