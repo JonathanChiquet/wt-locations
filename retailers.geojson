@@ -3503,23 +3503,6 @@
         "type": "Point",
         "coordinates": [-117.23164716054941, 33.19415472331407]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "StashCo",
-        "license": "",
-        "address1": "",
-        "address2": "",
-        "city": "Sacramento",
-        "state": "CA",
-        "zip": "95610",
-        "directionUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": []
-      }
     }
   ]
 }
