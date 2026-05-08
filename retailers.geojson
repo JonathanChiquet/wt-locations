@@ -38,23 +38,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Flora",
-        "license": "C10-0000530-LIC",
-        "address1": "8151 3rd St W",
-        "address2": "",
-        "city": "Los Angeles",
-        "state": "CA",
-        "zip": "90048",
-        "directionUrl": "https://maps.app.goo.gl/s3zrU14atvcBUWrq7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.3670307505636, 34.072609409008145]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Goat Global Westwood",
         "license": "C10-0000600-LIC",
         "address1": "2299 S Westwood Blvd",
@@ -67,23 +50,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-118.43078306590695, 34.04255873267134]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "SWED A Snoop Dogg Store",
-        "license": "C10-0000756-LIC",
-        "address1": "5494 W Centinela Ave",
-        "address2": "",
-        "city": "Los Angeles",
-        "state": "CA",
-        "zip": "90045",
-        "directionUrl": "https://maps.app.goo.gl/7guJDrkzP9ioKPUY8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.37626257754859, 33.97691486139813]
       }
     },
     {
@@ -872,23 +838,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Catalyst Pomona",
-        "license": "C10-0001405-LIC",
-        "address1": "1958 S Garey Ave",
-        "address2": "",
-        "city": "Pomona",
-        "state": "CA",
-        "zip": "91766",
-        "directionUrl": "https://maps.app.goo.gl/ViqA3GkAa2pmoYrS7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.74246193520578, 34.062398380736326]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Higher Ground San Bernardino",
         "license": "C10-0001021-LIC",
         "address1": "240 Redlands Blvd E",
@@ -969,23 +918,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-117.22573047938523, 33.18759418497108]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Nature's Story",
-        "license": "C10-0001023-LIC",
-        "address1": "6455 Topanga Canyon Blvd N",
-        "address2": "",
-        "city": "Woodland Hills",
-        "state": "CA",
-        "zip": "91303",
-        "directionUrl": "https://maps.app.goo.gl/GCQhfXCyEMfZBi8h9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.60615414432186, 34.18823869541415]
       }
     },
     {
@@ -3230,6 +3162,363 @@
       "geometry": {
         "type": "Point",
         "coordinates": [-75.12788318922516, 40.07553070693147]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bard Boys",
+        "license": "",
+        "address1": "2550 E Vineyard Ave #210",
+        "address2": "",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": "93036",
+        "directionUrl": "https://maps.app.goo.gl/UiEPAk6eaGjKGw7F9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.17125998584031, 34.23350574478667]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Figueroa",
+        "license": "",
+        "address1": "10020 S Figueroa St",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90003",
+        "directionUrl": "https://maps.app.goo.gl/ULwPT8j9ySMoVagH8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.28225104650087, 33.94507518011758]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Stanton",
+        "license": "",
+        "address1": "8130 Monroe Ave",
+        "address2": "",
+        "city": "Stanton",
+        "state": "CA",
+        "zip": "90680",
+        "directionUrl": "https://maps.app.goo.gl/yy1R5kHgE62mNY9L7"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.99075694650371, 33.80565320143414]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cookies Woodland Hills",
+        "license": "",
+        "address1": "5334 Alhama Dr",
+        "address2": "",
+        "city": "Woodland Hills",
+        "state": "CA",
+        "zip": "91364",
+        "directionUrl": "https://maps.app.goo.gl/8zJzdn6Aopc4DTor5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.59279697533186, 34.16643590752376]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Greenhouse Herbal Center",
+        "license": "",
+        "address1": "5224 Hollywood Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90027",
+        "directionUrl": "https://maps.app.goo.gl/WWfSQdgS2zxUS6d46"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.30415364649723, 34.10173540027762]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "High Seas",
+        "license": "",
+        "address1": "1921 Harbor Blvd",
+        "address2": "",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92627",
+        "directionUrl": "https://maps.app.goo.gl/UxXfJDsVfXxbxn6UA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.91922641582111, 33.64444236528861] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jungle Boys San Diego",
+        "license": "",
+        "address1": "8160 Parkway Dr",
+        "address2": "",
+        "city": "La Mesa",
+        "state": "CA",
+        "zip": "91942",
+        "directionUrl": "https://maps.app.goo.gl/DEGftXzYfNvGf4sEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.02173498700337,32.77637754280005]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Lemonnade Van Nuys",
+        "license": "",
+        "address1": "7040 Hayvenhurst Ave",
+        "address2": "",
+        "city": "Lake Balboa",
+        "state": "CA",
+        "zip": "91406",
+        "directionUrl": "https://maps.app.goo.gl/cmYQdoD8K7y77KhSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.49184100046601, 34.19868718441126]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Marathon Collective",
+        "license": "",
+        "address1": "7011 Canoga Ave",
+        "address2": "",
+        "city": "Canoga Park",
+        "state": "CA",
+        "zip": "91303",
+        "directionUrl": "https://maps.app.goo.gl/MmJK3ZCeqKjvsqXS8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.59763609306461, 34.19795330677784]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Roots 2 Harvest",
+        "license": "",
+        "address1": "29370 Hunco Way",
+        "address2": "",
+        "city": "Lake Elsinore",
+        "state": "CA",
+        "zip": "92530",
+        "directionUrl": "https://maps.app.goo.gl/85pvzy4ccquonXuCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.34255541767037, 33.69079093747736]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Downtown LA",
+        "license": "",
+        "address1": "728 E Commercial St",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90012",
+        "directionUrl": "https://maps.app.goo.gl/Fzp5T449Eu3PUwVJA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.23207492930504, 34.05234264495949]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Pomona",
+        "license": "",
+        "address1": "1605 W Holt Ave",
+        "address2": "",
+        "city": "Pomona",
+        "state": "CA",
+        "zip": "91768",
+        "directionUrl": "https://maps.app.goo.gl/14X7hsgDgi6sjBso9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.77659623724622, 34.06215861845955]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY San Bernardino",
+        "license": "",
+        "address1": "390 N H St",
+        "address2": "",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92410",
+        "directionUrl": "https://maps.app.goo.gl/8JiiWWumwd3Wo2Uw6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.3007328182014, 34.10630155822297]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Ventura",
+        "license": "",
+        "address1": "1860 S Victoria Ave",
+        "address2": "",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": "93003",
+        "directionUrl": "https://maps.app.goo.gl/VvTKzi8Uu3KRNq7A6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.2103395311511, 34.25729575443258] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "These Days",
+        "license": "",
+        "address1": "19707 Nordhoff St",
+        "address2": "",
+        "city": "Northridge",
+        "state": "CA",
+        "zip": "91324",
+        "directionUrl": "https://maps.app.goo.gl/sz23P3PBhZ351Bap8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.56282461580827, 34.232352215622875] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "We Roll Up San Pedro",
+        "license": "",
+        "address1": "1705 S Gaffey St",
+        "address2": "",
+        "city": "San Pedro",
+        "state": "CA",
+        "zip": "90731",
+        "directionUrl": "https://maps.app.goo.gl/9VQDm58mKByTBWbu5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.29227146608926, 33.72870366298861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Wellgreens Kearny Mesa",
+        "license": "",
+        "address1": "8039 Balboa Ave # A",
+        "address2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92111",
+        "directionUrl": "https://maps.app.goo.gl/hxU3bpen6DLadkEo8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.14953973357164, 32.821511244615486]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Wellgreens Mission Valley",
+        "license": "",
+        "address1": "3703 Camino del Rio S # 215A",
+        "address2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92108",
+        "directionUrl": "https://maps.app.goo.gl/s5eaEBwJ2Vv3ryJ49"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.11478863634356, 32.777878914037984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Wellgreens Pacific Beach",
+        "license": "",
+        "address1": "4645 De Soto St",
+        "address2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92109",
+        "directionUrl": "https://maps.app.goo.gl/YAHAsUfeNtD7EaLY9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.21696882987112, 32.8080850659999]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Wellgreens Vista",
+        "license": "",
+        "address1": "954 S Santa Fe Ave",
+        "address2": "",
+        "city": "Vista",
+        "state": "CA",
+        "zip": "92084",
+        "directionUrl": "https://maps.app.goo.gl/xUW6EfTZhsJDKMAy8"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.23164716054941, 33.19415472331407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "StashCo",
+        "license": "",
+        "address1": "",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95610",
+        "directionUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": []
       }
     }
   ]
