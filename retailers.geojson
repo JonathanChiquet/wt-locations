@@ -11,11 +11,15 @@
         "city": "Los Angeles",
         "state": "CA",
         "zip": "90026",
-        "directionUrl": "https://maps.app.goo.gl/pksX4A3qCHqmpeABA"
+        "directionUrl": "https://maps.app.goo.gl/pksX4A3qCHqmpeABA",
+        "storeUrl": "https://weedmaps.com/dispensaries/big-chief-cannabis-dispensary?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.26829177116417, 34.08952188989419]
+        "coordinates": [
+          -118.26829177116417,
+          34.08952188989419
+        ]
       }
     },
     {
@@ -28,11 +32,36 @@
         "city": "Los Angeles",
         "state": "CA",
         "zip": "90039",
-        "directionUrl": "https://maps.app.goo.gl/5WYwv46ucYzkyTib9"
+        "directionUrl": "https://maps.app.goo.gl/5WYwv46ucYzkyTib9",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-silver-lake?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.25788349289196, 34.104866572435995]
+        "coordinates": [
+          -118.25788349289196,
+          34.104866572435995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Flora",
+        "license": "C10-0000530-LIC",
+        "address1": "8151 3rd St W",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90048",
+        "directionUrl": "https://maps.app.goo.gl/s3zrU14atvcBUWrq7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3670307505636,
+          34.072609409008145
+        ]
       }
     },
     {
@@ -45,11 +74,36 @@
         "city": "Los Angeles",
         "state": "CA",
         "zip": "90064",
-        "directionUrl": "https://maps.app.goo.gl/TaFnM493dAEYULz39"
+        "directionUrl": "https://maps.app.goo.gl/TaFnM493dAEYULz39",
+        "storeUrl": "https://weedmaps.com/dispensaries/westwood-world-llc?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.43078306590695, 34.04255873267134]
+        "coordinates": [
+          -118.43078306590695,
+          34.04255873267134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "SWED A Snoop Dogg Store",
+        "license": "C10-0000756-LIC",
+        "address1": "5494 W Centinela Ave",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90045",
+        "directionUrl": "https://maps.app.goo.gl/7guJDrkzP9ioKPUY8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37626257754859,
+          33.97691486139813
+        ]
       }
     },
     {
@@ -62,11 +116,15 @@
         "city": "Los Angeles",
         "state": "CA",
         "zip": "90049",
-        "directionUrl": "https://maps.app.goo.gl/5CXwBAiNdncLaF8L9"
+        "directionUrl": "https://maps.app.goo.gl/5CXwBAiNdncLaF8L9",
+        "storeUrl": "https://weedmaps.com/dispensaries/cwd-alliance?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.4690558662023, 34.076963244449615]
+        "coordinates": [
+          -118.4690558662023,
+          34.076963244449615
+        ]
       }
     },
     {
@@ -79,11 +137,15 @@
         "city": "Sacramento",
         "state": "CA",
         "zip": "95815",
-        "directionUrl": "https://maps.app.goo.gl/dMoWhMsEEzvVDUUFA"
+        "directionUrl": "https://maps.app.goo.gl/dMoWhMsEEzvVDUUFA",
+        "storeUrl": "https://weedmaps.com/dispensaries/1841-el-camino?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.42341872171345, 38.6114789330746]
+        "coordinates": [
+          -121.42341872171345,
+          38.6114789330746
+        ]
       }
     },
     {
@@ -96,11 +158,15 @@
         "city": "Sacramento",
         "state": "CA",
         "zip": "95826",
-        "directionUrl": "https://maps.app.goo.gl/eEQzndsuDu4mtFHx5"
+        "directionUrl": "https://maps.app.goo.gl/eEQzndsuDu4mtFHx5",
+        "storeUrl": "https://www.earthmanexperience.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.37112854232821, 38.527614572012176]
+        "coordinates": [
+          -121.37112854232821,
+          38.527614572012176
+        ]
       }
     },
     {
@@ -113,11 +179,15 @@
         "city": "Sacramento",
         "state": "CA",
         "zip": "95818",
-        "directionUrl": "https://maps.app.goo.gl/FjNB7ZhCHXy9hGBF8"
+        "directionUrl": "https://maps.app.goo.gl/FjNB7ZhCHXy9hGBF8",
+        "storeUrl": "https://weedmaps.com/dispensaries/mainstage?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.48249706404167, 38.55884445464493]
+        "coordinates": [
+          -121.48249706404167,
+          38.55884445464493
+        ]
       }
     },
     {
@@ -130,11 +200,15 @@
         "city": "Sacramento",
         "state": "CA",
         "zip": "95831",
-        "directionUrl": "https://maps.app.goo.gl/tuvHcju7GPd71Sdh7"
+        "directionUrl": "https://maps.app.goo.gl/tuvHcju7GPd71Sdh7",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-pocket-dispensary?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.51261967116409, 38.496252644561146]
+        "coordinates": [
+          -121.51261967116409,
+          38.496252644561146
+        ]
       }
     },
     {
@@ -147,11 +221,15 @@
         "city": "Sacramento",
         "state": "CA",
         "zip": "95823",
-        "directionUrl": "https://maps.app.goo.gl/Cp1X5nWB3mBm6kGN8"
+        "directionUrl": "https://maps.app.goo.gl/Cp1X5nWB3mBm6kGN8",
+        "storeUrl": "https://weedmaps.com/dispensaries/zen-garden-south-sacramento?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.42575862569859, 38.4714335978959]
+        "coordinates": [
+          -121.42575862569859,
+          38.4714335978959
+        ]
       }
     },
     {
@@ -164,11 +242,15 @@
         "city": "San Jose",
         "state": "CA",
         "zip": "95112",
-        "directionUrl": "https://maps.app.goo.gl/DeWP9zfTsdJSCC4j6"
+        "directionUrl": "https://maps.app.goo.gl/DeWP9zfTsdJSCC4j6",
+        "storeUrl": "https://weedmaps.com/dispensaries/ca-collective?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.86689384898068, 37.31238110214577]
+        "coordinates": [
+          -121.86689384898068,
+          37.31238110214577
+        ]
       }
     },
     {
@@ -181,11 +263,15 @@
         "city": "San Jose",
         "state": "CA",
         "zip": "95125",
-        "directionUrl": "https://maps.app.goo.gl/adibJZ8huX1u8AsA6"
+        "directionUrl": "https://maps.app.goo.gl/adibJZ8huX1u8AsA6",
+        "storeUrl": "https://weedmaps.com/dispensaries/exotix-weed-san-jose?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.87229664869807, 37.304673607758225]
+        "coordinates": [
+          -121.87229664869807,
+          37.304673607758225
+        ]
       }
     },
     {
@@ -198,11 +284,15 @@
         "city": "San Jose",
         "state": "CA",
         "zip": "95113",
-        "directionUrl": "https://maps.app.goo.gl/j82PHZjEEQgzDRLG9"
+        "directionUrl": "https://maps.app.goo.gl/j82PHZjEEQgzDRLG9",
+        "storeUrl": "https://weedmaps.com/dispensaries/purple-lotus-downtown-san-jose-dispensary?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.8913300352058, 37.3356331]
+        "coordinates": [
+          -121.8913300352058,
+          37.3356331
+        ]
       }
     },
     {
@@ -215,11 +305,15 @@
         "city": "San Jose",
         "state": "CA",
         "zip": "95112",
-        "directionUrl": "https://maps.app.goo.gl/jUAfAZ4NKQMpBLH49"
+        "directionUrl": "https://maps.app.goo.gl/jUAfAZ4NKQMpBLH49",
+        "storeUrl": "https://weedmaps.com/dispensaries/purple-lotus?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.89032309472883, 37.36519318797823]
+        "coordinates": [
+          -121.89032309472883,
+          37.36519318797823
+        ]
       }
     },
     {
@@ -232,11 +326,15 @@
         "city": "San Jose",
         "state": "CA",
         "zip": "95112",
-        "directionUrl": "https://maps.app.goo.gl/NSSpcgGmeHQ8sGbg9"
+        "directionUrl": "https://maps.app.goo.gl/NSSpcgGmeHQ8sGbg9",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-cake-house-san-jose?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.89696144869805, 37.3617536004572]
+        "coordinates": [
+          -121.89696144869805,
+          37.3617536004572
+        ]
       }
     },
     {
@@ -249,11 +347,15 @@
         "city": "San Francisco",
         "state": "CA",
         "zip": "94110",
-        "directionUrl": "https://maps.app.goo.gl/X5DKmMoYCwQvXK28A"
+        "directionUrl": "https://maps.app.goo.gl/X5DKmMoYCwQvXK28A",
+        "storeUrl": "https://weedmaps.com/dispensaries/purple-star-md?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.41907292171346, 37.75675385375589]
+        "coordinates": [
+          -122.41907292171346,
+          37.75675385375589
+        ]
       }
     },
     {
@@ -266,11 +368,15 @@
         "city": "San Francisco",
         "state": "CA",
         "zip": "94124",
-        "directionUrl": "https://maps.app.goo.gl/3in6nrm9UBrSRkjp9"
+        "directionUrl": "https://maps.app.goo.gl/3in6nrm9UBrSRkjp9",
+        "storeUrl": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.38472535026673, 37.74425446085285]
+        "coordinates": [
+          -122.38472535026673,
+          37.74425446085285
+        ]
       }
     },
     {
@@ -283,11 +389,15 @@
         "city": "San Francisco",
         "state": "CA",
         "zip": "94103",
-        "directionUrl": "https://maps.app.goo.gl/FabVUmXjcZbAo1ba6"
+        "directionUrl": "https://maps.app.goo.gl/FabVUmXjcZbAo1ba6",
+        "storeUrl": "https://weedmaps.com/dispensaries/green-door-sf?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.40355373705701, 37.78244859197021]
+        "coordinates": [
+          -122.40355373705701,
+          37.78244859197021
+        ]
       }
     },
     {
@@ -300,11 +410,15 @@
         "city": "Santa Ana",
         "state": "CA",
         "zip": "92705",
-        "directionUrl": "https://maps.app.goo.gl/XVRw9VK1PW9qKHoaA"
+        "directionUrl": "https://maps.app.goo.gl/XVRw9VK1PW9qKHoaA",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-sa?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.84433627753398, 33.71519485961006]
+        "coordinates": [
+          -117.84433627753398,
+          33.71519485961006
+        ]
       }
     },
     {
@@ -317,11 +431,15 @@
         "city": "Santa Ana",
         "state": "CA",
         "zip": "92705",
-        "directionUrl": "https://maps.app.goo.gl/QpGYogmp1Q986T1S9"
+        "directionUrl": "https://maps.app.goo.gl/QpGYogmp1Q986T1S9",
+        "storeUrl": "https://weedmaps.com/dispensaries/evergreen-santa-ana?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.85267403705701, 33.726585562907594]
+        "coordinates": [
+          -117.85267403705701,
+          33.726585562907594
+        ]
       }
     },
     {
@@ -334,11 +452,15 @@
         "city": "Santa Ana",
         "state": "CA",
         "zip": "92704",
-        "directionUrl": "https://maps.app.goo.gl/j1X4eNmGMddLCA5t7"
+        "directionUrl": "https://maps.app.goo.gl/j1X4eNmGMddLCA5t7",
+        "storeUrl": "https://weedmaps.com/dispensaries/jaderoom-oc?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.92300970822114, 33.711311148359805]
+        "coordinates": [
+          -117.92300970822114,
+          33.711311148359805
+        ]
       }
     },
     {
@@ -351,11 +473,15 @@
         "city": "Santa Rosa",
         "state": "CA",
         "zip": "95403",
-        "directionUrl": "https://maps.app.goo.gl/NZP5eKRm2VpJTfrF9"
+        "directionUrl": "https://maps.app.goo.gl/NZP5eKRm2VpJTfrF9",
+        "storeUrl": "https://purplez.org/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.73065643520577, 38.469638100152125]
+        "coordinates": [
+          -122.73065643520577,
+          38.469638100152125
+        ]
       }
     },
     {
@@ -368,11 +494,15 @@
         "city": "Santa Rosa",
         "state": "CA",
         "zip": "95401",
-        "directionUrl": "https://maps.app.goo.gl/wd9eTzuRNPtPFicf9"
+        "directionUrl": "https://maps.app.goo.gl/wd9eTzuRNPtPFicf9",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-cake-house-santa-rosa-1?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.74242229472883, 38.432135352623334]
+        "coordinates": [
+          -122.74242229472883,
+          38.432135352623334
+        ]
       }
     },
     {
@@ -385,11 +515,15 @@
         "city": "Santa Rosa",
         "state": "CA",
         "zip": "95407",
-        "directionUrl": "https://maps.app.goo.gl/zcwJLLESkDasj6Eu9"
+        "directionUrl": "https://maps.app.goo.gl/zcwJLLESkDasj6Eu9",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-outpost?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.72520907753396, 38.404336776189076]
+        "coordinates": [
+          -122.72520907753396,
+          38.404336776189076
+        ]
       }
     },
     {
@@ -402,11 +536,15 @@
         "city": "Antioch",
         "state": "CA",
         "zip": "94509",
-        "directionUrl": "https://maps.app.goo.gl/zJGRBBV2UTECP1xZ7"
+        "directionUrl": "https://maps.app.goo.gl/zJGRBBV2UTECP1xZ7",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-antioch?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.84155199102628, 38.009882546275804]
+        "coordinates": [
+          -121.84155199102628,
+          38.009882546275804
+        ]
       }
     },
     {
@@ -419,11 +557,15 @@
         "city": "Baldwin Park",
         "state": "CA",
         "zip": "91706",
-        "directionUrl": "https://maps.app.goo.gl/h6XncWChBrfTNGb8A"
+        "directionUrl": "https://maps.app.goo.gl/h6XncWChBrfTNGb8A",
+        "storeUrl": "https://weedmaps.com/dispensaries/higher-ground-baldwin-park?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.98185467157369, 34.067265505651626]
+        "coordinates": [
+          -117.98185467157369,
+          34.067265505651626
+        ]
       }
     },
     {
@@ -436,11 +578,15 @@
         "city": "Bellflower",
         "state": "CA",
         "zip": "90706",
-        "directionUrl": "https://maps.app.goo.gl/GesSYpdp4HcXm8nb8"
+        "directionUrl": "https://maps.app.goo.gl/GesSYpdp4HcXm8nb8",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-bellflower?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.14158047157368, 33.87488160103631]
+        "coordinates": [
+          -118.14158047157368,
+          33.87488160103631
+        ]
       }
     },
     {
@@ -453,11 +599,15 @@
         "city": "Cathedral City",
         "state": "CA",
         "zip": "92234",
-        "directionUrl": "https://maps.app.goo.gl/EBDcJ3566RiWvyU56"
+        "directionUrl": "https://maps.app.goo.gl/EBDcJ3566RiWvyU56",
+        "storeUrl": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.467955452118, 33.78255369445353]
+        "coordinates": [
+          -116.467955452118,
+          33.78255369445353
+        ]
       }
     },
     {
@@ -470,11 +620,15 @@
         "city": "Culver City",
         "state": "CA",
         "zip": "90230",
-        "directionUrl": "https://maps.app.goo.gl/4EUpSQygTiPeRB1N6"
+        "directionUrl": "https://maps.app.goo.gl/4EUpSQygTiPeRB1N6",
+        "storeUrl": "https://content.caliwee.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.38860248465643, 33.98371016959159]
+        "coordinates": [
+          -118.38860248465643,
+          33.98371016959159
+        ]
       }
     },
     {
@@ -487,11 +641,15 @@
         "city": "Culver City",
         "state": "CA",
         "zip": "90230",
-        "directionUrl": "https://maps.app.goo.gl/YMso2cqkTsYfWxPv5"
+        "directionUrl": "https://maps.app.goo.gl/YMso2cqkTsYfWxPv5",
+        "storeUrl": "https://weedmaps.com/dispensaries/we-roll-up-la?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.40205764432632, 33.98550874221304]
+        "coordinates": [
+          -118.40205764432632,
+          33.98550874221304
+        ]
       }
     },
     {
@@ -504,11 +662,15 @@
         "city": "Daly City",
         "state": "CA",
         "zip": "94015",
-        "directionUrl": "https://maps.app.goo.gl/6niNDCDFo9buhNmb6"
+        "directionUrl": "https://maps.app.goo.gl/6niNDCDFo9buhNmb6",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-daly-city?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.46961202742521, 37.650514090745574]
+        "coordinates": [
+          -122.46961202742521,
+          37.650514090745574
+        ]
       }
     },
     {
@@ -521,11 +683,15 @@
         "city": "Desert Hot Springs",
         "state": "CA",
         "zip": "92240",
-        "directionUrl": "https://maps.app.goo.gl/DC4dd41zxLSppATg8"
+        "directionUrl": "https://maps.app.goo.gl/DC4dd41zxLSppATg8",
+        "storeUrl": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.52528609257482, 33.93276874401793]
+        "coordinates": [
+          -116.52528609257482,
+          33.93276874401793
+        ]
       }
     },
     {
@@ -538,11 +704,15 @@
         "city": "El Monte",
         "state": "CA",
         "zip": "91732",
-        "directionUrl": "https://maps.app.goo.gl/mJEtSgUcGBhe4SaM6"
+        "directionUrl": "https://maps.app.goo.gl/mJEtSgUcGBhe4SaM6",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-el-monte?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.01512499610533, 34.06139005797547]
+        "coordinates": [
+          -118.01512499610533,
+          34.06139005797547
+        ]
       }
     },
     {
@@ -555,11 +725,15 @@
         "city": "Eureka",
         "state": "CA",
         "zip": "95501",
-        "directionUrl": "https://maps.app.goo.gl/NQTEYUxZZpUR8ri9A"
+        "directionUrl": "https://maps.app.goo.gl/NQTEYUxZZpUR8ri9A",
+        "storeUrl": "https://weedmaps.com/dispensaries/goat-global?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ -124.13601214272464, 40.794122378241504]
+        "coordinates": [
+          -124.13601214272464,
+          40.794122378241504
+        ]
       }
     },
     {
@@ -572,11 +746,15 @@
         "city": "Fairfield",
         "state": "CA",
         "zip": "94533",
-        "directionUrl": "https://maps.app.goo.gl/4WyhpE4aTFniiT1ZA"
+        "directionUrl": "https://maps.app.goo.gl/4WyhpE4aTFniiT1ZA",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-bright-spot?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.98969827955678, 38.27050906040938]
+        "coordinates": [
+          -121.98969827955678,
+          38.27050906040938
+        ]
       }
     },
     {
@@ -589,11 +767,15 @@
         "city": "Fairfield",
         "state": "CA",
         "zip": "94534",
-        "directionUrl": "https://maps.app.goo.gl/ZEQkPtMs5KXmqQYz7"
+        "directionUrl": "https://maps.app.goo.gl/ZEQkPtMs5KXmqQYz7",
+        "storeUrl": "https://weedmaps.com/dispensaries/showcase?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.13621717955681, 38.21660122076086]
+        "coordinates": [
+          -122.13621717955681,
+          38.21660122076086
+        ]
       }
     },
     {
@@ -606,11 +788,15 @@
         "city": "Hawthorne",
         "state": "CA",
         "zip": "90250",
-        "directionUrl": "https://maps.app.goo.gl/CpeJ5s9AsJCjH3DQ9"
+        "directionUrl": "https://maps.app.goo.gl/CpeJ5s9AsJCjH3DQ9",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-cannabis-dispensary-hawthorne?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3270846600693, 33.90301419227668]
+        "coordinates": [
+          -118.3270846600693,
+          33.90301419227668
+        ]
       }
     },
     {
@@ -623,11 +809,15 @@
         "city": "La Mesa",
         "state": "CA",
         "zip": "91941",
-        "directionUrl": "https://maps.app.goo.gl/DhAjfCxZn8yPV41u5"
+        "directionUrl": "https://maps.app.goo.gl/DhAjfCxZn8yPV41u5",
+        "storeUrl": "https://weedmaps.com/dispensaries/dr-greenthumbs-san-diego?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.00894404290561, 32.75337142633836]
+        "coordinates": [
+          -117.00894404290561,
+          32.75337142633836
+        ]
       }
     },
     {
@@ -640,11 +830,15 @@
         "city": "Long Beach",
         "state": "CA",
         "zip": "90806",
-        "directionUrl": "https://maps.app.goo.gl/TBvFU4Bgq3F9XXTZA"
+        "directionUrl": "https://maps.app.goo.gl/TBvFU4Bgq3F9XXTZA",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-cherry?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.16661569305123, 33.81518005185605]
+        "coordinates": [
+          -118.16661569305123,
+          33.81518005185605
+        ]
       }
     },
     {
@@ -657,11 +851,15 @@
         "city": "Long Beach",
         "state": "CA",
         "zip": "90802",
-        "directionUrl": "https://maps.app.goo.gl/A6pPhfn5M9XvNc9m9"
+        "directionUrl": "https://maps.app.goo.gl/A6pPhfn5M9XvNc9m9",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-pine-downtownlongbeach?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.19277250839197, 33.77251225303821]
+        "coordinates": [
+          -118.19277250839197,
+          33.77251225303821
+        ]
       }
     },
     {
@@ -674,11 +872,15 @@
         "city": "Lynwood",
         "state": "CA",
         "zip": "90262",
-        "directionUrl": "https://maps.app.goo.gl/VVEf7rRuthzKoLc7A"
+        "directionUrl": "https://maps.app.goo.gl/VVEf7rRuthzKoLc7A",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-lynwood?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.18282157116481, 33.93067377333173]
+        "coordinates": [
+          -118.18282157116481,
+          33.93067377333173
+        ]
       }
     },
     {
@@ -691,11 +893,15 @@
         "city": "Lynwood",
         "state": "CA",
         "zip": "90262",
-        "directionUrl": "https://maps.app.goo.gl/Xn4HmZnfVhsXHvUZ9"
+        "directionUrl": "https://maps.app.goo.gl/Xn4HmZnfVhsXHvUZ9",
+        "storeUrl": "https://weedmaps.com/dispensaries/higher-ground-lynwood?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.22512658585562, 33.93067151813415]
+        "coordinates": [
+          -118.22512658585562,
+          33.93067151813415
+        ]
       }
     },
     {
@@ -708,11 +914,15 @@
         "city": "Martinez",
         "state": "CA",
         "zip": "94553",
-        "directionUrl": "https://maps.app.goo.gl/4qanGpsRPyDizqdu6"
+        "directionUrl": "https://maps.app.goo.gl/4qanGpsRPyDizqdu6",
+        "storeUrl": "https://weedmaps.com/dispensaries/velvet-cannabis?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.08176372883591, 38.000649715556484]
+        "coordinates": [
+          -122.08176372883591,
+          38.000649715556484
+        ]
       }
     },
     {
@@ -725,11 +935,15 @@
         "city": "Modesto",
         "state": "CA",
         "zip": "95356",
-        "directionUrl": "https://maps.app.goo.gl/ZJXwCR4nqpgcGGp9A"
+        "directionUrl": "https://maps.app.goo.gl/ZJXwCR4nqpgcGGp9A",
+        "storeUrl": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ -120.99505714423643, 37.70067911571444]
+        "coordinates": [
+          -120.99505714423643,
+          37.70067911571444
+        ]
       }
     },
     {
@@ -742,11 +956,15 @@
         "city": "North Hills",
         "state": "CA",
         "zip": "91343",
-        "directionUrl": "https://maps.app.goo.gl/Kk3LQ1cKK12zEbWJ9"
+        "directionUrl": "https://maps.app.goo.gl/Kk3LQ1cKK12zEbWJ9",
+        "storeUrl": "https://weedmaps.com/dispensaries/kush-alley-3?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.49778677753399, 34.222900960516874]
+        "coordinates": [
+          -118.49778677753399,
+          34.222900960516874
+        ]
       }
     },
     {
@@ -759,11 +977,15 @@
         "city": "North Hollywood",
         "state": "CA",
         "zip": "91601",
-        "directionUrl": "https://maps.app.goo.gl/ZJZfDjWRHw5qRaec7"
+        "directionUrl": "https://maps.app.goo.gl/ZJZfDjWRHw5qRaec7",
+        "storeUrl": "https://weedmaps.com/dispensaries/swish-cannabis?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.36390093520576, 34.17263614145538]
+        "coordinates": [
+          -118.36390093520576,
+          34.17263614145538
+        ]
       }
     },
     {
@@ -776,11 +998,15 @@
         "city": "North Hollywood",
         "state": "CA",
         "zip": "91601",
-        "directionUrl": "https://maps.app.goo.gl/CM33UkKPt3rsNsLv6"
+        "directionUrl": "https://maps.app.goo.gl/CM33UkKPt3rsNsLv6",
+        "storeUrl": "https://weedmaps.com/dispensaries/theounce?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.37171131349233, 34.16479662785047]
+        "coordinates": [
+          -118.37171131349233,
+          34.16479662785047
+        ]
       }
     },
     {
@@ -793,11 +1019,15 @@
         "city": "Oakland",
         "state": "CA",
         "zip": "94601",
-        "directionUrl": "https://maps.app.goo.gl/G66RNGJCVzRdeGr98"
+        "directionUrl": "https://maps.app.goo.gl/G66RNGJCVzRdeGr98",
+        "storeUrl": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.22034797301536, 37.763168523717155]
+        "coordinates": [
+          -122.22034797301536,
+          37.763168523717155
+        ]
       }
     },
     {
@@ -810,15 +1040,18 @@
         "city": "Oakland",
         "state": "CA",
         "zip": "94602",
-        "directionUrl": "https://maps.app.goo.gl/BejPVedRzhGxNcog6"
+        "directionUrl": "https://maps.app.goo.gl/BejPVedRzhGxNcog6",
+        "storeUrl": "https://weedmaps.com/dispensaries/kanna?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.21826835240057, 37.80089219229614]
+        "coordinates": [
+          -122.21826835240057,
+          37.80089219229614
+        ]
       }
     },
     {
-
       "type": "Feature",
       "properties": {
         "retailer": "Catalyst Palm Desert",
@@ -828,11 +1061,36 @@
         "city": "Palm Desert",
         "state": "CA",
         "zip": "92211",
-        "directionUrl": "https://maps.app.goo.gl/VMx1GjB3pJ66yKhz5"
+        "directionUrl": "https://maps.app.goo.gl/VMx1GjB3pJ66yKhz5",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-indio?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.30321139472882, 33.762512332855835]
+        "coordinates": [
+          -116.30321139472882,
+          33.762512332855835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Pomona",
+        "license": "C10-0001405-LIC",
+        "address1": "1958 S Garey Ave",
+        "address2": "",
+        "city": "Pomona",
+        "state": "CA",
+        "zip": "91766",
+        "directionUrl": "https://maps.app.goo.gl/ViqA3GkAa2pmoYrS7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.74246193520578,
+          34.062398380736326
+        ]
       }
     },
     {
@@ -845,11 +1103,15 @@
         "city": "San Bernardino",
         "state": "CA",
         "zip": "92408",
-        "directionUrl": "https://maps.app.goo.gl/AvoTfby3WX9ee72JA"
+        "directionUrl": "https://maps.app.goo.gl/AvoTfby3WX9ee72JA",
+        "storeUrl": "https://weedmaps.com/dispensaries/higherground-san-bernardino?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.28080765240058, 34.06350873142659]
+        "coordinates": [
+          -117.28080765240058,
+          34.06350873142659
+        ]
       }
     },
     {
@@ -862,11 +1124,15 @@
         "city": "San Diego",
         "state": "CA",
         "zip": "92108",
-        "directionUrl": "https://maps.app.goo.gl/kfqY4s4afeMjfD6g9"
+        "directionUrl": "https://maps.app.goo.gl/kfqY4s4afeMjfD6g9",
+        "storeUrl": "https://weedmaps.com/dispensaries/buzz-mission-valley?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.13655723919088, 32.76914630732558]
+        "coordinates": [
+          -117.13655723919088,
+          32.76914630732558
+        ]
       }
     },
     {
@@ -879,11 +1145,15 @@
         "city": "Sun Valley",
         "state": "CA",
         "zip": "91352",
-        "directionUrl": "https://maps.app.goo.gl/hBGXxPbnRp8UzdRM6"
+        "directionUrl": "https://maps.app.goo.gl/hBGXxPbnRp8UzdRM6",
+        "storeUrl": "https://weedmaps.com/dispensaries/bonafide-group-collective?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.35351205054936, 34.20940129049584]
+        "coordinates": [
+          -118.35351205054936,
+          34.20940129049584
+        ]
       }
     },
     {
@@ -896,11 +1166,15 @@
         "city": "Vallejo",
         "state": "CA",
         "zip": "94591",
-        "directionUrl": "https://maps.app.goo.gl/kLZcMnob7ou19R4XA"
+        "directionUrl": "https://maps.app.goo.gl/kLZcMnob7ou19R4XA",
+        "storeUrl": "https://weedmaps.com/dispensaries/vallejo-relief-center-3?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.2278430878572, 38.11194008899737]
+        "coordinates": [
+          -122.2278430878572,
+          38.11194008899737
+        ]
       }
     },
     {
@@ -913,11 +1187,36 @@
         "city": "Vista",
         "state": "CA",
         "zip": "92083",
-        "directionUrl": "https://maps.app.goo.gl/cQzJF6jzwmMbS8eD7"
+        "directionUrl": "https://maps.app.goo.gl/cQzJF6jzwmMbS8eD7",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-cake-house?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.22573047938523, 33.18759418497108]
+        "coordinates": [
+          -117.22573047938523,
+          33.18759418497108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Nature's Story",
+        "license": "C10-0001023-LIC",
+        "address1": "6455 Topanga Canyon Blvd N",
+        "address2": "",
+        "city": "Woodland Hills",
+        "state": "CA",
+        "zip": "91303",
+        "directionUrl": "https://maps.app.goo.gl/GCQhfXCyEMfZBi8h9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.60615414432186,
+          34.18823869541415
+        ]
       }
     },
     {
@@ -930,11 +1229,15 @@
         "city": "Woodland Hills",
         "state": "CA",
         "zip": "91364",
-        "directionUrl": "https://maps.app.goo.gl/vsgy129E9ZvXxkcv8"
+        "directionUrl": "https://maps.app.goo.gl/vsgy129E9ZvXxkcv8",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-vault-woodland-hills?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.6238891154863, 34.16623667632304]
+        "coordinates": [
+          -118.6238891154863,
+          34.16623667632304
+        ]
       }
     },
     {
@@ -947,11 +1250,15 @@
         "city": "Miami",
         "state": "FL",
         "zip": "33181",
-        "directionUrl": "https://maps.app.goo.gl/Uu5UUsHRZHSvnpEd9"
+        "directionUrl": "https://maps.app.goo.gl/Uu5UUsHRZHSvnpEd9",
+        "storeUrl": "https://theflowery.co/dispensary/n-miami"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.16511369051301, 25.88612189339028]
+        "coordinates": [
+          -80.16511369051301,
+          25.88612189339028
+        ]
       }
     },
     {
@@ -964,11 +1271,15 @@
         "city": "Inverness",
         "state": "FL",
         "zip": "34453",
-        "directionUrl": "https://maps.app.goo.gl/kZ5Ftrn2nEzBVgfd8"
+        "directionUrl": "https://maps.app.goo.gl/kZ5Ftrn2nEzBVgfd8",
+        "storeUrl": "https://theflowery.co/dispensary/inverness"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.38226026157281, 28.852335350292304]
+        "coordinates": [
+          -82.38226026157281,
+          28.852335350292304
+        ]
       }
     },
     {
@@ -981,11 +1292,15 @@
         "city": "Clearwater",
         "state": "FL",
         "zip": "33755",
-        "directionUrl": "https://maps.app.goo.gl/C2993mA2qTsTKzty8"
+        "directionUrl": "https://maps.app.goo.gl/C2993mA2qTsTKzty8",
+        "storeUrl": "https://theflowery.co/dispensary/clearwater"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.77511291742569, 27.978228636714483]
+        "coordinates": [
+          -82.77511291742569,
+          27.978228636714483
+        ]
       }
     },
     {
@@ -998,11 +1313,15 @@
         "city": "Jacksonville",
         "state": "FL",
         "zip": "32256",
-        "directionUrl": "https://maps.app.goo.gl/2hnmUVJ7faGtUCxa8"
+        "directionUrl": "https://maps.app.goo.gl/2hnmUVJ7faGtUCxa8",
+        "storeUrl": "https://theflowery.co/dispensary/jacksonville"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.57778653083484, 30.22135432869535]
+        "coordinates": [
+          -81.57778653083484,
+          30.22135432869535
+        ]
       }
     },
     {
@@ -1015,11 +1334,15 @@
         "city": "Ocala",
         "state": "FL",
         "zip": "34471",
-        "directionUrl": "https://maps.app.goo.gl/Sj4pKiqNPUoPWhJm9"
+        "directionUrl": "https://maps.app.goo.gl/Sj4pKiqNPUoPWhJm9",
+        "storeUrl": "https://theflowery.co/dispensary/ocala"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.14022341738203, 29.170814526023698] 
+        "coordinates": [
+          -82.14022341738203,
+          29.170814526023698
+        ]
       }
     },
     {
@@ -1032,11 +1355,15 @@
         "city": "Port Orange",
         "state": "FL",
         "zip": "32129",
-        "directionUrl": "https://maps.app.goo.gl/2qn5gogne86VFuDy8"
+        "directionUrl": "https://maps.app.goo.gl/2qn5gogne86VFuDy8",
+        "storeUrl": "https://theflowery.co/dispensary/port-orange"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.0067139750551, 29.129912357426818]
+        "coordinates": [
+          -81.0067139750551,
+          29.129912357426818
+        ]
       }
     },
     {
@@ -1049,11 +1376,15 @@
         "city": "Tallahassee",
         "state": "FL",
         "zip": "32304",
-        "directionUrl": "https://maps.app.goo.gl/Hm8Ht1wj699XRk7k9"
+        "directionUrl": "https://maps.app.goo.gl/Hm8Ht1wj699XRk7k9",
+        "storeUrl": "https://theflowery.co/dispensary/tallahassee"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-84.31683714616918, 30.449509333630346]
+        "coordinates": [
+          -84.31683714616918,
+          30.449509333630346
+        ]
       }
     },
     {
@@ -1066,11 +1397,15 @@
         "city": "Venice",
         "state": "FL",
         "zip": "34293",
-        "directionUrl": "https://maps.app.goo.gl/V8N9SuFH6LzKhw6E7"
+        "directionUrl": "https://maps.app.goo.gl/V8N9SuFH6LzKhw6E7",
+        "storeUrl": "https://theflowery.co/dispensary/venice"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.4207171732789, 27.069392285359122] 
+        "coordinates": [
+          -82.4207171732789,
+          27.069392285359122
+        ]
       }
     },
     {
@@ -1083,11 +1418,15 @@
         "city": "Hollywood",
         "state": "FL",
         "zip": "33020",
-        "directionUrl": "https://maps.app.goo.gl/nNV1gGyvrpnRuVCw8"
+        "directionUrl": "https://maps.app.goo.gl/nNV1gGyvrpnRuVCw8",
+        "storeUrl": "https://theflowery.co/dispensary/hollywood"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.16716737516595, 26.001110027934047]
+        "coordinates": [
+          -80.16716737516595,
+          26.001110027934047
+        ]
       }
     },
     {
@@ -1100,11 +1439,15 @@
         "city": "West Palm Beach",
         "state": "FL",
         "zip": "33417",
-        "directionUrl": "https://maps.app.goo.gl/W1ic39s7azgQUXg48"
+        "directionUrl": "https://maps.app.goo.gl/W1ic39s7azgQUXg48",
+        "storeUrl": "https://theflowery.co/dispensary/west-palm-beach"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.12961443096297, 26.70818538859352]
+        "coordinates": [
+          -80.12961443096297,
+          26.70818538859352
+        ]
       }
     },
     {
@@ -1117,11 +1460,15 @@
         "city": "Orlando",
         "state": "FL",
         "zip": "32809",
-        "directionUrl": "https://maps.app.goo.gl/J27zzCuEf3Hz2KvB8"
+        "directionUrl": "https://maps.app.goo.gl/J27zzCuEf3Hz2KvB8",
+        "storeUrl": "https://theflowery.co/dispensary/s-orlando"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.40445816343843, 28.440307407243136]
+        "coordinates": [
+          -81.40445816343843,
+          28.440307407243136
+        ]
       }
     },
     {
@@ -1134,11 +1481,15 @@
         "city": "Fort Myers",
         "state": "FL",
         "zip": "33907",
-        "directionUrl": "https://maps.app.goo.gl/geS8aKb94Ki4YCA79"
+        "directionUrl": "https://maps.app.goo.gl/geS8aKb94Ki4YCA79",
+        "storeUrl": "https://theflowery.co/dispensary/fort-myers"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.87250180398242, 26.571036318352636]
+        "coordinates": [
+          -81.87250180398242,
+          26.571036318352636
+        ]
       }
     },
     {
@@ -1151,11 +1502,15 @@
         "city": "Palm Bay",
         "state": "FL",
         "zip": "32905",
-        "directionUrl": "https://maps.app.goo.gl/MimzZrjPWjTn9oqV9"
+        "directionUrl": "https://maps.app.goo.gl/MimzZrjPWjTn9oqV9",
+        "storeUrl": "https://theflowery.co/dispensary/melbourne"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.61943133091629, 28.035894338082212] 
+        "coordinates": [
+          -80.61943133091629,
+          28.035894338082212
+        ]
       }
     },
     {
@@ -1168,11 +1523,15 @@
         "city": "Fern Park",
         "state": "FL",
         "zip": "32730",
-        "directionUrl": "https://maps.app.goo.gl/ciguhCj5QELdRoSr8"
+        "directionUrl": "https://maps.app.goo.gl/ciguhCj5QELdRoSr8",
+        "storeUrl": "https://theflowery.co/dispensary/north-orlando-1"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.34869291740122, 28.651387673986267]
+        "coordinates": [
+          -81.34869291740122,
+          28.651387673986267
+        ]
       }
     },
     {
@@ -1185,11 +1544,15 @@
         "city": "Orange Park",
         "state": "FL",
         "zip": "32073",
-        "directionUrl": "https://maps.app.goo.gl/uJZw3FqTn24FqV6G6"
+        "directionUrl": "https://maps.app.goo.gl/uJZw3FqTn24FqV6G6",
+        "storeUrl": "https://theflowery.co/dispensary/orange-park"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-81.74683450570255, 30.158042268968337]
+        "coordinates": [
+          -81.74683450570255,
+          30.158042268968337
+        ]
       }
     },
     {
@@ -1202,11 +1565,15 @@
         "city": "Tempe",
         "state": "AZ",
         "zip": "85288",
-        "directionUrl": "https://maps.app.goo.gl/EbfmjCgTUy5mxK1u6"
+        "directionUrl": "https://maps.app.goo.gl/EbfmjCgTUy5mxK1u6",
+        "storeUrl": "https://weedmaps.com/dispensaries/cannabist-tempe-by-zen-leaf?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.89168290263463, 33.42554923384666]
+        "coordinates": [
+          -111.89168290263463,
+          33.42554923384666
+        ]
       }
     },
     {
@@ -1219,11 +1586,15 @@
         "city": "Tempe",
         "state": "AZ",
         "zip": "85281",
-        "directionUrl": "https://maps.app.goo.gl/ixNsjfCT8JmCAk8q6"
+        "directionUrl": "https://maps.app.goo.gl/ixNsjfCT8JmCAk8q6",
+        "storeUrl": "https://weedmaps.com/dispensaries/sol-flower-3?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.97497853282283, 33.422553154201104]
+        "coordinates": [
+          -111.97497853282283,
+          33.422553154201104
+        ]
       }
     },
     {
@@ -1236,11 +1607,15 @@
         "city": "Mesa",
         "state": "AZ",
         "zip": "85201",
-        "directionUrl": "https://maps.app.goo.gl/WRd4dTHcV4zGp2Yy7"
+        "directionUrl": "https://maps.app.goo.gl/WRd4dTHcV4zGp2Yy7",
+        "storeUrl": "https://weedmaps.com/dispensaries/zen-leaf-mesa?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.84321672911165, 33.45181570883229]
+        "coordinates": [
+          -111.84321672911165,
+          33.45181570883229
+        ]
       }
     },
     {
@@ -1253,11 +1628,15 @@
         "city": "Phoenix",
         "state": "AZ",
         "zip": "85051",
-        "directionUrl": "https://maps.app.goo.gl/PpEjKZpMVg8hx3av9"
+        "directionUrl": "https://maps.app.goo.gl/PpEjKZpMVg8hx3av9",
+        "storeUrl": "https://weedmaps.com/dispensaries/zen-leaf-dunlap?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.150820406954, 33.56797174018753]
+        "coordinates": [
+          -112.150820406954,
+          33.56797174018753
+        ]
       }
     },
     {
@@ -1270,11 +1649,15 @@
         "city": "Mesa",
         "state": "AZ",
         "zip": "85209",
-        "directionUrl": "https://maps.app.goo.gl/cq3YFeFq5LxjJghh8"
+        "directionUrl": "https://maps.app.goo.gl/cq3YFeFq5LxjJghh8",
+        "storeUrl": "https://weedmaps.com/dispensaries/greenpharms-mesa?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.6766504004682, 33.388359194675836]
+        "coordinates": [
+          -111.6766504004682,
+          33.388359194675836
+        ]
       }
     },
     {
@@ -1287,11 +1670,15 @@
         "city": "Phoenix",
         "state": "AZ",
         "zip": "85009",
-        "directionUrl": "https://maps.app.goo.gl/ZixMsdZD94azfnL79"
+        "directionUrl": "https://maps.app.goo.gl/ZixMsdZD94azfnL79",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-mcdowell?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.11238645443717, 33.46573318191177] 
+        "coordinates": [
+          -112.11238645443717,
+          33.46573318191177
+        ]
       }
     },
     {
@@ -1304,11 +1691,15 @@
         "city": "Yuma",
         "state": "AZ",
         "zip": "85365",
-        "directionUrl": "https://maps.app.goo.gl/8Q5sn7b1wR5voBWTA"
+        "directionUrl": "https://maps.app.goo.gl/8Q5sn7b1wR5voBWTA",
+        "storeUrl": "https://weedmaps.com/dispensaries/yuma-dispensary?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-114.5625539283401, 32.67050971729671]
+        "coordinates": [
+          -114.5625539283401,
+          32.67050971729671
+        ]
       }
     },
     {
@@ -1321,11 +1712,15 @@
         "city": "Tempe",
         "state": "AZ",
         "zip": "85282",
-        "directionUrl": "https://maps.app.goo.gl/anGubr2wksWobFGP8"
+        "directionUrl": "https://maps.app.goo.gl/anGubr2wksWobFGP8",
+        "storeUrl": "https://weedmaps.com/dispensaries/cookies-tempe?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.95173648950681, 33.39978100271781]
+        "coordinates": [
+          -111.95173648950681,
+          33.39978100271781
+        ]
       }
     },
     {
@@ -1338,11 +1733,15 @@
         "city": "Phoenix",
         "state": "AZ",
         "zip": "85009",
-        "directionUrl": "https://maps.app.goo.gl/fnzeGsnZ55UQreHC9"
+        "directionUrl": "https://maps.app.goo.gl/fnzeGsnZ55UQreHC9",
+        "storeUrl": "https://www.backpackboyz.com/locations/arizona/menu"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.13493896976901, 33.448409436235266] 
+        "coordinates": [
+          -112.13493896976901,
+          33.448409436235266
+        ]
       }
     },
     {
@@ -1355,11 +1754,15 @@
         "city": "Phoenix",
         "state": "AZ",
         "zip": "85016",
-        "directionUrl": "https://maps.app.goo.gl/JyM728a5F8mufAuA8"
+        "directionUrl": "https://maps.app.goo.gl/JyM728a5F8mufAuA8",
+        "storeUrl": "https://weedmaps.com/dispensaries/zen-leaf-arcadia?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.02297805812698, 33.495569862189356]
+        "coordinates": [
+          -112.02297805812698,
+          33.495569862189356
+        ]
       }
     },
     {
@@ -1372,11 +1775,15 @@
         "city": "Mesa",
         "state": "AZ",
         "zip": "85215",
-        "directionUrl": "https://maps.app.goo.gl/ohgqcJcBdraUUD937"
+        "directionUrl": "https://maps.app.goo.gl/ohgqcJcBdraUUD937",
+        "storeUrl": "https://www.pondyaz.com/pondy-mesa"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.7113289047163, 33.49197229919212] 
+        "coordinates": [
+          -111.7113289047163,
+          33.49197229919212
+        ]
       }
     },
     {
@@ -1389,11 +1796,15 @@
         "city": "El Mirage",
         "state": "AZ",
         "zip": "85335",
-        "directionUrl": "https://maps.app.goo.gl/s9GeRECwQL3fKB7W8"
+        "directionUrl": "https://maps.app.goo.gl/s9GeRECwQL3fKB7W8",
+        "storeUrl": "https://weedmaps.com/dispensaries/desert-boyz?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.31407694648342, 33.60962829075379]
+        "coordinates": [
+          -112.31407694648342,
+          33.60962829075379
+        ]
       }
     },
     {
@@ -1406,11 +1817,15 @@
         "city": "Mesa",
         "state": "AZ",
         "zip": "85212",
-        "directionUrl": "https://maps.app.goo.gl/FJ8F1SG1kqS4NSYz6"
+        "directionUrl": "https://maps.app.goo.gl/FJ8F1SG1kqS4NSYz6",
+        "storeUrl": "https://weedmaps.com/dispensaries/tru-bliss?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.68573646068047, 33.33936065880272]
+        "coordinates": [
+          -111.68573646068047,
+          33.33936065880272
+        ]
       }
     },
     {
@@ -1423,11 +1838,15 @@
         "city": "Phoenix",
         "state": "AZ",
         "zip": "85020",
-        "directionUrl": "https://maps.app.goo.gl/z5myS6qqfazAWDFMA"
+        "directionUrl": "https://maps.app.goo.gl/z5myS6qqfazAWDFMA",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-cannabis-1?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.06438908696148, 33.56769819678632] 
+        "coordinates": [
+          -112.06438908696148,
+          33.56769819678632
+        ]
       }
     },
     {
@@ -1440,11 +1859,15 @@
         "city": "Tolleson",
         "state": "AZ",
         "zip": "85353",
-        "directionUrl": "https://maps.app.goo.gl/bW55rhaxB49oQ3wN9"
+        "directionUrl": "https://maps.app.goo.gl/bW55rhaxB49oQ3wN9",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-tolleson?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.27144894346604, 33.46332541170249]
+        "coordinates": [
+          -112.27144894346604,
+          33.46332541170249
+        ]
       }
     },
     {
@@ -1457,11 +1880,15 @@
         "city": "Chandler",
         "state": "AZ",
         "zip": "85249",
-        "directionUrl": "https://maps.app.goo.gl/CS1HVPz4tnqdQdV4A"
+        "directionUrl": "https://maps.app.goo.gl/CS1HVPz4tnqdQdV4A",
+        "storeUrl": "https://stickysaguaro.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.8160401329993, 33.21967435274316]
+        "coordinates": [
+          -111.8160401329993,
+          33.21967435274316
+        ]
       }
     },
     {
@@ -1474,11 +1901,15 @@
         "city": "Fountain Hills",
         "state": "AZ",
         "zip": "85268",
-        "directionUrl": "https://maps.app.goo.gl/7mY3rdecrLhXHiQm9"
+        "directionUrl": "https://maps.app.goo.gl/7mY3rdecrLhXHiQm9",
+        "storeUrl": "https://weedmaps.com/dispensaries/phoenix-cannabis-co-fountain-hills?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.71494055812494, 33.596495436127995]
+        "coordinates": [
+          -111.71494055812494,
+          33.596495436127995
+        ]
       }
     },
     {
@@ -1491,11 +1922,15 @@
         "city": "Chandler",
         "state": "AZ",
         "zip": "85248",
-        "directionUrl": "https://maps.app.goo.gl/UuZ5ZvWXuwHoxBe57"
+        "directionUrl": "https://maps.app.goo.gl/UuZ5ZvWXuwHoxBe57",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-south-chandler?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.8407410435069, 33.20591302815314]
+        "coordinates": [
+          -111.8407410435069,
+          33.20591302815314
+        ]
       }
     },
     {
@@ -1508,11 +1943,15 @@
         "city": "Glendale",
         "state": "AZ",
         "zip": "85308",
-        "directionUrl": "https://maps.app.goo.gl/NhPmavNH6Pg5fRgC9"
+        "directionUrl": "https://maps.app.goo.gl/NhPmavNH6Pg5fRgC9",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-bell-glendale?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.20228181949828, 33.638707663605274]
+        "coordinates": [
+          -112.20228181949828,
+          33.638707663605274
+        ]
       }
     },
     {
@@ -1525,11 +1964,15 @@
         "city": "Glendale",
         "state": "AZ",
         "zip": "85301",
-        "directionUrl": "https://maps.app.goo.gl/3u7JjYBdD51ghnhZ9"
+        "directionUrl": "https://maps.app.goo.gl/3u7JjYBdD51ghnhZ9",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-grand-glendale?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.20549617532049, 33.556146208096315]
+        "coordinates": [
+          -112.20549617532049,
+          33.556146208096315
+        ]
       }
     },
     {
@@ -1542,11 +1985,15 @@
         "city": "Litchfield Park",
         "state": "AZ",
         "zip": "85340",
-        "directionUrl": "https://maps.app.goo.gl/gsuBjKPJq8ScBKbH6"
+        "directionUrl": "https://maps.app.goo.gl/gsuBjKPJq8ScBKbH6",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-litchfield?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.32478605510016, 33.5071651309725]
+        "coordinates": [
+          -112.32478605510016,
+          33.5071651309725
+        ]
       }
     },
     {
@@ -1559,11 +2006,15 @@
         "city": "Lake Havasu City",
         "state": "AZ",
         "zip": "86403",
-        "directionUrl": "https://maps.app.goo.gl/DhNtDAMAd3DnoFPj6"
+        "directionUrl": "https://maps.app.goo.gl/DhNtDAMAd3DnoFPj6",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-of-lake-havasu?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-114.35027252926997, 34.47717248237153]
+        "coordinates": [
+          -114.35027252926997,
+          34.47717248237153
+        ]
       }
     },
     {
@@ -1576,11 +2027,15 @@
         "city": "Phoenix",
         "state": "AZ",
         "zip": "85014",
-        "directionUrl": "https://maps.app.goo.gl/gHPVqyXKnzz5PqXe9"
+        "directionUrl": "https://maps.app.goo.gl/gHPVqyXKnzz5PqXe9",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-midtown-phoenix?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.06542867347082, 33.49248296373183]
+        "coordinates": [
+          -112.06542867347082,
+          33.49248296373183
+        ]
       }
     },
     {
@@ -1593,11 +2048,15 @@
         "city": "Chandler",
         "state": "AZ",
         "zip": "85226",
-        "directionUrl": "https://maps.app.goo.gl/BqmYnbQKfPhUUKes6"
+        "directionUrl": "https://maps.app.goo.gl/BqmYnbQKfPhUUKes6",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-north-chandler?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.97038878396998, 33.292900520927944]
+        "coordinates": [
+          -111.97038878396998,
+          33.292900520927944
+        ]
       }
     },
     {
@@ -1610,11 +2069,15 @@
         "city": "Mesa",
         "state": "AZ",
         "zip": "85212",
-        "directionUrl": "https://maps.app.goo.gl/f9eoVpUu4ik2BeWf7"
+        "directionUrl": "https://maps.app.goo.gl/f9eoVpUu4ik2BeWf7",
+        "storeUrl": "https://weedmaps.com/dispensaries/zen-leaf-gilbert?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.6859141832641, 33.31803647366439] 
+        "coordinates": [
+          -111.6859141832641,
+          33.31803647366439
+        ]
       }
     },
     {
@@ -1627,11 +2090,15 @@
         "city": "Bullhead City",
         "state": "AZ",
         "zip": "86442",
-        "directionUrl": "https://maps.app.goo.gl/hKCKEzVBDRArtpXm8"
+        "directionUrl": "https://maps.app.goo.gl/hKCKEzVBDRArtpXm8",
+        "storeUrl": "https://weedmaps.com/dispensaries/story-cannabis-bullhead-city?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-114.586889885078, 35.05278879258946]
+        "coordinates": [
+          -114.586889885078,
+          35.05278879258946
+        ]
       }
     },
     {
@@ -1644,11 +2111,15 @@
         "city": "Mesa",
         "state": "AZ",
         "zip": "85207",
-        "directionUrl": "https://maps.app.goo.gl/iFeGbbmL5b1AtXtHA"
+        "directionUrl": "https://maps.app.goo.gl/iFeGbbmL5b1AtXtHA",
+        "storeUrl": "https://weedmaps.com/dispensaries/health-for-life-crismon?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.61524030469322, 33.4149079153778]
+        "coordinates": [
+          -111.61524030469322,
+          33.4149079153778
+        ]
       }
     },
     {
@@ -1661,11 +2132,15 @@
         "city": "Chandler",
         "state": "AZ",
         "zip": "85226",
-        "directionUrl": "https://maps.app.goo.gl/oy2BMR3KL2SL4Yy46"
+        "directionUrl": "https://maps.app.goo.gl/oy2BMR3KL2SL4Yy46",
+        "storeUrl": "https://weedmaps.com/dispensaries/zen-leaf-chandler?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-111.96603883908497, 33.30622403905909] 
+        "coordinates": [
+          -111.96603883908497,
+          33.30622403905909
+        ]
       }
     },
     {
@@ -1678,11 +2153,15 @@
         "city": "Prescott",
         "state": "AZ",
         "zip": "86301",
-        "directionUrl": "https://maps.app.goo.gl/UP4UDLbR5iS6gdKk9"
+        "directionUrl": "https://maps.app.goo.gl/UP4UDLbR5iS6gdKk9",
+        "storeUrl": "https://weedmaps.com/dispensaries/swc-prescott-by-zen-leaf?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.46890184831439, 34.554990302909154]
+        "coordinates": [
+          -112.46890184831439,
+          34.554990302909154
+        ]
       }
     },
     {
@@ -1695,11 +2174,15 @@
         "city": "Phoenix",
         "state": "AZ",
         "zip": "85022",
-        "directionUrl": "https://maps.app.goo.gl/toJ3wt2YKEBuUHB56"
+        "directionUrl": "https://maps.app.goo.gl/toJ3wt2YKEBuUHB56",
+        "storeUrl": "https://weedmaps.com/dispensaries/zen-leaf-cave-creek?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-112.03666385812475, 33.599055637263646]
+        "coordinates": [
+          -112.03666385812475,
+          33.599055637263646
+        ]
       }
     },
     {
@@ -1712,11 +2195,15 @@
         "city": "Doylestown",
         "state": "PA",
         "zip": "18902",
-        "directionUrl": "https://maps.app.goo.gl/sWxmF4kp72NvsFbL7"
+        "directionUrl": "https://maps.app.goo.gl/sWxmF4kp72NvsFbL7",
+        "storeUrl": "https://restoredispensaries.com/locations/doylestown/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.12980598681395, 40.33284419287355]
+        "coordinates": [
+          -75.12980598681395,
+          40.33284419287355
+        ]
       }
     },
     {
@@ -1729,11 +2216,15 @@
         "city": "East Petersburg",
         "state": "PA",
         "zip": "17520",
-        "directionUrl": "https://maps.app.goo.gl/mdpxqUm4ruYdxDzr6"
+        "directionUrl": "https://maps.app.goo.gl/mdpxqUm4ruYdxDzr6",
+        "storeUrl": "https://restoredispensaries.com/locations/lancaster/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.34943973099901, 40.09313808476422]
+        "coordinates": [
+          -76.34943973099901,
+          40.09313808476422
+        ]
       }
     },
     {
@@ -1746,11 +2237,15 @@
         "city": "Pittsburgh",
         "state": "PA",
         "zip": "15206",
-        "directionUrl": "https://maps.app.goo.gl/GdSfQCxosESVNAnU8"
+        "directionUrl": "https://maps.app.goo.gl/GdSfQCxosESVNAnU8",
+        "storeUrl": "https://weedmaps.com/dispensaries/maitri-medicinals-pittsburgh?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.93047331749712, 40.45870191083441]
+        "coordinates": [
+          -79.93047331749712,
+          40.45870191083441
+        ]
       }
     },
     {
@@ -1763,11 +2258,15 @@
         "city": "New Stanton",
         "state": "PA",
         "zip": "15672",
-        "directionUrl": "https://maps.app.goo.gl/Yhov5r69o3dAdSbW7"
+        "directionUrl": "https://maps.app.goo.gl/Yhov5r69o3dAdSbW7",
+        "storeUrl": "https://www.maitrimedicinals.com/newstanton"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.61109068866749, 40.220314330991336]
+        "coordinates": [
+          -79.61109068866749,
+          40.220314330991336
+        ]
       }
     },
     {
@@ -1780,11 +2279,15 @@
         "city": "Uniontown",
         "state": "PA",
         "zip": "15401",
-        "directionUrl": "https://maps.app.goo.gl/xX1UX5ncXbhhksYt6"
+        "directionUrl": "https://maps.app.goo.gl/xX1UX5ncXbhhksYt6",
+        "storeUrl": "https://weedmaps.com/dispensaries/maitri-medicinals?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.72644691751123, 39.90092518528556]
+        "coordinates": [
+          -79.72644691751123,
+          39.90092518528556
+        ]
       }
     },
     {
@@ -1797,11 +2300,15 @@
         "city": "Williamsport",
         "state": "PA",
         "zip": "17701",
-        "directionUrl": "https://maps.app.goo.gl/snJurBYqwKnANtoR7"
+        "directionUrl": "https://maps.app.goo.gl/snJurBYqwKnANtoR7",
+        "storeUrl": "https://www.thehivedispensary.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.0362995732979, 41.24471597670715]
+        "coordinates": [
+          -77.0362995732979,
+          41.24471597670715
+        ]
       }
     },
     {
@@ -1814,11 +2321,15 @@
         "city": "Shamokin Dam",
         "state": "PA",
         "zip": "17876",
-        "directionUrl": "https://maps.app.goo.gl/HSSSCXRzBsevXfWt9"
+        "directionUrl": "https://maps.app.goo.gl/HSSSCXRzBsevXfWt9",
+        "storeUrl": "https://www.thehivedispensary.com/shamokin-dam-menu"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.82740287330829, 40.842732067547416]
+        "coordinates": [
+          -76.82740287330829,
+          40.842732067547416
+        ]
       }
     },
     {
@@ -1831,11 +2342,15 @@
         "city": "State College",
         "state": "PA",
         "zip": "16803",
-        "directionUrl": "https://maps.app.goo.gl/AEwFSmf6cuykeW23A"
+        "directionUrl": "https://maps.app.goo.gl/AEwFSmf6cuykeW23A",
+        "storeUrl": "https://www.thehivedispensary.com/state-college-menu"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.89331461563765, 40.80756510350947]
+        "coordinates": [
+          -77.89331461563765,
+          40.80756510350947
+        ]
       }
     },
     {
@@ -1848,11 +2363,15 @@
         "city": "Annville",
         "state": "PA",
         "zip": "17003",
-        "directionUrl": "https://maps.app.goo.gl/sd31jhQGECBzWW2t7"
+        "directionUrl": "https://maps.app.goo.gl/sd31jhQGECBzWW2t7",
+        "storeUrl": "https://weedmaps.com/dispensaries/fluent-annville?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.49762610030659, 40.33343566393087]
+        "coordinates": [
+          -76.49762610030659,
+          40.33343566393087
+        ]
       }
     },
     {
@@ -1865,11 +2384,15 @@
         "city": "Hanover",
         "state": "PA",
         "zip": "17331",
-        "directionUrl": "https://maps.app.goo.gl/oeLhhQSZWzUvCquT7"
+        "directionUrl": "https://maps.app.goo.gl/oeLhhQSZWzUvCquT7",
+        "storeUrl": "https://weedmaps.com/dispensaries/fluent-hanover-2?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.99444746566344, 39.791002985772884]  
+        "coordinates": [
+          -76.99444746566344,
+          39.791002985772884
+        ]
       }
     },
     {
@@ -1882,11 +2405,15 @@
         "city": "Mechanicsburg",
         "state": "PA",
         "zip": "17050",
-        "directionUrl": "https://maps.app.goo.gl/jBFHtbPUp1wRQhfr9"
+        "directionUrl": "https://maps.app.goo.gl/jBFHtbPUp1wRQhfr9",
+        "storeUrl": "https://weedmaps.com/dispensaries/fluent-mechanicsburg?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.99554345612994, 40.24402000070769]
+        "coordinates": [
+          -76.99554345612994,
+          40.24402000070769
+        ]
       }
     },
     {
@@ -1899,11 +2426,15 @@
         "city": "Scottdale",
         "state": "PA",
         "zip": "15683",
-        "directionUrl": "https://maps.app.goo.gl/bkbKXmqPQ6uxeLa18"
+        "directionUrl": "https://maps.app.goo.gl/bkbKXmqPQ6uxeLa18",
+        "storeUrl": "https://localleafpa.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.55786528496967, 40.086969123313814]
+        "coordinates": [
+          -79.55786528496967,
+          40.086969123313814
+        ]
       }
     },
     {
@@ -1916,11 +2447,15 @@
         "city": "Carlisle",
         "state": "PA",
         "zip": "17013",
-        "directionUrl": "https://maps.app.goo.gl/KcFU7Ky8AiWhAUz9A"
+        "directionUrl": "https://maps.app.goo.gl/KcFU7Ky8AiWhAUz9A",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-carlisle?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.14132892914493, 40.23329460273411]
+        "coordinates": [
+          -77.14132892914493,
+          40.23329460273411
+        ]
       }
     },
     {
@@ -1933,11 +2468,15 @@
         "city": "Chambersburg",
         "state": "PA",
         "zip": "17201",
-        "directionUrl": "https://maps.app.goo.gl/f7QncdoeRgdi1XB77"
+        "directionUrl": "https://maps.app.goo.gl/f7QncdoeRgdi1XB77",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-marijuana-dispensary-chambersburg?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.66586048497415, 39.91311723140611]
+        "coordinates": [
+          -77.66586048497415,
+          39.91311723140611
+        ]
       }
     },
     {
@@ -1950,11 +2489,15 @@
         "city": "Cranberry Twp",
         "state": "PA",
         "zip": "16066",
-        "directionUrl": "https://maps.app.goo.gl/kaMhpYMGhDgu763a6"
+        "directionUrl": "https://maps.app.goo.gl/kaMhpYMGhDgu763a6",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-dispensaries-cranberry?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1033554868042, 40.71483369603176]
+        "coordinates": [
+          -80.1033554868042,
+          40.71483369603176
+        ]
       }
     },
     {
@@ -1967,11 +2510,15 @@
         "city": "Duncansville",
         "state": "PA",
         "zip": "16635",
-        "directionUrl": "https://maps.app.goo.gl/ZDnS5HmQXCxC9UCy9"
+        "directionUrl": "https://maps.app.goo.gl/ZDnS5HmQXCxC9UCy9",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-dispensaries-duncansville?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-78.4083004021541, 40.45030951517877]
+        "coordinates": [
+          -78.4083004021541,
+          40.45030951517877
+        ]
       }
     },
     {
@@ -1984,11 +2531,15 @@
         "city": "Erie",
         "state": "PA",
         "zip": "16505",
-        "directionUrl": "https://maps.app.goo.gl/RHyEcLcTeFdwcofg9"
+        "directionUrl": "https://maps.app.goo.gl/RHyEcLcTeFdwcofg9",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-erie?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.13054230026022, 42.11052684110394]
+        "coordinates": [
+          -80.13054230026022,
+          42.11052684110394
+        ]
       }
     },
     {
@@ -2001,11 +2552,15 @@
         "city": "Erie",
         "state": "PA",
         "zip": "16509",
-        "directionUrl": "https://maps.app.goo.gl/RMvTwpkcEzHLMRBK7"
+        "directionUrl": "https://maps.app.goo.gl/RMvTwpkcEzHLMRBK7",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-dispensaries-erie-peach?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.08925183094796, 42.0595153181375]
+        "coordinates": [
+          -80.08925183094796,
+          42.0595153181375
+        ]
       }
     },
     {
@@ -2018,11 +2573,15 @@
         "city": "Mercer",
         "state": "PA",
         "zip": "16137",
-        "directionUrl": "https://maps.app.goo.gl/9hSnmxBX6CZpXwmZ7"
+        "directionUrl": "https://maps.app.goo.gl/9hSnmxBX6CZpXwmZ7",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-cannabis-dispensary-grove-city?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.16093195795735, 41.14196570888678]
+        "coordinates": [
+          -80.16093195795735,
+          41.14196570888678
+        ]
       }
     },
     {
@@ -2035,11 +2594,15 @@
         "city": "Hermitage",
         "state": "PA",
         "zip": "16148",
-        "directionUrl": "https://maps.app.goo.gl/3cGxmTvJeRjCXxrf8"
+        "directionUrl": "https://maps.app.goo.gl/3cGxmTvJeRjCXxrf8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-hermitage-1?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.4569582333591, 41.233179824248055]
+        "coordinates": [
+          -80.4569582333591,
+          41.233179824248055
+        ]
       }
     },
     {
@@ -2052,11 +2615,15 @@
         "city": "King of Prussia",
         "state": "PA",
         "zip": "19406",
-        "directionUrl": "https://maps.app.goo.gl/sKVbnRGyTTXpDKvv7"
+        "directionUrl": "https://maps.app.goo.gl/sKVbnRGyTTXpDKvv7",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-king-of-prussia?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.3744780156559, 40.0905342422571]
+        "coordinates": [
+          -75.3744780156559,
+          40.0905342422571
+        ]
       }
     },
     {
@@ -2069,11 +2636,15 @@
         "city": "Latrobe",
         "state": "PA",
         "zip": "15650",
-        "directionUrl": "https://maps.app.goo.gl/zgEV4N7H65KQcSGD8"
+        "directionUrl": "https://maps.app.goo.gl/zgEV4N7H65KQcSGD8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-latrobe?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.43659186406983, 40.28711857435448]
+        "coordinates": [
+          -79.43659186406983,
+          40.28711857435448
+        ]
       }
     },
     {
@@ -2086,11 +2657,15 @@
         "city": "Lebanon",
         "state": "PA",
         "zip": "17042",
-        "directionUrl": "https://maps.app.goo.gl/rJsgJBDamfjvtN5w5"
+        "directionUrl": "https://maps.app.goo.gl/rJsgJBDamfjvtN5w5",
+        "storeUrl": "https://risecannabis.com/dispensaries/pennsylvania/lebanon/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.43971676776965, 40.33798546272639]
+        "coordinates": [
+          -76.43971676776965,
+          40.33798546272639
+        ]
       }
     },
     {
@@ -2103,11 +2678,15 @@
         "city": "Meadville",
         "state": "PA",
         "zip": "16335",
-        "directionUrl": "https://maps.app.goo.gl/rQR2JcaT88jSrKYS8"
+        "directionUrl": "https://maps.app.goo.gl/rQR2JcaT88jSrKYS8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-marijuana-dispensary-meadville?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.16022738493002, 41.623234113352396]
+        "coordinates": [
+          -80.16022738493002,
+          41.623234113352396
+        ]
       }
     },
     {
@@ -2120,11 +2699,15 @@
         "city": "Mechanicsburg",
         "state": "PA",
         "zip": "17050",
-        "directionUrl": "https://maps.app.goo.gl/D22Pmuqyta5fRT139"
+        "directionUrl": "https://maps.app.goo.gl/D22Pmuqyta5fRT139",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-mechanicsburg?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.9788386040233, 40.21775667371056] 
+        "coordinates": [
+          -76.9788386040233,
+          40.21775667371056
+        ]
       }
     },
     {
@@ -2137,11 +2720,15 @@
         "city": "Monroeville",
         "state": "PA",
         "zip": "15146",
-        "directionUrl": "https://maps.app.goo.gl/NrE8PYC6nDj5zVVN9"
+        "directionUrl": "https://maps.app.goo.gl/NrE8PYC6nDj5zVVN9",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-dispensaries-monroeville?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.78213246406601, 40.437423716353834]
+        "coordinates": [
+          -79.78213246406601,
+          40.437423716353834
+        ]
       }
     },
     {
@@ -2154,11 +2741,15 @@
         "city": "New Castle",
         "state": "PA",
         "zip": "16101",
-        "directionUrl": "https://maps.app.goo.gl/GPYJ8QTZkUmUemSR7"
+        "directionUrl": "https://maps.app.goo.gl/GPYJ8QTZkUmUemSR7",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-marijuana-dispensary-new-castle?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.39944225055848, 41.01481826895285]
+        "coordinates": [
+          -80.39944225055848,
+          41.01481826895285
+        ]
       }
     },
     {
@@ -2171,11 +2762,15 @@
         "city": "Philadelphia",
         "state": "PA",
         "zip": "19137",
-        "directionUrl": "https://maps.app.goo.gl/ACK2nwmMCpb1FLrm6"
+        "directionUrl": "https://maps.app.goo.gl/ACK2nwmMCpb1FLrm6",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-cannabis-dispensary-philadelphia?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.08684820825613, 39.99796787093491] 
+        "coordinates": [
+          -75.08684820825613,
+          39.99796787093491
+        ]
       }
     },
     {
@@ -2188,11 +2783,15 @@
         "city": "Steelton",
         "state": "PA",
         "zip": "17113",
-        "directionUrl": "https://maps.app.goo.gl/mht5gLhrR5MjjDor8"
+        "directionUrl": "https://maps.app.goo.gl/mht5gLhrR5MjjDor8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-steelton?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.82697926222092, 40.2252204874555]
+        "coordinates": [
+          -76.82697926222092,
+          40.2252204874555
+        ]
       }
     },
     {
@@ -2205,11 +2804,15 @@
         "city": "Warminster",
         "state": "PA",
         "zip": "18974",
-        "directionUrl": "https://maps.app.goo.gl/XKGRaaTuhQpZeuXH8"
+        "directionUrl": "https://maps.app.goo.gl/XKGRaaTuhQpZeuXH8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-marijuana-dispensary-warminster?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.09979131804258, 40.20199763180678]
+        "coordinates": [
+          -75.09979131804258,
+          40.20199763180678
+        ]
       }
     },
     {
@@ -2222,11 +2825,15 @@
         "city": "York",
         "state": "PA",
         "zip": "17404",
-        "directionUrl": "https://maps.app.goo.gl/c2RmW9GbyXFLZE9k9"
+        "directionUrl": "https://maps.app.goo.gl/c2RmW9GbyXFLZE9k9",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-york?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.77433795058546, 39.961422352470095]
+        "coordinates": [
+          -76.77433795058546,
+          39.961422352470095
+        ]
       }
     },
     {
@@ -2239,11 +2846,15 @@
         "city": "Aliquippa",
         "state": "PA",
         "zip": "15001",
-        "directionUrl": "https://maps.app.goo.gl/iqBNQ8okceDPyQw46"
+        "directionUrl": "https://maps.app.goo.gl/iqBNQ8okceDPyQw46",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-aliquippa?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.28218851988274, 40.60639463263282] 
+        "coordinates": [
+          -80.28218851988274,
+          40.60639463263282
+        ]
       }
     },
     {
@@ -2256,11 +2867,15 @@
         "city": "Bensalem",
         "state": "PA",
         "zip": "19020",
-        "directionUrl": "https://maps.app.goo.gl/SWESrYid6eraKVrLA"
+        "directionUrl": "https://maps.app.goo.gl/SWESrYid6eraKVrLA",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-bensalem?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.95035280455151, 40.13716039609169]
+        "coordinates": [
+          -74.95035280455151,
+          40.13716039609169
+        ]
       }
     },
     {
@@ -2273,11 +2888,15 @@
         "city": "Cranberry Twp",
         "state": "PA",
         "zip": "16066",
-        "directionUrl": "https://maps.app.goo.gl/RGVAvesuZWS9GkN6A"
+        "directionUrl": "https://maps.app.goo.gl/RGVAvesuZWS9GkN6A",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-cranberry?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.11123020453758, 40.68352938507912]
+        "coordinates": [
+          -80.11123020453758,
+          40.68352938507912
+        ]
       }
     },
     {
@@ -2290,11 +2909,15 @@
         "city": "Norristown",
         "state": "PA",
         "zip": "19403",
-        "directionUrl": "https://maps.app.goo.gl/cdgjbmAuH7FAPn3G7"
+        "directionUrl": "https://maps.app.goo.gl/cdgjbmAuH7FAPn3G7",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-norristown?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.37985361989489, 40.133290495825065]
+        "coordinates": [
+          -75.37985361989489,
+          40.133290495825065
+        ]
       }
     },
     {
@@ -2307,11 +2930,15 @@
         "city": "Philadelphia",
         "state": "PA",
         "zip": "19115",
-        "directionUrl": "https://maps.app.goo.gl/oSxqALBJJuMJxSTZ8"
+        "directionUrl": "https://maps.app.goo.gl/oSxqALBJJuMJxSTZ8",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-philadelphia?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.04922955852342, 40.08303688026097]
+        "coordinates": [
+          -75.04922955852342,
+          40.08303688026097
+        ]
       }
     },
     {
@@ -2324,11 +2951,15 @@
         "city": "Pittsburgh",
         "state": "PA",
         "zip": "15216",
-        "directionUrl": "https://maps.app.goo.gl/JmV9HQ3xTPLA43oaA"
+        "directionUrl": "https://maps.app.goo.gl/JmV9HQ3xTPLA43oaA",
+        "storeUrl": "https://libertycannabis.com/locations/pennsylvania/pittsburgh/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.03834622967989, 40.39118855840545]
+        "coordinates": [
+          -80.03834622967989,
+          40.39118855840545
+        ]
       }
     },
     {
@@ -2341,11 +2972,15 @@
         "city": "Erie",
         "state": "PA",
         "zip": "16509",
-        "directionUrl": "https://maps.app.goo.gl/J9Fe2TZJat36MMZX7"
+        "directionUrl": "https://maps.app.goo.gl/J9Fe2TZJat36MMZX7",
+        "storeUrl": "https://weedmaps.com/dispensaries/sunnyside-medical-cannabis-dispensary-erie?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.08166333703865, 42.051280537797396]
+        "coordinates": [
+          -80.08166333703865,
+          42.051280537797396
+        ]
       }
     },
     {
@@ -2358,11 +2993,15 @@
         "city": "Butler",
         "state": "PA",
         "zip": "16001",
-        "directionUrl": "https://maps.app.goo.gl/kw7YvUqiu8cavaDU9"
+        "directionUrl": "https://maps.app.goo.gl/kw7YvUqiu8cavaDU9",
+        "storeUrl": "https://weedmaps.com/dispensaries/cy-dispensaries?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.90537333336877, 40.86046809990694] 
+        "coordinates": [
+          -79.90537333336877,
+          40.86046809990694
+        ]
       }
     },
     {
@@ -2375,11 +3014,15 @@
         "city": "San Diego",
         "state": "CA",
         "zip": "92121",
-        "directionUrl": "https://maps.app.goo.gl/8DH6egipHyHNZEvN7"
+        "directionUrl": "https://maps.app.goo.gl/8DH6egipHyHNZEvN7",
+        "storeUrl": "https://weedmaps.com/dispensaries/buzz-cannabis?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.22037665816512, 32.89899191393538] 
+        "coordinates": [
+          -117.22037665816512,
+          32.89899191393538
+        ]
       }
     },
     {
@@ -2392,11 +3035,15 @@
         "city": "Willows",
         "state": "CA",
         "zip": "95988",
-        "directionUrl": "https://maps.app.goo.gl/LNDxevnMDZDQWW5t6"
+        "directionUrl": "https://maps.app.goo.gl/LNDxevnMDZDQWW5t6",
+        "storeUrl": "https://weedmaps.com/dispensaries/cali-love-willows?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.19559730219174, 39.52170574061695]
+        "coordinates": [
+          -122.19559730219174,
+          39.52170574061695
+        ]
       }
     },
     {
@@ -2409,11 +3056,15 @@
         "city": "Belmont",
         "state": "CA",
         "zip": "94002",
-        "directionUrl": "https://maps.app.goo.gl/GUwBDaRajgf1yoH18"
+        "directionUrl": "https://maps.app.goo.gl/GUwBDaRajgf1yoH18",
+        "storeUrl": "https://weedmaps.com/dispensaries/nug-cannavine?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.27062708874797, 37.51565313174926]
+        "coordinates": [
+          -122.27062708874797,
+          37.51565313174926
+        ]
       }
     },
     {
@@ -2426,11 +3077,15 @@
         "city": "Ukiah",
         "state": "CA",
         "zip": "95482",
-        "directionUrl": "https://maps.app.goo.gl/nwLEDbJpUF32WDDw7"
+        "directionUrl": "https://maps.app.goo.gl/nwLEDbJpUF32WDDw7",
+        "storeUrl": "https://weedmaps.com/dispensaries/cannavine?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-123.19946300803086, 39.15917978240136]
+        "coordinates": [
+          -123.19946300803086,
+          39.15917978240136
+        ]
       }
     },
     {
@@ -2443,11 +3098,15 @@
         "city": "Santa Ana",
         "state": "CA",
         "zip": "92705",
-        "directionUrl": "https://maps.app.goo.gl/JSXwULLBYVJYXjFx6"
+        "directionUrl": "https://maps.app.goo.gl/JSXwULLBYVJYXjFx6",
+        "storeUrl": "https://weedmaps.com/dispensaries/oc3-collective?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.86010307058308, 33.70540738743738]
+        "coordinates": [
+          -117.86010307058308,
+          33.70540738743738
+        ]
       }
     },
     {
@@ -2460,11 +3119,15 @@
         "city": "Lancaster",
         "state": "CA",
         "zip": "93535",
-        "directionUrl": "https://maps.app.goo.gl/akLLsEMpdfh3v3V27"
+        "directionUrl": "https://maps.app.goo.gl/akLLsEMpdfh3v3V27",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-lancaster?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.12279791764976,  34.64659042172238]
+        "coordinates": [
+          -118.12279791764976,
+          34.64659042172238
+        ]
       }
     },
     {
@@ -2477,11 +3140,15 @@
         "city": "Los Angeles",
         "state": "CA",
         "zip": "90019",
-        "directionUrl": "https://maps.app.goo.gl/B6VKfLh9VUg16T9f7"
+        "directionUrl": "https://maps.app.goo.gl/B6VKfLh9VUg16T9f7",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-mid-city?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.32075464464837, 34.043586714557]
+        "coordinates": [
+          -118.32075464464837,
+          34.043586714557
+        ]
       }
     },
     {
@@ -2494,11 +3161,15 @@
         "city": "Oxnard",
         "state": "CA",
         "zip": "93033",
-        "directionUrl": "https://maps.app.goo.gl/JUDeTTz3FTMAWWuPA"
+        "directionUrl": "https://maps.app.goo.gl/JUDeTTz3FTMAWWuPA",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-oxnard?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.16077591581009, 34.15709006697124] 
+        "coordinates": [
+          -119.16077591581009,
+          34.15709006697124
+        ]
       }
     },
     {
@@ -2511,11 +3182,15 @@
         "city": "Pomona",
         "state": "CA",
         "zip": "91767",
-        "directionUrl": "https://maps.app.goo.gl/25oV5qgaBj8SdNfY6"
+        "directionUrl": "https://maps.app.goo.gl/25oV5qgaBj8SdNfY6",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-pomona?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.74251560231956, 34.06268725968179]
+        "coordinates": [
+          -117.74251560231956,
+          34.06268725968179
+        ]
       }
     },
     {
@@ -2528,11 +3203,15 @@
         "city": "Los Angeles",
         "state": "CA",
         "zip": "90003",
-        "directionUrl": "https://maps.app.goo.gl/4kb5xW6rPqpCd1nj7"
+        "directionUrl": "https://maps.app.goo.gl/4kb5xW6rPqpCd1nj7",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-south-figueroa?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.28226177533664, 33.94506627976195]
+        "coordinates": [
+          -118.28226177533664,
+          33.94506627976195
+        ]
       }
     },
     {
@@ -2545,11 +3224,15 @@
         "city": "Van Nuys",
         "state": "CA",
         "zip": "91406",
-        "directionUrl": "https://maps.app.goo.gl/U72pKBiXZ9wdEK5HA"
+        "directionUrl": "https://maps.app.goo.gl/U72pKBiXZ9wdEK5HA",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-van-nuys?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.4719452158088, 34.21919251867671]
+        "coordinates": [
+          -118.4719452158088,
+          34.21919251867671
+        ]
       }
     },
     {
@@ -2562,11 +3245,15 @@
         "city": "Berkeley",
         "state": "CA",
         "zip": "94705",
-        "directionUrl": "https://maps.app.goo.gl/iG11X6Zo5su7RNY4A"
+        "directionUrl": "https://maps.app.goo.gl/iG11X6Zo5su7RNY4A",
+        "storeUrl": "https://weedmaps.com/dispensaries/cbcb?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.26600745268345, 37.854285628484305]
+        "coordinates": [
+          -122.26600745268345,
+          37.854285628484305
+        ]
       }
     },
     {
@@ -2579,11 +3266,15 @@
         "city": "Oakland",
         "state": "CA",
         "zip": "94607",
-        "directionUrl": "https://maps.app.goo.gl/f32Msujt1pv2NBaU8"
+        "directionUrl": "https://maps.app.goo.gl/f32Msujt1pv2NBaU8",
+        "storeUrl": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.27496468522986, 37.80014976124446]
+        "coordinates": [
+          -122.27496468522986,
+          37.80014976124446
+        ]
       }
     },
     {
@@ -2596,11 +3287,15 @@
         "city": "Cathedral City",
         "state": "CA",
         "zip": "92234",
-        "directionUrl": "https://maps.app.goo.gl/wPLqB13iE6JYR1Bf7"
+        "directionUrl": "https://maps.app.goo.gl/wPLqB13iE6JYR1Bf7",
+        "storeUrl": "https://weedmaps.com/dispensaries/desert-kush-26?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-116.46703194465384, 33.78268961168327]
+        "coordinates": [
+          -116.46703194465384,
+          33.78268961168327
+        ]
       }
     },
     {
@@ -2613,11 +3308,15 @@
         "city": "San Francisco",
         "state": "CA",
         "zip": "94134",
-        "directionUrl": "https://maps.app.goo.gl/qQNuynragx49Wbgg9"
+        "directionUrl": "https://maps.app.goo.gl/qQNuynragx49Wbgg9",
+        "storeUrl": "https://weedmaps.com/dispensaries/elevated-sf-2?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.40419426969981, 37.71100027582766]
+        "coordinates": [
+          -122.40419426969981,
+          37.71100027582766
+        ]
       }
     },
     {
@@ -2630,11 +3329,15 @@
         "city": "Petaluma",
         "state": "CA",
         "zip": "94954",
-        "directionUrl": "https://maps.app.goo.gl/5NJB63PXmRnNxwUi7"
+        "directionUrl": "https://maps.app.goo.gl/5NJB63PXmRnNxwUi7",
+        "storeUrl": "https://weedmaps.com/dispensaries/farmhouse-artisan-market?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.66400438687988, 38.27191184788582]
+        "coordinates": [
+          -122.66400438687988,
+          38.27191184788582
+        ]
       }
     },
     {
@@ -2647,11 +3350,15 @@
         "city": "Antioch",
         "state": "CA",
         "zip": "94509",
-        "directionUrl": "https://maps.app.goo.gl/Jkb25vw9gVouJYgm6"
+        "directionUrl": "https://maps.app.goo.gl/Jkb25vw9gVouJYgm6",
+        "storeUrl": "https://weedmaps.com/dispensaries/flame-antioch?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.83645508576272, 38.02062239632688]
+        "coordinates": [
+          -121.83645508576272,
+          38.02062239632688
+        ]
       }
     },
     {
@@ -2664,11 +3371,15 @@
         "city": "Woodlake",
         "state": "CA",
         "zip": "93286",
-        "directionUrl": "https://maps.app.goo.gl/EAvTAjZjEzgqPirF9"
+        "directionUrl": "https://maps.app.goo.gl/EAvTAjZjEzgqPirF9",
+        "storeUrl": "https://weedmaps.com/dispensaries/green-bean-pharm-3-2?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.10512816828044, 36.413605643983196]
+        "coordinates": [
+          -119.10512816828044,
+          36.413605643983196
+        ]
       }
     },
     {
@@ -2681,11 +3392,15 @@
         "city": "Hanford",
         "state": "CA",
         "zip": "93230",
-        "directionUrl": "https://maps.app.goo.gl/dxd565aZviCrURM56"
+        "directionUrl": "https://maps.app.goo.gl/dxd565aZviCrURM56",
+        "storeUrl": "https://weedmaps.com/dispensaries/herbnjoy-hanford?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.64542780226891, 36.324566931718834]
+        "coordinates": [
+          -119.64542780226891,
+          36.324566931718834
+        ]
       }
     },
     {
@@ -2698,11 +3413,15 @@
         "city": "Stockton",
         "state": "CA",
         "zip": "95206",
-        "directionUrl": "https://maps.app.goo.gl/ATLzcsT1RWZcmLEG7"
+        "directionUrl": "https://maps.app.goo.gl/ATLzcsT1RWZcmLEG7",
+        "storeUrl": "https://www.gokushy.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.31074771572348, 37.93788272725714]
+        "coordinates": [
+          -121.31074771572348,
+          37.93788272725714
+        ]
       }
     },
     {
@@ -2715,11 +3434,15 @@
         "city": "San Francisco",
         "state": "CA",
         "zip": "94123",
-        "directionUrl": "https://maps.app.goo.gl/U4eN7EcRh1VbqqxK6"
+        "directionUrl": "https://maps.app.goo.gl/U4eN7EcRh1VbqqxK6",
+        "storeUrl": "https://weedmaps.com/dispensaries/marina-greens?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.43600677524886, 37.79837470242677]
+        "coordinates": [
+          -122.43600677524886,
+          37.79837470242677
+        ]
       }
     },
     {
@@ -2732,11 +3455,15 @@
         "city": "Redding",
         "state": "CA",
         "zip": "96001",
-        "directionUrl": "https://maps.app.goo.gl/kXeh4MzMrcKGxcXZ7"
+        "directionUrl": "https://maps.app.goo.gl/kXeh4MzMrcKGxcXZ7",
+        "storeUrl": "https://weedmaps.com/dispensaries/nug-sundial?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.39621374449399, 40.55605504035403]
+        "coordinates": [
+          -122.39621374449399,
+          40.55605504035403
+        ]
       }
     },
     {
@@ -2749,11 +3476,15 @@
         "city": "North Hollywood",
         "state": "CA",
         "zip": "91605",
-        "directionUrl": "https://maps.app.goo.gl/FgujnQQn2rhSgcYg7"
+        "directionUrl": "https://maps.app.goo.gl/FgujnQQn2rhSgcYg7",
+        "storeUrl": "https://weedmaps.com/dispensaries/rebud-north-hollywood?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.39738285813759, 34.19993777202147]
+        "coordinates": [
+          -118.39738285813759,
+          34.19993777202147
+        ]
       }
     },
     {
@@ -2766,11 +3497,15 @@
         "city": "Lompoc",
         "state": "CA",
         "zip": "93436",
-        "directionUrl": "https://maps.app.goo.gl/HaaABtHuxj1hed8o8"
+        "directionUrl": "https://maps.app.goo.gl/HaaABtHuxj1hed8o8",
+        "storeUrl": "https://weedmaps.com/dispensaries/royal-healing-emporium-lompoc?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-120.46573798696325, 34.66131459416829]
+        "coordinates": [
+          -120.46573798696325,
+          34.66131459416829
+        ]
       }
     },
     {
@@ -2783,11 +3518,15 @@
         "city": "Sacramento",
         "state": "CA",
         "zip": "95822",
-        "directionUrl": "https://maps.app.goo.gl/SYK9ojw9nVWLPJ8Y8"
+        "directionUrl": "https://maps.app.goo.gl/SYK9ojw9nVWLPJ8Y8",
+        "storeUrl": "https://weedmaps.com/dispensaries/symbiotic-sacramento-south?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.47635827338128, 38.508912526216456] 
+        "coordinates": [
+          -121.47635827338128,
+          38.508912526216456
+        ]
       }
     },
     {
@@ -2800,11 +3539,15 @@
         "city": "El Monte",
         "state": "CA",
         "zip": "91732",
-        "directionUrl": "https://maps.app.goo.gl/RBGnBcTdiRikRSbC9"
+        "directionUrl": "https://maps.app.goo.gl/RBGnBcTdiRikRSbC9",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-cake-house-el-monte?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.01489404464743, 34.08977845119685] 
+        "coordinates": [
+          -118.01489404464743,
+          34.08977845119685
+        ]
       }
     },
     {
@@ -2817,11 +3560,15 @@
         "city": "Wildomar",
         "state": "CA",
         "zip": "92595",
-        "directionUrl": "https://maps.app.goo.gl/vGLncnsXzSRQW6seA"
+        "directionUrl": "https://maps.app.goo.gl/vGLncnsXzSRQW6seA",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-cake-house-clinton-keith?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.25317576000107, 33.588831934528876]
+        "coordinates": [
+          -117.25317576000107,
+          33.588831934528876
+        ]
       }
     },
     {
@@ -2834,11 +3581,15 @@
         "city": "San Francisco",
         "state": "CA",
         "zip": "94107",
-        "directionUrl": "https://maps.app.goo.gl/8ySYmmqGxutisHkt6"
+        "directionUrl": "https://maps.app.goo.gl/8ySYmmqGxutisHkt6",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-hill?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.39399381572794, 37.758278134530215]
+        "coordinates": [
+          -122.39399381572794,
+          37.758278134530215
+        ]
       }
     },
     {
@@ -2851,11 +3602,15 @@
         "city": "Farmersville",
         "state": "CA",
         "zip": "93223",
-        "directionUrl": "https://maps.app.goo.gl/M7CZx1739FvuSufk7"
+        "directionUrl": "https://maps.app.goo.gl/M7CZx1739FvuSufk7",
+        "storeUrl": "https://weedmaps.com/dispensaries/valley-pure-farmersville?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.20967328877624, 36.325261796272336]
+        "coordinates": [
+          -119.20967328877624,
+          36.325261796272336
+        ]
       }
     },
     {
@@ -2868,11 +3623,15 @@
         "city": "Tulare",
         "state": "CA",
         "zip": "93274",
-        "directionUrl": "https://maps.app.goo.gl/e37szwV3nrYZekhU7"
+        "directionUrl": "https://maps.app.goo.gl/e37szwV3nrYZekhU7",
+        "storeUrl": "https://weedmaps.com/dispensaries/valley-pure-tulare?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.33747450227123, 36.23025777822813]
+        "coordinates": [
+          -119.33747450227123,
+          36.23025777822813
+        ]
       }
     },
     {
@@ -2885,11 +3644,15 @@
         "city": "Los Angeles",
         "state": "CA",
         "zip": "90041",
-        "directionUrl": "https://maps.app.goo.gl/fgzL1PtY14ypXeSm8"
+        "directionUrl": "https://maps.app.goo.gl/fgzL1PtY14ypXeSm8",
+        "storeUrl": "https://weedmaps.com/dispensaries/velvet-cannabis-dispensary-eagle-rock?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.19036791581058, 34.13749371661665]
+        "coordinates": [
+          -118.19036791581058,
+          34.13749371661665
+        ]
       }
     },
     {
@@ -2902,11 +3665,15 @@
         "city": "Napa",
         "state": "CA",
         "zip": "94559",
-        "directionUrl": "https://maps.app.goo.gl/ZA3tptuvfhMRKwZk9"
+        "directionUrl": "https://maps.app.goo.gl/ZA3tptuvfhMRKwZk9",
+        "storeUrl": "https://weedmaps.com/dispensaries/velvet-cannabis-dispensary-napa?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.301434731058, 38.29729623293169]
+        "coordinates": [
+          -122.301434731058,
+          38.29729623293169
+        ]
       }
     },
     {
@@ -2919,11 +3686,36 @@
         "city": "Sylmar",
         "state": "CA",
         "zip": "91342",
-        "directionUrl": "https://maps.app.goo.gl/av7nbSfbU6CZP4hE7"
+        "directionUrl": "https://maps.app.goo.gl/av7nbSfbU6CZP4hE7",
+        "storeUrl": ""
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.47419068882141, 34.310575674365595]
+        "coordinates": [
+          -118.47419068882141,
+          34.310575674365595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Wizard Trees",
+        "license": "",
+        "address1": "2501 E 25th St",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90058",
+        "directionUrl": "https://maps.app.goo.gl/8wjDE6zRbbAi7WVE9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22775148650729,
+          34.01579792682851
+        ]
       }
     },
     {
@@ -2936,11 +3728,15 @@
         "city": "Sacramento",
         "state": "CA",
         "zip": "95833",
-        "directionUrl": "https://maps.app.goo.gl/zH4p85tUbcRsrQtz9"
+        "directionUrl": "https://maps.app.goo.gl/zH4p85tUbcRsrQtz9",
+        "storeUrl": "https://weedmaps.com/dispensaries/zen-garden-sacramento?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-121.47642557337895, 38.60754625045118]
+        "coordinates": [
+          -121.47642557337895,
+          38.60754625045118
+        ]
       }
     },
     {
@@ -2953,11 +3749,15 @@
         "city": "Pittsburgh",
         "state": "PA",
         "zip": "15275",
-        "directionUrl": "https://maps.app.goo.gl/yznu1mPVVnrMwmELA"
+        "directionUrl": "https://maps.app.goo.gl/yznu1mPVVnrMwmELA",
+        "storeUrl": "https://weedmaps.com/dispensaries/ethos-pittsburgh?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-80.1834016003179, 40.45120390614685]
+        "coordinates": [
+          -80.1834016003179,
+          40.45120390614685
+        ]
       }
     },
     {
@@ -2970,11 +3770,15 @@
         "city": "Lancaster",
         "state": "PA",
         "zip": "17602",
-        "directionUrl": "https://maps.app.goo.gl/Ty2rec5i52v7nFJD8"
+        "directionUrl": "https://maps.app.goo.gl/Ty2rec5i52v7nFJD8",
+        "storeUrl": "https://www.vytaloptions.com/lancaster/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.30491058868604, 40.04148273681573]
+        "coordinates": [
+          -76.30491058868604,
+          40.04148273681573
+        ]
       }
     },
     {
@@ -2987,11 +3791,15 @@
         "city": "Harrisburg",
         "state": "PA",
         "zip": "17109",
-        "directionUrl": "https://maps.app.goo.gl/WRFgtsaU9TQGMSWQ9"
+        "directionUrl": "https://maps.app.goo.gl/WRFgtsaU9TQGMSWQ9",
+        "storeUrl": "https://weedmaps.com/dispensaries/vytal-options-2?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-76.80892273100791, 40.302804191322046]
+        "coordinates": [
+          -76.80892273100791,
+          40.302804191322046
+        ]
       }
     },
     {
@@ -3004,11 +3812,15 @@
         "city": "Kennett Square",
         "state": "PA",
         "zip": "19348",
-        "directionUrl": "https://maps.app.goo.gl/TARqwjbeTpP9TDDE8"
+        "directionUrl": "https://maps.app.goo.gl/TARqwjbeTpP9TDDE8",
+        "storeUrl": "https://vytaloptions.com/locations/kennett-square/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.72345304451217, 39.844603845288205] 
+        "coordinates": [
+          -75.72345304451217,
+          39.844603845288205
+        ]
       }
     },
     {
@@ -3021,11 +3833,15 @@
         "city": "Pittsburgh",
         "state": "PA",
         "zip": "",
-        "directionUrl": "https://maps.app.goo.gl/3r58QxK839ozzEsVA"
+        "directionUrl": "https://maps.app.goo.gl/3r58QxK839ozzEsVA",
+        "storeUrl": "https://weedmaps.com/dispensaries/maitri-medicinals-pittsburgh?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-79.93039821566074, 40.45868558425048]
+        "coordinates": [
+          -79.93039821566074,
+          40.45868558425048
+        ]
       }
     },
     {
@@ -3038,11 +3854,15 @@
         "city": "State College",
         "state": "PA",
         "zip": "16803",
-        "directionUrl": "https://maps.app.goo.gl/GCGaavED9oSgsCGv8"
+        "directionUrl": "https://maps.app.goo.gl/GCGaavED9oSgsCGv8",
+        "storeUrl": "https://www.vytaloptions.com/state-college/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-77.89551491565165, 40.8108156138718]
+        "coordinates": [
+          -77.89551491565165,
+          40.8108156138718
+        ]
       }
     },
     {
@@ -3055,11 +3875,15 @@
         "city": "Allentown",
         "state": "PA",
         "zip": "18104",
-        "directionUrl": "https://maps.app.goo.gl/DqyiVfyRRFJP29oDA"
+        "directionUrl": "https://maps.app.goo.gl/DqyiVfyRRFJP29oDA",
+        "storeUrl": "https://restoredispensaries.com/locations/allentown/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.52507602174825, 40.59890189505559]
+        "coordinates": [
+          -75.52507602174825,
+          40.59890189505559
+        ]
       }
     },
     {
@@ -3072,11 +3896,15 @@
         "city": "Wilkes-Barre",
         "state": "PA",
         "zip": "18702",
-        "directionUrl": "https://maps.app.goo.gl/GPXePV62HHhZMLWm7"
+        "directionUrl": "https://maps.app.goo.gl/GPXePV62HHhZMLWm7",
+        "storeUrl": "https://restoredispensaries.com/locations/wilkes-barre/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.84268833761429, 41.25009096586589]
+        "coordinates": [
+          -75.84268833761429,
+          41.25009096586589
+        ]
       }
     },
     {
@@ -3089,11 +3917,15 @@
         "city": "Pottstown",
         "state": "PA",
         "zip": "19464",
-        "directionUrl": "https://maps.app.goo.gl/vrmwWduSFCddZdVW6"
+        "directionUrl": "https://maps.app.goo.gl/vrmwWduSFCddZdVW6",
+        "storeUrl": "https://restoredispensaries.com/locations/pottstown/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.61723847942892, 40.243430206548624]
+        "coordinates": [
+          -75.61723847942892,
+          40.243430206548624
+        ]
       }
     },
     {
@@ -3106,11 +3938,15 @@
         "city": "Yeadon",
         "state": "PA",
         "zip": "19050",
-        "directionUrl": "https://maps.app.goo.gl/qA9ZtcaEnTPBsQK89"
+        "directionUrl": "https://maps.app.goo.gl/qA9ZtcaEnTPBsQK89",
+        "storeUrl": "https://restoredispensaries.com/locations/yeadon/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.24951422361559, 39.93325030759815] 
+        "coordinates": [
+          -75.24951422361559,
+          39.93325030759815
+        ]
       }
     },
     {
@@ -3123,11 +3959,15 @@
         "city": "Scranton",
         "state": "PA",
         "zip": "18508",
-        "directionUrl": "https://maps.app.goo.gl/mtydg982BWvKndXE9"
+        "directionUrl": "https://maps.app.goo.gl/mtydg982BWvKndXE9",
+        "storeUrl": "https://restoredispensaries.com/locations/scranton/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.66820576035384, 41.4434885994542]
+        "coordinates": [
+          -75.66820576035384,
+          41.4434885994542
+        ]
       }
     },
     {
@@ -3140,11 +3980,15 @@
         "city": "Philadelphia",
         "state": "PA",
         "zip": "19125",
-        "directionUrl": "https://maps.app.goo.gl/iH4d5bX5FCNXof2D7"
+        "directionUrl": "https://maps.app.goo.gl/iH4d5bX5FCNXof2D7",
+        "storeUrl": "https://weedmaps.com/dispensaries/restore-integrative-wellness-center-philadelphia?filter%5Bmatch%5D=wizard-trees"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.13373357758562, 39.96569776812623]
+        "coordinates": [
+          -75.13373357758562,
+          39.96569776812623
+        ]
       }
     },
     {
@@ -3157,368 +4001,15 @@
         "city": "Elkins Park",
         "state": "PA",
         "zip": "19027",
-        "directionUrl": "https://maps.app.goo.gl/qkfDT97xqgnP5xsL9"
+        "directionUrl": "https://maps.app.goo.gl/qkfDT97xqgnP5xsL9",
+        "storeUrl": "https://restoredispensaries.com/locations/elkins-park/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-75.12788318922516, 40.07553070693147]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Bard Boys",
-        "license": "",
-        "address1": "2550 E Vineyard Ave #210",
-        "address2": "",
-        "city": "Oxnard",
-        "state": "CA",
-        "zip": "93036",
-        "directionUrl": "https://maps.app.goo.gl/UiEPAk6eaGjKGw7F9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.17125998584031, 34.23350574478667]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Catalyst Figueroa",
-        "license": "",
-        "address1": "10020 S Figueroa St",
-        "address2": "",
-        "city": "Los Angeles",
-        "state": "CA",
-        "zip": "90003",
-        "directionUrl": "https://maps.app.goo.gl/ULwPT8j9ySMoVagH8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.28225104650087, 33.94507518011758]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Catalyst Stanton",
-        "license": "",
-        "address1": "8130 Monroe Ave",
-        "address2": "",
-        "city": "Stanton",
-        "state": "CA",
-        "zip": "90680",
-        "directionUrl": "https://maps.app.goo.gl/yy1R5kHgE62mNY9L7"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.99075694650371, 33.80565320143414]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Cookies Woodland Hills",
-        "license": "",
-        "address1": "5334 Alhama Dr",
-        "address2": "",
-        "city": "Woodland Hills",
-        "state": "CA",
-        "zip": "91364",
-        "directionUrl": "https://maps.app.goo.gl/8zJzdn6Aopc4DTor5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.59279697533186, 34.16643590752376]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Greenhouse Herbal Center",
-        "license": "",
-        "address1": "5224 Hollywood Blvd",
-        "address2": "",
-        "city": "Los Angeles",
-        "state": "CA",
-        "zip": "90027",
-        "directionUrl": "https://maps.app.goo.gl/WWfSQdgS2zxUS6d46"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.30415364649723, 34.10173540027762]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "High Seas",
-        "license": "",
-        "address1": "1921 Harbor Blvd",
-        "address2": "",
-        "city": "Costa Mesa",
-        "state": "CA",
-        "zip": "92627",
-        "directionUrl": "https://maps.app.goo.gl/UxXfJDsVfXxbxn6UA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.91922641582111, 33.64444236528861] 
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Jungle Boys San Diego",
-        "license": "",
-        "address1": "8160 Parkway Dr",
-        "address2": "",
-        "city": "La Mesa",
-        "state": "CA",
-        "zip": "91942",
-        "directionUrl": "https://maps.app.goo.gl/DEGftXzYfNvGf4sEA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.02173498700337,32.77637754280005]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Lemonnade Van Nuys",
-        "license": "",
-        "address1": "7040 Hayvenhurst Ave",
-        "address2": "",
-        "city": "Lake Balboa",
-        "state": "CA",
-        "zip": "91406",
-        "directionUrl": "https://maps.app.goo.gl/cmYQdoD8K7y77KhSA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.49201265952192, 34.19873601691554]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "The Marathon Collective",
-        "license": "",
-        "address1": "7011 Canoga Ave",
-        "address2": "",
-        "city": "Canoga Park",
-        "state": "CA",
-        "zip": "91303",
-        "directionUrl": "https://maps.app.goo.gl/MmJK3ZCeqKjvsqXS8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.59763609306461, 34.19795330677784]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Roots 2 Harvest",
-        "license": "",
-        "address1": "29370 Hunco Way",
-        "address2": "",
-        "city": "Lake Elsinore",
-        "state": "CA",
-        "zip": "92530",
-        "directionUrl": "https://maps.app.goo.gl/85pvzy4ccquonXuCA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.34255541767037, 33.69079093747736]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "STIIIZY Downtown LA",
-        "license": "",
-        "address1": "728 E Commercial St",
-        "address2": "",
-        "city": "Los Angeles",
-        "state": "CA",
-        "zip": "90012",
-        "directionUrl": "https://maps.app.goo.gl/Fzp5T449Eu3PUwVJA"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.23207492930504, 34.05234264495949]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "STIIIZY Pomona",
-        "license": "",
-        "address1": "1605 W Holt Ave",
-        "address2": "",
-        "city": "Pomona",
-        "state": "CA",
-        "zip": "91768",
-        "directionUrl": "https://maps.app.goo.gl/14X7hsgDgi6sjBso9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.77659623724622, 34.06215861845955]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "STIIIZY San Bernardino",
-        "license": "",
-        "address1": "390 N H St",
-        "address2": "",
-        "city": "San Bernardino",
-        "state": "CA",
-        "zip": "92410",
-        "directionUrl": "https://maps.app.goo.gl/8JiiWWumwd3Wo2Uw6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.3007328182014, 34.10630155822297]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "STIIIZY Ventura",
-        "license": "",
-        "address1": "1860 S Victoria Ave",
-        "address2": "",
-        "city": "Ventura",
-        "state": "CA",
-        "zip": "93003",
-        "directionUrl": "https://maps.app.goo.gl/VvTKzi8Uu3KRNq7A6"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-119.2103395311511, 34.25729575443258] 
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "These Days",
-        "license": "",
-        "address1": "19707 Nordhoff St",
-        "address2": "",
-        "city": "Northridge",
-        "state": "CA",
-        "zip": "91324",
-        "directionUrl": "https://maps.app.goo.gl/sz23P3PBhZ351Bap8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.56282461580827, 34.232352215622875] 
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "We Roll Up San Pedro",
-        "license": "",
-        "address1": "1705 S Gaffey St",
-        "address2": "",
-        "city": "San Pedro",
-        "state": "CA",
-        "zip": "90731",
-        "directionUrl": "https://maps.app.goo.gl/9VQDm58mKByTBWbu5"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-118.29227146608926, 33.72870366298861]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Wellgreens Kearny Mesa",
-        "license": "",
-        "address1": "8039 Balboa Ave # A",
-        "address2": "",
-        "city": "San Diego",
-        "state": "CA",
-        "zip": "92111",
-        "directionUrl": "https://maps.app.goo.gl/hxU3bpen6DLadkEo8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.14953973357164, 32.821511244615486]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Wellgreens Mission Valley",
-        "license": "",
-        "address1": "3703 Camino del Rio S # 215A",
-        "address2": "",
-        "city": "San Diego",
-        "state": "CA",
-        "zip": "92108",
-        "directionUrl": "https://maps.app.goo.gl/s5eaEBwJ2Vv3ryJ49"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.11478863634356, 32.777878914037984]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Wellgreens Pacific Beach",
-        "license": "",
-        "address1": "4645 De Soto St",
-        "address2": "",
-        "city": "San Diego",
-        "state": "CA",
-        "zip": "92109",
-        "directionUrl": "https://maps.app.goo.gl/YAHAsUfeNtD7EaLY9"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.21696882987112, 32.8080850659999]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Wellgreens Vista",
-        "license": "",
-        "address1": "954 S Santa Fe Ave",
-        "address2": "",
-        "city": "Vista",
-        "state": "CA",
-        "zip": "92084",
-        "directionUrl": "https://maps.app.goo.gl/xUW6EfTZhsJDKMAy8"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-117.23164716054941, 33.19415472331407]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "StashCo",
-        "license": "",
-        "address1": "Delivery Only",
-        "address2": "",
-        "city": "Sacramento",
-        "state": "CA",
-        "zip": "95610",
-        "directionUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-121.48318811920703, 38.57258050190928] 
+        "coordinates": [
+          -75.12788318922516,
+          40.07553070693147
+        ]
       }
     }
   ]
