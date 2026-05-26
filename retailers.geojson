@@ -2268,6 +2268,69 @@
           34.31055354640553
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jungle Boys Pomona",
+        "license": "",
+        "address1": "196 University Pkwy",
+        "address2": "",
+        "city": "Pomona",
+        "state": "CA",
+        "zip": "91768",
+        "directionUrl": "https://maps.app.goo.gl/rGRaZ4ZgoRxMwXE16",
+        "storeUrl": "https://weedmaps.com/brands/jungleboys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.80869536191224,
+          34.0514313722408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jungle Boys OC",
+        "license": "",
+        "address1": "2911 Tech Center Drive",
+        "address2": "",
+        "city": "Santa Ana",
+        "state": "CA",
+        "zip": "92705",
+        "directionUrl": "https://maps.app.goo.gl/KqRnPCFm9dps9uV67",
+        "storeUrl": "https://weedmaps.com/brands/jungleboys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.85479220138903,
+          33.70581006750235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jungle Boys DTLA",
+        "license": "",
+        "address1": "1530 S Alameda St",
+        "address2": "#7",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90021",
+        "directionUrl": "https://maps.app.goo.gl/UMyg2bDqfbvRokADA",
+        "storeUrl": "https://weedmaps.com/brands/jungleboys"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23844070417067,
+          34.02267047098668
+        ]
+      }
     }
   ]
 }
