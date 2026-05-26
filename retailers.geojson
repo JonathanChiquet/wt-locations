@@ -466,27 +466,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Purplez (Russell Ave Corp.)",
-        "license": "C10-0001578-LIC",
-        "address1": "817 Russell Ave",
-        "address2": "Suite C",
-        "city": "Santa Rosa",
-        "state": "CA",
-        "zip": "95403",
-        "directionUrl": "https://maps.app.goo.gl/NZP5eKRm2VpJTfrF9",
-        "storeUrl": "https://purplez.org/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.73065643520577,
-          38.469638100152125
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "The Cake House Santa Rosa (Stony Point Wellness)",
         "license": "C10-0001322-LIC",
         "address1": "411 Stony Point Rd",
@@ -1006,27 +985,6 @@
         "coordinates": [
           -118.37171131349233,
           34.16479662785047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Fast Flavors [KWIKI BUD LLC]",
-        "license": "C9-0000431-LIC",
-        "address1": "414 Lesser St",
-        "address2": "Suite 309",
-        "city": "Oakland",
-        "state": "CA",
-        "zip": "94601",
-        "directionUrl": "https://maps.app.goo.gl/G66RNGJCVzRdeGr98",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.22034797301536,
-          37.763168523717155
         ]
       }
     },
@@ -1810,27 +1768,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Cloud 7",
-        "license": "",
-        "address1": "486 7th Street",
-        "address2": "",
-        "city": "Oakland",
-        "state": "CA",
-        "zip": "94607",
-        "directionUrl": "https://maps.app.goo.gl/f32Msujt1pv2NBaU8",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.27496468522986,
-          37.80014976124446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Desert Kush",
         "license": "",
         "address1": "36633 Cathedral Canyon Dr",
@@ -1951,27 +1888,6 @@
         "coordinates": [
           -119.64542780226891,
           36.324566931718834
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Kushy Cannabis Delivery",
-        "license": "",
-        "address1": "1621 Navy Dr",
-        "address2": "Bldg B1",
-        "city": "Stockton",
-        "state": "CA",
-        "zip": "95206",
-        "directionUrl": "https://maps.app.goo.gl/ATLzcsT1RWZcmLEG7",
-        "storeUrl": "https://www.gokushy.com/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -121.31074771572348,
-          37.93788272725714
         ]
       }
     },
@@ -2224,48 +2140,6 @@
         "coordinates": [
           -122.301434731058,
           38.29729623293169
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Weeed Sylmar",
-        "license": "",
-        "address1": "13187 San Fernando Rd",
-        "address2": "",
-        "city": "Sylmar",
-        "state": "CA",
-        "zip": "91342",
-        "directionUrl": "https://maps.app.goo.gl/av7nbSfbU6CZP4hE7",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.47419068882141,
-          34.310575674365595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Wizard Trees",
-        "license": "",
-        "address1": "2501 E 25th St",
-        "address2": "",
-        "city": "Los Angeles",
-        "state": "CA",
-        "zip": "90058",
-        "directionUrl": "https://maps.app.goo.gl/8wjDE6zRbbAi7WVE9",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.22775148650729,
-          34.01579792682851
         ]
       }
     },
