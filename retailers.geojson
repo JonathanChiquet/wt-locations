@@ -2289,6 +2289,111 @@
           38.60754625045118
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cloud 7",
+        "license": "",
+        "address1": "486 7th Street",
+        "address2": "",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94607",
+        "directionUrl": "https://maps.app.goo.gl/f32Msujt1pv2NBaU8",
+        "storeUrl": "https://weedmaps.com/deliveries/cloud-7-3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.27494321349268,
+          37.800120190505076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fast Flavors [KWIKI BUD LLC]",
+        "license": "C9-0000431-LIC",
+        "address1": "414 Lesser St",
+        "address2": "Suite 309",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94601",
+        "directionUrl": "https://maps.app.goo.gl/G66RNGJCVzRdeGr98",
+        "storeUrl": "https://weedmaps.com/deliveries/fast-flavors-6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2198347865073,
+          37.7629829114327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Purplez (Russell Ave Corp.)",
+        "license": "C10-0001578-LIC",
+        "address1": "817 Russell Ave",
+        "address2": "Suite C",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "zip": "95403",
+        "directionUrl": "https://maps.app.goo.gl/NZP5eKRm2VpJTfrF9",
+        "storeUrl": "https://weedmaps.com/dispensaries/purplez?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73071007941496,
+          38.46965910018032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Kushy Cannabis Delivery",
+        "license": "",
+        "address1": "1621 Navy Dr",
+        "address2": "Bldg B1",
+        "city": "Stockton",
+        "state": "CA",
+        "zip": "95206",
+        "directionUrl": "https://maps.app.goo.gl/ATLzcsT1RWZcmLEG7",
+        "storeUrl": "https://weedmaps.com/deliveries/kushy-cannabis-stockton?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.31082281534309,
+          37.937861601320115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Weeed Sylmar",
+        "license": "",
+        "address1": "13187 San Fernando Rd",
+        "address2": "",
+        "city": "Sylmar",
+        "state": "CA",
+        "zip": "91342",
+        "directionUrl": "https://maps.app.goo.gl/av7nbSfbU6CZP4hE7",
+        "storeUrl": "https://weedmaps.com/deliveries/weeed-11"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.47412631349269,
+          34.31055354640553
+        ]
+      }
     }
   ]
 }
