@@ -2331,6 +2331,354 @@
           34.02267047098668
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Stanton",
+        "license": "",
+        "address1": "8130 Monroe Ave",
+        "address2": "",
+        "city": "Stanton",
+        "state": "CA",
+        "zip": "90680",
+        "directionUrl": "https://maps.app.goo.gl/VdHqTmHXK7KDYJFQ6",
+        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-stanton?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.98992009498869,
+          33.80568443034848 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cookies Woodland Hills",
+        "license": "",
+        "address1": "5334 Alhama Dr",
+        "address2": "",
+        "city": "Woodland Hills",
+        "state": "CA",
+        "zip": "91364",
+        "directionUrl": "https://maps.app.goo.gl/8zJzdn6Aopc4DTor5",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-loft-co-op?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.59196012382449,
+          34.166484758677356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Greenhouse Herbal Center",
+        "license": "",
+        "address1": "5224 Hollywood Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90027",
+        "directionUrl": "https://maps.app.goo.gl/WWfSQdgS2zxUS6d46",
+        "storeUrl": "https://weedmaps.com/dispensaries/greenhouse-herbal-center?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.3041, 34.1015844]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "High Seas",
+        "license": "",
+        "address1": "1921 Harbor Blvd",
+        "address2": "",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92627",
+        "directionUrl": "https://maps.app.goo.gl/UxXfJDsVfXxbxn6UA",
+        "storeUrl": "https://weedmaps.com/dispensaries/high-seas?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.9192586, 33.6442191]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jungle Boys San Diego",
+        "license": "",
+        "address1": "8160 Parkway Dr",
+        "address2": "",
+        "city": "La Mesa",
+        "state": "CA",
+        "zip": "91942",
+        "directionUrl": "https://maps.app.goo.gl/DEGftXzYfNvGf4sEA",
+        "storeUrl": "https://weedmaps.com/dispensaries/jungle-boys-san-diego?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.0217779, 32.7762603]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Lemonnade Van Nuys",
+        "license": "",
+        "address1": "7040 Hayvenhurst Ave",
+        "address2": "",
+        "city": "Lake Balboa",
+        "state": "CA",
+        "zip": "91406",
+        "directionUrl": "https://maps.app.goo.gl/cmYQdoD8K7y77KhSA",
+        "storeUrl": "https://weedmaps.com/dispensaries/lemonnade-van-nuys?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.4919161, 34.1985896]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Marathon Collective",
+        "license": "",
+        "address1": "7011 Canoga Ave",
+        "address2": "",
+        "city": "Canoga Park",
+        "state": "CA",
+        "zip": "91303",
+        "directionUrl": "https://maps.app.goo.gl/MmJK3ZCeqKjvsqXS8",
+        "storeUrl": "https://weedmaps.com/dispensaries/the-marathon-collective-woodland-hills?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5980116, 34.1978291]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Roots 2 Harvest",
+        "license": "",
+        "address1": "29370 Hunco Way",
+        "address2": "",
+        "city": "Lake Elsinore",
+        "state": "CA",
+        "zip": "92530",
+        "directionUrl": "https://maps.app.goo.gl/85pvzy4ccquonXuCA",
+        "storeUrl": "https://weedmaps.com/dispensaries/roots-2-harvest?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.3425125, 33.6906035]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Downtown LA",
+        "license": "",
+        "address1": "728 E Commercial St",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90012",
+        "directionUrl": "https://maps.app.goo.gl/Fzp5T449Eu3PUwVJA",
+        "storeUrl": "https://weedmaps.com/dispensaries/stiiizy?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2321393, 34.052156]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Pomona",
+        "license": "",
+        "address1": "1605 W Holt Ave",
+        "address2": "",
+        "city": "Pomona",
+        "state": "CA",
+        "zip": "91768",
+        "directionUrl": "https://maps.app.goo.gl/14X7hsgDgi6sjBso9",
+        "storeUrl": "https://weedmaps.com/dispensaries/stiiizy-pomona?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.7769181, 34.0620431]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY San Bernardino",
+        "license": "",
+        "address1": "390 N H St",
+        "address2": "",
+        "city": "San Bernardino",
+        "state": "CA",
+        "zip": "92410",
+        "directionUrl": "https://maps.app.goo.gl/8JiiWWumwd3Wo2Uw6",
+        "storeUrl": "https://weedmaps.com/dispensaries/stiiizy-san-bernardino?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.3012478, 34.1061861]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Ventura",
+        "license": "",
+        "address1": "1860 S Victoria Ave",
+        "address2": "",
+        "city": "Ventura",
+        "state": "CA",
+        "zip": "93003",
+        "directionUrl": "https://maps.app.goo.gl/VvTKzi8Uu3KRNq7A6",
+        "storeUrl": "https://weedmaps.com/dispensaries/stiiizy-ventura?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.2103288, 34.2571539]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "These Days",
+        "license": "",
+        "address1": "19707 Nordhoff St",
+        "address2": "",
+        "city": "Northridge",
+        "state": "CA",
+        "zip": "91324",
+        "directionUrl": "https://maps.app.goo.gl/sz23P3PBhZ351Bap8",
+        "storeUrl": "https://weedmaps.com/dispensaries/these-days-northridge?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.5628568, 34.2322458]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "We Roll Up San Pedro",
+        "license": "",
+        "address1": "1705 S Gaffey St",
+        "address2": "",
+        "city": "San Pedro",
+        "state": "CA",
+        "zip": "90731",
+        "directionUrl": "https://maps.app.goo.gl/uzbnuXsets5TenBt8",
+        "storeUrl": "https://weedmaps.com/dispensaries/we-roll-up-san-pedro?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-118.2925826, 33.728552]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Wellgreens Kearny Mesa",
+        "license": "",
+        "address1": "8039 Balboa Ave",
+        "address2": "#A",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92111",
+        "directionUrl": "https://maps.app.goo.gl/hxU3bpen6DLadkEo8",
+        "storeUrl": "https://weedmaps.com/dispensaries/wellgreens-balboa-marijuana-dispensary?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1500118, 32.8213039]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Wellgreens Mission Valley",
+        "license": "",
+        "address1": "3703 Camino del Rio",
+        "address2": "Suite #215A",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92108",
+        "directionUrl": "https://maps.app.goo.gl/s5eaEBwJ2Vv3ryJ49",
+        "storeUrl": "https://weedmaps.com/dispensaries/wellgreens-mission-valley?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.1150783, 32.7777437]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Wellgreens Pacific Beach",
+        "license": "",
+        "address1": "4645 De Soto St",
+        "address2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92109",
+        "directionUrl": "https://maps.app.goo.gl/YAHAsUfeNtD7EaLY9",
+        "storeUrl": "https://weedmaps.com/dispensaries/wellgreens-pacific-beach?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.2175911, 32.8079859]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Wellgreens Vista",
+        "license": "",
+        "address1": "954 S Santa Fe Ave",
+        "address2": "",
+        "city": "Vista",
+        "state": "CA",
+        "zip": "92084",
+        "directionUrl": "https://maps.app.goo.gl/xUW6EfTZhsJDKMAy8",
+        "storeUrl": "https://weedmaps.com/dispensaries/wellgreens-vista?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-117.2321836, 33.1940111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bard Boys",
+        "license": "",
+        "address1": "2550 E Vineyard Ave",
+        "address2": "#210",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": "93036",
+        "directionUrl": "https://maps.app.goo.gl/UiEPAk6eaGjKGw7F9",
+        "storeUrl": "https://weedmaps.com/dispensaries/bard-boys?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-119.1712707, 34.2333994]
+      }
     }
   ]
 }
