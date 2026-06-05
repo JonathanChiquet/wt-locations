@@ -3309,6 +3309,1098 @@
           33.599055637263646
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Dispensaries Doylestown",
+        "license": "",
+        "address1": "812 N Easton Rd STE 6",
+        "address2": "",
+        "city": "Doylestown",
+        "state": "PA",
+        "zip": "18902",
+        "directionUrl": "https://maps.app.goo.gl/sWxmF4kp72NvsFbL7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12980598681395,
+          40.33284419287355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Dispensaries Lancaster",
+        "license": "",
+        "address1": "5471 Main St",
+        "address2": "",
+        "city": "East Petersburg",
+        "state": "PA",
+        "zip": "17520",
+        "directionUrl": "https://maps.app.goo.gl/mdpxqUm4ruYdxDzr6",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.34943973099901,
+          40.09313808476422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Maitri Pittsburgh",
+        "license": "",
+        "address1": "5845 Centre Ave",
+        "address2": "",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15206",
+        "directionUrl": "https://maps.app.goo.gl/GdSfQCxosESVNAnU8",
+        "storeUrl": "https://weedmaps.com/dispensaries/maitri-medicinals-pittsburgh?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93047331749712,
+          40.45870191083441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Maitri New Stanton",
+        "license": "",
+        "address1": "100 Bair Blvd",
+        "address2": "",
+        "city": "New Stanton",
+        "state": "PA",
+        "zip": "15672",
+        "directionUrl": "https://maps.app.goo.gl/Yhov5r69o3dAdSbW7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.61109068866749,
+          40.220314330991336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Maitri Uniontown",
+        "license": "",
+        "address1": "27 W Main st",
+        "address2": "",
+        "city": "Uniontown",
+        "state": "PA",
+        "zip": "15401",
+        "directionUrl": "https://maps.app.goo.gl/xX1UX5ncXbhhksYt6",
+        "storeUrl": "https://weedmaps.com/dispensaries/maitri-medicinals?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.72644691751123,
+          39.90092518528556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hive Dispensary Williamsport",
+        "license": "",
+        "address1": "1490 High St",
+        "address2": "",
+        "city": "Williamsport",
+        "state": "PA",
+        "zip": "17701",
+        "directionUrl": "https://maps.app.goo.gl/snJurBYqwKnANtoR7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.0362995732979,
+          41.24471597670715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hive Dispensary Shamokin Dam",
+        "license": "",
+        "address1": "2625 N Susquehanna Trail",
+        "address2": "",
+        "city": "Shamokin Dam",
+        "state": "PA",
+        "zip": "17876",
+        "directionUrl": "https://maps.app.goo.gl/HSSSCXRzBsevXfWt9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82740287330829,
+          40.842732067547416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hive Dispensary State College",
+        "license": "",
+        "address1": "1612 N Atherton St",
+        "address2": "",
+        "city": "State College",
+        "state": "PA",
+        "zip": "16803",
+        "directionUrl": "https://maps.app.goo.gl/AEwFSmf6cuykeW23A",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89331461563765,
+          40.80756510350947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fluent Annville",
+        "license": "",
+        "address1": "1015 E Main st",
+        "address2": "",
+        "city": "Annville",
+        "state": "PA",
+        "zip": "17003",
+        "directionUrl": "https://maps.app.goo.gl/sd31jhQGECBzWW2t7",
+        "storeUrl": "https://weedmaps.com/dispensaries/fluent-annville?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49762610030659,
+          40.33343566393087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fluent Hanover",
+        "license": "",
+        "address1": "648 Frederick St",
+        "address2": "",
+        "city": "Hanover",
+        "state": "PA",
+        "zip": "17331",
+        "directionUrl": "https://maps.app.goo.gl/oeLhhQSZWzUvCquT7",
+        "storeUrl": "https://weedmaps.com/dispensaries/fluent-hanover-2?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99444746566344,
+          39.791002985772884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fluent Mechanicsburg",
+        "license": "",
+        "address1": "6200 Carlisle Pike",
+        "address2": "",
+        "city": "Mechanicsburg",
+        "state": "PA",
+        "zip": "17050",
+        "directionUrl": "https://maps.app.goo.gl/jBFHtbPUp1wRQhfr9",
+        "storeUrl": "https://weedmaps.com/dispensaries/fluent-mechanicsburg?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99554345612994,
+          40.24402000070769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Local Leaf by PHG",
+        "license": "",
+        "address1": "109 Crossroads Rd",
+        "address2": "Suite 420",
+        "city": "Scottdale",
+        "state": "PA",
+        "zip": "15683",
+        "directionUrl": "https://maps.app.goo.gl/bkbKXmqPQ6uxeLa18",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.55786528496967,
+          40.086969123313814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Carlisle",
+        "license": "",
+        "address1": "1186 Harrisburg Pike",
+        "address2": "",
+        "city": "Carlisle",
+        "state": "PA",
+        "zip": "17013",
+        "directionUrl": "https://maps.app.goo.gl/KcFU7Ky8AiWhAUz9A",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-carlisle?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.14132892914493,
+          40.23329460273411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Chambersburg",
+        "license": "",
+        "address1": "1640 Orchard Dr",
+        "address2": "",
+        "city": "Chambersburg",
+        "state": "PA",
+        "zip": "17201",
+        "directionUrl": "https://maps.app.goo.gl/f7QncdoeRgdi1XB77",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-marijuana-dispensary-chambersburg?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.66586048497415,
+          39.91311723140611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Cranberry",
+        "license": "",
+        "address1": "20808 Rt 19",
+        "address2": "",
+        "city": "Cranberry Twp",
+        "state": "PA",
+        "zip": "16066",
+        "directionUrl": "https://maps.app.goo.gl/kaMhpYMGhDgu763a6",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-dispensaries-cranberry?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1033554868042,
+          40.71483369603176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Duncansville",
+        "license": "",
+        "address1": "370 Pound Ln",
+        "address2": "",
+        "city": "Duncansville",
+        "state": "PA",
+        "zip": "16635",
+        "directionUrl": "https://maps.app.goo.gl/ZDnS5HmQXCxC9UCy9",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-dispensaries-duncansville?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4083004021541,
+          40.45030951517877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Erie (Lake)",
+        "license": "",
+        "address1": "2108 W 8th St",
+        "address2": "",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16505",
+        "directionUrl": "https://maps.app.goo.gl/RHyEcLcTeFdwcofg9",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-erie?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.13054230026022,
+          42.11052684110394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Erie (Peach)",
+        "license": "",
+        "address1": "1950 Rotunda Dr",
+        "address2": "",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16509",
+        "directionUrl": "https://maps.app.goo.gl/RMvTwpkcEzHLMRBK7",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-dispensaries-erie-peach?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08925183094796,
+          42.0595153181375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Grove City",
+        "license": "",
+        "address1": "225 Westside Square Dr",
+        "address2": "Unit 109",
+        "city": "Mercer",
+        "state": "PA",
+        "zip": "16137",
+        "directionUrl": "https://maps.app.goo.gl/9hSnmxBX6CZpXwmZ7",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-cannabis-dispensary-grove-city?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16093195795735,
+          41.14196570888678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Hermitage",
+        "license": "",
+        "address1": "2880 E State st",
+        "address2": "",
+        "city": "Hermitage",
+        "state": "PA",
+        "zip": "16148",
+        "directionUrl": "https://maps.app.goo.gl/3cGxmTvJeRjCXxrf8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-hermitage-1?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4569582333591,
+          41.233179824248055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE King of Prussia",
+        "license": "",
+        "address1": "445a W Dekalb Pike",
+        "address2": "",
+        "city": "King of Prussia",
+        "state": "PA",
+        "zip": "19406",
+        "directionUrl": "https://maps.app.goo.gl/sKVbnRGyTTXpDKvv7",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-king-of-prussia?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3744780156559,
+          40.0905342422571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Latrobe",
+        "license": "",
+        "address1": "117 Beatty County Rd",
+        "address2": "",
+        "city": "Latrobe",
+        "state": "PA",
+        "zip": "15650",
+        "directionUrl": "https://maps.app.goo.gl/zgEV4N7H65KQcSGD8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-latrobe?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.43659186406983,
+          40.28711857435448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Lebanon",
+        "license": "",
+        "address1": "1600 Cumberland St",
+        "address2": "",
+        "city": "Lebanon",
+        "state": "PA",
+        "zip": "17042",
+        "directionUrl": "https://maps.app.goo.gl/rJsgJBDamfjvtN5w5",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.43971676776965,
+          40.33798546272639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Meadville",
+        "license": "",
+        "address1": "18914 Park Avenue Plaza",
+        "address2": "",
+        "city": "Meadville",
+        "state": "PA",
+        "zip": "16335",
+        "directionUrl": "https://maps.app.goo.gl/rQR2JcaT88jSrKYS8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-marijuana-dispensary-meadville?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.16022738493002,
+          41.623234113352396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Mechanicsburg",
+        "license": "",
+        "address1": "5202 Simpson Ferry Rd #101",
+        "address2": "",
+        "city": "Mechanicsburg",
+        "state": "PA",
+        "zip": "17050",
+        "directionUrl": "https://maps.app.goo.gl/D22Pmuqyta5fRT139",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-mechanicsburg?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9788386040233,
+          40.21775667371056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Monroeville",
+        "license": "",
+        "address1": "3841 William Penn Hwy",
+        "address2": "",
+        "city": "Monroeville",
+        "state": "PA",
+        "zip": "15146",
+        "directionUrl": "https://maps.app.goo.gl/NrE8PYC6nDj5zVVN9",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-dispensaries-monroeville?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.78213246406601,
+          40.437423716353834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE New Castle",
+        "license": "",
+        "address1": "2622 W State St",
+        "address2": "",
+        "city": "New Castle",
+        "state": "PA",
+        "zip": "16101",
+        "directionUrl": "https://maps.app.goo.gl/GPYJ8QTZkUmUemSR7",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-marijuana-dispensary-new-castle?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.39944225055848,
+          41.01481826895285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Philadelphia",
+        "license": "",
+        "address1": "3903 Aramingo Ave #101",
+        "address2": "",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19137",
+        "directionUrl": "https://maps.app.goo.gl/ACK2nwmMCpb1FLrm6",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-cannabis-dispensary-philadelphia?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.08684820825613,
+          39.99796787093491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Steelton",
+        "license": "",
+        "address1": "801 S Front St",
+        "address2": "",
+        "city": "Steelton",
+        "state": "PA",
+        "zip": "17113",
+        "directionUrl": "https://maps.app.goo.gl/mht5gLhrR5MjjDor8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-steelton?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.82697926222092,
+          40.2252204874555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Warminster",
+        "license": "",
+        "address1": "435 York Rd",
+        "address2": "",
+        "city": "Warminster",
+        "state": "PA",
+        "zip": "18974",
+        "directionUrl": "https://maps.app.goo.gl/XKGRaaTuhQpZeuXH8",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-medical-marijuana-dispensary-warminster?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.09979131804258,
+          40.20199763180678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE York",
+        "license": "",
+        "address1": "2139 White St",
+        "address2": "",
+        "city": "York",
+        "state": "PA",
+        "zip": "17404",
+        "directionUrl": "https://maps.app.goo.gl/c2RmW9GbyXFLZE9k9",
+        "storeUrl": "https://weedmaps.com/dispensaries/rise-york?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.77433795058546,
+          39.961422352470095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Aliquippa",
+        "license": "",
+        "address1": "2320 Sheffield Rd",
+        "address2": "",
+        "city": "Aliquippa",
+        "state": "PA",
+        "zip": "15001",
+        "directionUrl": "https://maps.app.goo.gl/iqBNQ8okceDPyQw46",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-aliquippa?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.28218851988274,
+          40.60639463263282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Bensalem",
+        "license": "",
+        "address1": "4201 Neshaminy Blvd",
+        "address2": "",
+        "city": "Bensalem",
+        "state": "PA",
+        "zip": "19020",
+        "directionUrl": "https://maps.app.goo.gl/SWESrYid6eraKVrLA",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-bensalem?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.95035280455151,
+          40.13716039609169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Cranberry Township",
+        "license": "",
+        "address1": "900 Commonwealth Dr",
+        "address2": "Suite 500",
+        "city": "Cranberry Twp",
+        "state": "PA",
+        "zip": "16066",
+        "directionUrl": "https://maps.app.goo.gl/RGVAvesuZWS9GkN6A",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-cranberry?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.11123020453758,
+          40.68352938507912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Cranberry Norristown",
+        "license": "",
+        "address1": "2030 W Main St",
+        "address2": "Unit #11",
+        "city": "Norristown",
+        "state": "PA",
+        "zip": "19403",
+        "directionUrl": "https://maps.app.goo.gl/cdgjbmAuH7FAPn3G7",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-norristown?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.37985361989489,
+          40.133290495825065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Philadelphia",
+        "license": "",
+        "address1": "8900 Krewstown Rd",
+        "address2": "",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19115",
+        "directionUrl": "https://maps.app.goo.gl/oSxqALBJJuMJxSTZ8",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-philadelphia?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.04922955852342,
+          40.08303688026097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Pittsburgh",
+        "license": "",
+        "address1": "3105 W Liberty Ave",
+        "address2": "",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15216",
+        "directionUrl": "https://maps.app.goo.gl/JmV9HQ3xTPLA43oaA",
+        "storeUrl": "https://weedmaps.com/dispensaries/liberty-pittsburgh?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03834622967989,
+          40.39118855840545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sunnyside Erie",
+        "license": "",
+        "address1": "7851 Peach St",
+        "address2": "",
+        "city": "Erie",
+        "state": "PA",
+        "zip": "16509",
+        "directionUrl": "https://maps.app.goo.gl/J9Fe2TZJat36MMZX7",
+        "storeUrl": "https://weedmaps.com/dispensaries/sunnyside-medical-cannabis-dispensary-erie?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.08166333703865,
+          42.051280537797396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sunnyside Butler",
+        "license": "",
+        "address1": "201 Pillow St",
+        "address2": "",
+        "city": "Butler",
+        "state": "PA",
+        "zip": "16001",
+        "directionUrl": "https://maps.app.goo.gl/kw7YvUqiu8cavaDU9",
+        "storeUrl": "https://weedmaps.com/dispensaries/cy-dispensaries?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.90537333336877,
+          40.86046809990694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Ethos Pennsylvania - Pittsburgh North Fayette",
+        "license": "",
+        "address1": "470 Home Dr",
+        "address2": "",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15275",
+        "directionUrl": "https://maps.app.goo.gl/yznu1mPVVnrMwmELA",
+        "storeUrl": "https://weedmaps.com/dispensaries/ethos-pittsburgh?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1834016003179,
+          40.45120390614685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vytal Options - Lancaster",
+        "license": "",
+        "address1": "39 E Chestnut St",
+        "address2": "",
+        "city": "Lancaster",
+        "state": "PA",
+        "zip": "17602",
+        "directionUrl": "https://maps.app.goo.gl/Ty2rec5i52v7nFJD8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30491058868604,
+          40.04148273681573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vytal Options - Harrisburg",
+        "license": "",
+        "address1": "4711 Queen Ave",
+        "address2": "#101",
+        "city": "Harrisburg",
+        "state": "PA",
+        "zip": "17109",
+        "directionUrl": "https://maps.app.goo.gl/WRFgtsaU9TQGMSWQ9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.80892273100791,
+          40.302804191322046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vytal Options - Kennett Square",
+        "license": "",
+        "address1": "716 W Baltimore Pike",
+        "address2": "",
+        "city": "Kennett Square",
+        "state": "PA",
+        "zip": "19348",
+        "directionUrl": "https://maps.app.goo.gl/TARqwjbeTpP9TDDE8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.72345304451217,
+          39.844603845288205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Maitri Medicinals - Pittsburgh",
+        "license": "",
+        "address1": "5845 Centre Ave",
+        "address2": "",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "",
+        "directionUrl": "https://maps.app.goo.gl/3r58QxK839ozzEsVA",
+        "storeUrl": "https://weedmaps.com/dispensaries/maitri-medicinals-pittsburgh?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.93039821566074,
+          40.45868558425048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vytal Options - State College",
+        "license": "",
+        "address1": "1653 N Atherton St",
+        "address2": "",
+        "city": "State College",
+        "state": "PA",
+        "zip": "16803",
+        "directionUrl": "https://maps.app.goo.gl/GCGaavED9oSgsCGv8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89551491565165,
+          40.8108156138718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Allentown",
+        "license": "",
+        "address1": "3025 Tilghman St",
+        "address2": "",
+        "city": "Allentown",
+        "state": "PA",
+        "zip": "18104",
+        "directionUrl": "https://maps.app.goo.gl/DqyiVfyRRFJP29oDA",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.52507602174825,
+          40.59890189505559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Wilkes-Barre",
+        "license": "",
+        "address1": "765 Kidder St",
+        "address2": "",
+        "city": "Wilkes-Barre",
+        "state": "PA",
+        "zip": "18702",
+        "directionUrl": "https://maps.app.goo.gl/GPXePV62HHhZMLWm7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.84268833761429,
+          41.25009096586589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Pottstown",
+        "license": "",
+        "address1": "1450 E High Street",
+        "address2": "",
+        "city": "Pottstown",
+        "state": "PA",
+        "zip": "19464",
+        "directionUrl": "https://maps.app.goo.gl/vrmwWduSFCddZdVW6",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.61723847942892,
+          40.243430206548624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Yeadon",
+        "license": "",
+        "address1": "735 Church Lane",
+        "address2": "",
+        "city": "Yeadon",
+        "state": "PA",
+        "zip": "19050",
+        "directionUrl": "https://maps.app.goo.gl/qA9ZtcaEnTPBsQK89",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.24951422361559,
+          39.93325030759815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Scranton",
+        "license": "",
+        "address1": "1740 N Keyser Ave",
+        "address2": "",
+        "city": "Scranton",
+        "state": "PA",
+        "zip": "18508",
+        "directionUrl": "https://maps.app.goo.gl/mtydg982BWvKndXE9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.66820576035384,
+          41.4434885994542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Philadelphia (Fishtown)",
+        "license": "",
+        "address1": "957 Frankford Ave",
+        "address2": "",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19125",
+        "directionUrl": "https://maps.app.goo.gl/iH4d5bX5FCNXof2D7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13373357758562,
+          39.96569776812623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Restore Integrative Wellness Center - Elkins Park",
+        "license": "",
+        "address1": "8003 Old York Rd",
+        "address2": "",
+        "city": "Elkins Park",
+        "state": "PA",
+        "zip": "19027",
+        "directionUrl": "https://maps.app.goo.gl/qkfDT97xqgnP5xsL9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.12788318922516,
+          40.07553070693147
+        ]
+      }
     }
   ]
 }
