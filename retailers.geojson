@@ -6480,6 +6480,195 @@
           41.36991820526906
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fluent",
+        "license": "",
+        "address1": "1015 E Main St",
+        "address2": "",
+        "city": "Annville",
+        "state": "PA",
+        "zip": "17003",
+        "directionUrl": "https://maps.app.goo.gl/znGAcNbBB1PNJ4Up9",
+        "storeUrl": "https://weedmaps.com/dispensaries/fluent-annville?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.49720768211446,
+          40.33337835375471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Maitri Medicinals",
+        "license": "",
+        "address1": "27 W Main St",
+        "address2": "",
+        "city": "Uniontown",
+        "state": "PA",
+        "zip": "15401",
+        "directionUrl": "https://maps.app.goo.gl/cQBBYi6We3huz8bL6",
+        "storeUrl": "https://weedmaps.com/dispensaries/maitri-medicinals?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.72579243577599,
+          39.90081819951048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Maitri Medicinals",
+        "license": "",
+        "address1": "100 Bair Blvd",
+        "address2": "",
+        "city": "New Stanton",
+        "state": "PA",
+        "zip": "15672",
+        "directionUrl": "https://maps.app.goo.gl/FMXwJSyfjitMEpcT7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6102645455679,
+          40.22028159466043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hive",
+        "license": "",
+        "address1": "1490 High St",
+        "address2": "",
+        "city": "Williamsport",
+        "state": "PA",
+        "zip": "17701",
+        "directionUrl": "https://maps.app.goo.gl/6S3BhXjWPiAW72RUA",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03549488789635,
+          41.244724038886865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fluent",
+        "license": "",
+        "address1": "648 Frederick St",
+        "address2": "",
+        "city": "Hanover",
+        "state": "PA",
+        "zip": "17331",
+        "directionUrl": "https://maps.app.goo.gl/MYjKV3NUBCdVnVLi7",
+        "storeUrl": "https://weedmaps.com/dispensaries/fluent-hanover-2?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99386530508984,
+          39.79107332378636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fluent",
+        "license": "",
+        "address1": "6200 Carlisle Pike",
+        "address2": "",
+        "city": "Mechanicsburg",
+        "state": "PA",
+        "zip": "17050",
+        "directionUrl": "https://maps.app.goo.gl/nD1fsGQ23sUrGvF5A",
+        "storeUrl": "https://weedmaps.com/dispensaries/fluent-mechanicsburg?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.99496407625406,
+          40.244110117021854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hive",
+        "license": "",
+        "address1": "2625 N Susquehanna Trail",
+        "address2": "",
+        "city": "Shamokin Dam",
+        "state": "PA",
+        "zip": "17876",
+        "directionUrl": "https://maps.app.goo.gl/6tHJMyBJ4Cc3Phyi8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.8266831474183,
+          40.84270310507093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hive",
+        "license": "",
+        "address1": "1612 N Atherton St",
+        "address2": "",
+        "city": "State College",
+        "state": "PA",
+        "zip": "16803",
+        "directionUrl": "https://maps.app.goo.gl/qJ9ZtxMwpJyCUZmH7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.89297127016296,
+          40.80754070948984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Ethos Pennsylvania",
+        "license": "",
+        "address1": "560 Clairton Blvd",
+        "address2": "Suite A",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15236",
+        "directionUrl": "https://maps.app.goo.gl/mqEEJLqygswFwycv7",
+        "storeUrl": "https://weedmaps.com/dispensaries/ethos-pleasant-hills?filter%5Bmatch%5D=wizard-trees"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94526650138904,
+          40.33147202793365
+        ]
+      }
     }
   ]
 }
