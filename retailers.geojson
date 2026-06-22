@@ -6484,6 +6484,174 @@
     {
       "type": "Feature",
       "properties": {
+        "retailer": "TreeHouse",
+        "license": "",
+        "address1": "28 NY-59",
+        "address2": "",
+        "city": "Nyack",
+        "state": "NY",
+        "zip": "10960",
+        "directionUrl": "https://maps.app.goo.gl/fJhgYExcZceGXbS56",
+        "storeUrl": "https://treehousecannabis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93239372856904,
+          41.09391875682389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Twenty8Gramz",
+        "license": "",
+        "address1": "2201 Avenue U",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11229",
+        "directionUrl": "https://maps.app.goo.gl/YiNjN19G6QpRb5486",
+        "storeUrl": "https://www.twenty8gramz.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94817470768972,
+          40.60000027602578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Mindset",
+        "license": "",
+        "address1": "51 Main St",
+        "address2": "",
+        "city": "Tarrytown",
+        "state": "NY",
+        "zip": "10591",
+        "directionUrl": "https://maps.app.goo.gl/QaFSNreApGdBvaB7",
+        "storeUrl": "https://mindsetarrytown.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85967854390971,
+          41.07702772768864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "State of Mind",
+        "license": "",
+        "address1": "521 Troy-Schenectady Rd",
+        "address2": "",
+        "city": "Latham",
+        "state": "NY",
+        "zip": "12110",
+        "directionUrl": "https://maps.app.goo.gl/9YkJRQaf4m9mcgJq9",
+        "storeUrl": "https://itssom.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.76163458808558,
+          42.74955411393737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Munchies",
+        "license": "",
+        "address1": "87-01 Rockaway Beach Blvd",
+        "address2": "",
+        "city": "Far Rockaway",
+        "state": "NY",
+        "zip": "11693",
+        "directionUrl": "https://maps.app.goo.gl/gZij3hHGYHB3HLvM9",
+        "storeUrl": "https://munchiesdispensaryny.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.81102728439316,
+          40.58696571539217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannabis Realm Queens",
+        "license": "",
+        "address1": "172-02 Hillside Ave",
+        "address2": "",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11432",
+        "directionUrl": "https://maps.app.goo.gl/QzQlbJ1jkm7P1G677",
+        "storeUrl": "https://cannabisrealmny.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78924090711868,
+          40.71169128972447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Say Less",
+        "license": "",
+        "address1": "3764 E Tremont Ave",
+        "address2": "",
+        "city": "Bronx",
+        "state": "NY",
+        "zip": "10465",
+        "directionUrl": "https://maps.app.goo.gl/LrfhthcQfiUbU8MA",
+        "storeUrl": "https://saylessnyc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.82119488382213,
+          40.82591393323579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Kushmart Kings Hwy",
+        "license": "",
+        "address1": "1413 Kings Hwy",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11229",
+        "directionUrl": "https://maps.app.goo.gl/YneH7FYm45PX5xYN8",
+        "storeUrl": "https://kushmartnyc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9583274126573,
+          40.608951145352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "retailer": "Fluent",
         "license": "",
         "address1": "1015 E Main St",
@@ -6562,48 +6730,6 @@
         "coordinates": [
           -77.03549488789635,
           41.244724038886865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Fluent",
-        "license": "",
-        "address1": "648 Frederick St",
-        "address2": "",
-        "city": "Hanover",
-        "state": "PA",
-        "zip": "17331",
-        "directionUrl": "https://maps.app.goo.gl/MYjKV3NUBCdVnVLi7",
-        "storeUrl": "https://weedmaps.com/dispensaries/fluent-hanover-2?filter%5Bmatch%5D=wizard-trees"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.99386530508984,
-          39.79107332378636
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Fluent",
-        "license": "",
-        "address1": "6200 Carlisle Pike",
-        "address2": "",
-        "city": "Mechanicsburg",
-        "state": "PA",
-        "zip": "17050",
-        "directionUrl": "https://maps.app.goo.gl/nD1fsGQ23sUrGvF5A",
-        "storeUrl": "https://weedmaps.com/dispensaries/fluent-mechanicsburg?filter%5Bmatch%5D=wizard-trees"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.99496407625406,
-          40.244110117021854
         ]
       }
     },
