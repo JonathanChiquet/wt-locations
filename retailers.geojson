@@ -5224,27 +5224,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Twenty8Grams",
-        "license": "",
-        "address1": "2201 Avenue U",
-        "address2": "",
-        "city": "Booklyn",
-        "state": "NY",
-        "zip": "11229",
-        "directionUrl": "https://maps.app.goo.gl/hF953Vm8v58fcUMd9",
-        "storeUrl": "https://twenty8grams.com/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.94822835167143,
-          40.60000020296803
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Easy Time",
         "license": "",
         "address1": "2668 Coney Island Ave",
