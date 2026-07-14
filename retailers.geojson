@@ -5119,15 +5119,15 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Chrome Flowrs",
+        "retailer": "Chrome Flwrs",
         "license": "",
-        "address1": "185 Nassau Ave",
+        "address1": "185 Nassau Avenue",
         "address2": "",
         "city": "Brooklyn",
         "state": "NY",
         "zip": "11222",
         "directionUrl": "https://maps.app.goo.gl/AzvSRHuFFw97cgKc6",
-        "storeUrl": "https://chromeflowrs.com/"
+        "storeUrl": "https://chromeflwrs.com/"
       },
       "geometry": {
         "type": "Point",
