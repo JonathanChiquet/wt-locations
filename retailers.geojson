@@ -6774,6 +6774,1077 @@
           40.33147202793365
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "BUZZ CANNABIS Santee",
+        "license": "C10-0001655-LIC",
+        "address1": "8011 Mission Gorge Rd",
+        "address2": "",
+        "city": "Santee",
+        "state": "CA",
+        "zip": "92071",
+        "directionUrl": "https://maps.app.goo.gl/W8QQm9bQCHecPuqg7",
+        "storeUrl": "https://buzzcannabis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0219821,
+          32.8361259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "BUZZ Cannabis Wildomar",
+        "license": "C10-0001371-LIC",
+        "address1": "22812 Palomar St Ste 100",
+        "address2": "",
+        "city": "Wildomar",
+        "state": "CA",
+        "zip": "92595",
+        "directionUrl": "https://maps.app.goo.gl/ZhGffNbB7FsVv9yM9",
+        "storeUrl": "https://buzzcannabis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.25066389999999,
+          33.5892264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Backpack Boys Long Beach",
+        "license": "C10-0000521-LIC",
+        "address1": "2725 South St",
+        "address2": "",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip": "90805",
+        "directionUrl": "https://maps.app.goo.gl/byB2ngiGXF9i17Vb8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.15909409999998,
+          33.86060090000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Benzeen La Brea",
+        "license": "C10-0001253-LIC",
+        "address1": "360 N La Brea Ave",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90036",
+        "directionUrl": "https://www.google.com/maps/search/?api=1&query=34.078079599999995,-118.34379140000001&query_place_id=ChIJS0DcZNa4woARTKMJVjMHzUE",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -118.15895645814494,
+          33.860523174340436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Big Tree Industries",
+        "license": "C11-0000276-LIC",
+        "address1": "1500 El Camino Ave Suite D",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95815",
+        "directionUrl": "https://maps.app.goo.gl/gw1obW9zLaaFiu2C6",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.433133,
+          38.6106094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bishop Boyz LLC",
+        "license": "",
+        "address1": "14655 Lull St",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "91405",
+        "directionUrl": "https://maps.app.goo.gl/Vu3DTfRW7oEHXLJy8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.45267450000001,
+          34.209676099999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bud Bees",
+        "license": "C9-0000681-LIC",
+        "address1": "10237 Sepulveda Blvd",
+        "address2": "",
+        "city": "Mission Hills",
+        "state": "CA",
+        "zip": "91345",
+        "directionUrl": "https://maps.app.goo.gl/5wQAqv3qhCRHCmsN8",
+        "storeUrl": "https://budbees.la/#"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4677484,
+          34.2565404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cana Sylmar",
+        "license": "C10-0000397-LIC",
+        "address1": "13509 Hubbard St",
+        "address2": "Floor 1 - Sylmar Plaza",
+        "city": "Sylmar",
+        "state": "CA",
+        "zip": "91342",
+        "directionUrl": "https://maps.app.goo.gl/S9BtZo1N3k7wnAva7",
+        "storeUrl": "https://canaofficial.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -118.42734020470432,
+          34.31000439328347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannable Madera",
+        "license": "C10-0001677-LIC",
+        "address1": "313 E Yosemite Ave",
+        "address2": "",
+        "city": "Madera",
+        "state": "CA",
+        "zip": "93638",
+        "directionUrl": "https://maps.app.goo.gl/2q2VgsoneDgkErqv7",
+        "storeUrl": "https://cannablemadera.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -120.05666332792909,
+        36.96395014969114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannable Retail",
+        "license": "C10-0000847-LIC",
+        "address1": "885 Manning Ave Ste 200",
+        "address2": "",
+        "city": "Parlier",
+        "state": "CA",
+        "zip": "93648",
+        "directionUrl": "https://maps.app.goo.gl/Ab2q5mkXtnM8nPNu7",
+        "storeUrl": "https://cannablecannabis.com/shop?utm_campaign=dispenza&utm_source=gmb&meadowQuery="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.53140010000001,
+          36.6057395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannasseurs Club NoHo",
+        "license": "C12-0000361-LIC",
+        "address1": "11307 Vanowen St",
+        "address2": "",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip": "91605",
+        "directionUrl": "https://maps.app.goo.gl/TQEBpCjx7PpNgpqS9",
+        "storeUrl": "https://www.thecannasseursclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.37708609999999,
+          34.1943605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cookies Brentwood",
+        "license": "C10-0001026-LIC",
+        "address1": "13030 San Vicente Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90049",
+        "directionUrl": "https://maps.app.goo.gl/Mgf9HcAVqWB4XeGZ7",
+        "storeUrl": "https://cookiesdispensary.com/locations/brentwood/?utm_source=gbp&utm_medium=organic&utm_campaign=brentwood&utm_content=website"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+        -118.49006302799474,
+          34.048515174301315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cookies San Diego",
+        "license": "C10-0000750-LIC",
+        "address1": "7850 Mission Center Ct",
+        "address2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92108",
+        "directionUrl": "https://maps.app.goo.gl/yPFGEPi1ZxwVdb8VA",
+        "storeUrl": "https://missionvalley.cookies.co/?utm_source=gmb&utm_medium=organic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+            -117.15521386610907,
+            32.774021555423644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Earths Natural Remedy",
+        "license": "C9-0000528-LIC",
+        "address1": "1750 Iris Ave Suite 114",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95815",
+        "directionUrl": "https://maps.app.goo.gl/3i1XnHCyDXUnDYKq9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4256492,
+          38.6179918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Flight Bernal Heights",
+        "license": "C10-0001647-LIC",
+        "address1": "317 Cortland Ave",
+        "address2": "",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94110",
+        "directionUrl": "https://maps.app.goo.gl/foxQ64YqpVZtsvZh9",
+        "storeUrl": "https://www.flightsfbh.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4181139,
+          37.7394003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Grand-Era",
+        "license": "C10-0001542-LIC",
+        "address1": "5324 York Blvd",
+        "address2": "",
+        "city": "Highland Park",
+        "state": "CA",
+        "zip": "90042",
+        "directionUrl": "https://maps.app.goo.gl/bYwC7bYgQoEocG4FA",
+        "storeUrl": "https://plntbsdhlp.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+            -118.19897254148569,
+            34.11978162187336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Greenway Highway Delivery Los Angeles",
+        "license": "C9-0000849-LIC",
+        "address1": "13019 Terra Bella St",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "91331",
+        "directionUrl": "https://www.google.com/maps/search/?api=1&query=34.259938,-118.41647409999999&query_place_id=ChIJG91_VQ2RwoARb63oP6h9uNc",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41647409999999,
+          34.259938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Greenwolf Bellflower",
+        "license": "C10-0000645-LIC",
+        "address1": "10040 Artesia Pl",
+        "address2": "",
+        "city": "Bellflower",
+        "state": "CA",
+        "zip": "90706",
+        "directionUrl": "https://maps.app.goo.gl/eiuCdeY3nucw4wES6",
+        "storeUrl": "https://greenwolfcannabis.com/bellflower?utm_source=gmb&utm_medium=organic&utm_campaign=bellflower"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.11885138937072,
+          33.874839204135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "HPC of Oxnard",
+        "license": "C10-0001317-LIC",
+        "address1": "360 W Esplanade Dr",
+        "address2": "",
+        "city": "Oxnard",
+        "state": "CA",
+        "zip": "93036",
+        "directionUrl": "https://maps.app.goo.gl/Ah8326N4nvCfHiaQ8",
+        "storeUrl": "https://hpcoxnard.com/shop/?utm_campaign=dispenza&utm_source=gmb&meadowQuery="
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -119.17690603549076,
+          34.234661235780585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Herbal Pain Relief Center North Hills",
+        "license": "C10-0000712-LIC",
+        "address1": "10736 Sepulveda Blvd",
+        "address2": "",
+        "city": "Mission Hills",
+        "state": "CA",
+        "zip": "91345",
+        "directionUrl": "https://maps.app.goo.gl/ZptEdLypKWwHG2oh8",
+        "storeUrl": "https://www.hprc420.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.46582160040784,
+            34.26542287131351
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Higher Ground Canyon Lake",
+        "license": "C10-0001702-LIC",
+        "address1": "31528 Railroad Canyon Rd",
+        "address2": "",
+        "city": "Canyon Lake",
+        "state": "CA",
+        "zip": "92587",
+        "directionUrl": "https://maps.app.goo.gl/idAwj9U4M6EZva7r9",
+        "storeUrl": "https://www.shophigherground.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.2514567,
+          33.6720018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Higher Ground Moreno Valley",
+        "license": "C10-0000895-LIC",
+        "address1": "21820 Alessandro Blvd",
+        "address2": "",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "zip": "92553",
+        "directionUrl": "https://maps.app.goo.gl/4TLZxVpmjBaAv9sg8",
+        "storeUrl": "https://www.shophigherground.com/moreno-valley"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.28104155313244,
+          33.91718428302773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Humanity Wellness",
+        "license": "C10-0000644-LIC",
+        "address1": "3791 Cleveland Ave",
+        "address2": "",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "zip": "95403",
+        "directionUrl": "https://maps.app.goo.gl/iDfNUfxiBpdt7dDF8",
+        "storeUrl": "https://www.humanitywellness.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.73297590514801,
+          38.4791794511136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Humboldt Honey Dispensary",
+        "license": "C10-0001562-LIC",
+        "address1": "103 5th St",
+        "address2": "",
+        "city": "Eureka",
+        "state": "CA",
+        "zip": "95501",
+        "directionUrl": "https://maps.app.goo.gl/HEa4oKf7KxmGcRDo7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16971071989263,
+          40.801677043974955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jackpot",
+        "license": "C10-0001573-LIC",
+        "address1": "8125 36th Ave",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95824",
+        "directionUrl": "https://maps.app.goo.gl/EX9Rxw6rc7aL2CuQ6",
+        "storeUrl": "https://jackpot-weed.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.4073248,
+          38.5208946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jade Leaf",
+        "license": "C10-0001024-LIC",
+        "address1": "10461 Santa Monica Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90025",
+        "directionUrl": "https://maps.app.goo.gl/JJ2HXGd4PEjoLEmX8",
+        "storeUrl": "https://www.jadeleafww.com/shop?meadowQuery=mdwCb%3D%252Forganizations%252F1934&meadow-page=pick-menu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.42575476238144,
+          34.05655443740869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jane Dispensary Cotati",
+        "license": "C10-0001089-LIC",
+        "address1": "8145 Gravenstein Hwy",
+        "address2": "",
+        "city": "Cotati",
+        "state": "CA",
+        "zip": "94931",
+        "directionUrl": "https://maps.app.goo.gl/9seiqZPqgxxti3oC8",
+        "storeUrl": "https://janedispensary.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7214739,
+          38.332687799999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jane Dispensary Healdsburg",
+        "license": "C10-0001569-LIC",
+        "address1": "44 Mill St",
+        "address2": "",
+        "city": "Healdsburg",
+        "state": "CA",
+        "zip": "95448",
+        "directionUrl": "https://maps.app.goo.gl/nzrDdDVM6ywNHZbTA",
+        "storeUrl": "https://janedispensary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -122.86994503344071,
+          38.606660584430145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Jane Dispensary Santa Rosa",
+        "license": "C10-0000861-LIC",
+        "address1": "2074 Armory Dr",
+        "address2": "",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "zip": "95401",
+        "directionUrl": "https://maps.app.goo.gl/Xnjz8pnRFQ8Azcm76",
+        "storeUrl": "https://janedispensary.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7253885,
+          38.4576752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Joyus Recreation",
+        "license": "C12-0000111-LIC",
+        "address1": "2430 Union Street",
+        "address2": "",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94607",
+        "directionUrl": "https://www.google.com/maps/search/?api=1&query=37.818326899999995,-122.28498200000001&query_place_id=ChIJs52_Kxl-hYARn201zphs2hQ",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.28498200000001,
+          37.818326899999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Kush Korner II",
+        "license": "C10-0001487-LIC",
+        "address1": "5143 Alhambra Ave",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90032",
+        "directionUrl": "https://maps.app.goo.gl/mbFKBNGpJehLwmHZ8",
+        "storeUrl": "https://www.kushkornerii.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.17395810000001,
+          34.0725437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "LA Kush East LA",
+        "license": "C10-0000399-LIC",
+        "address1": "5470 E Valley Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90032",
+        "directionUrl": "https://maps.app.goo.gl/wkoiUPhk6vH2TVPP8",
+        "storeUrl": "https://www.lakush.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.16374110000001,
+          34.0734315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Meltd",
+        "license": "C12-0000655-LIC",
+        "address1": "10844 Alameda St",
+        "address2": "",
+        "city": "Lynwood",
+        "state": "CA",
+        "zip": "90262",
+        "directionUrl": "https://www.google.com/maps/search/?api=1&query=33.936766399999996,-118.22656500000001&query_place_id=EiwxMDg0NCBBbGFtZWRhIFN0LCBMb3MgQW5nZWxlcywgQ0EgOTAwNTksIFVTQSIxEi8KFAoSCQt3TFHoy8KAEWHa0l8ecgSkENxUKhQKEgnhQTijpsvCgBFWfYlZwuj1zw",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.22656500000001,
+          33.936766399999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Metro Cannabis",
+        "license": "C10-0001405-LIC",
+        "address1": "6492 Florin Perkins Rd",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95828",
+        "directionUrl": "https://maps.app.goo.gl/aXiMJaGFYviQ48zo9",
+        "storeUrl": "https://www.metrocannadispensary.com/shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.39360896042838,
+          38.50946957480896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Moe Greens",
+        "license": "C10-0000427-LIC",
+        "address1": "1276 Market St",
+        "address2": "",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94102",
+        "directionUrl": "https://maps.app.goo.gl/VpHWZqYwtKPADhdJ6",
+        "storeUrl": "https://moegreens.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4160218,
+          37.778061199999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Nature's Story",
+        "license": "C10-0001023-LIC",
+        "address1": "6455 Topanga Canyon Blvd N",
+        "address2": "",
+        "city": "Woodland Hills",
+        "state": "CA",
+        "zip": "91303",
+        "directionUrl": "https://maps.app.goo.gl/YBgNCLoB3JepQ6127",
+        "storeUrl": "https://www.natures-story.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.60618099999999,
+          34.188117999999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Off The Charts San Jose",
+        "license": "C10-0001662-LIC",
+        "address1": "2200 Stevens Creek Blvd",
+        "address2": "",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95128",
+        "directionUrl": "https://maps.app.goo.gl/svE11ZVoRE87ggWh9",
+        "storeUrl": "https://offthechartsshop.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.9331339,
+          37.3231573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Perfect Union Northside",
+        "license": "C10-0000199-LIC",
+        "address1": "1508 El Camino Ave",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95818",
+        "directionUrl": "https://maps.app.goo.gl/nkD85aZc1rgv8CdXA",
+        "storeUrl": "https://www.perfect-union.com/locations/sacramento-northside/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.43285069999999,
+          38.6101957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Perfect Union San Diego",
+        "license": "C10-0001557-LIC",
+        "address1": "909 Cardiff St",
+        "address2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92114",
+        "directionUrl": "https://maps.app.goo.gl/mDfXEeBfdfQJ71E8A",
+        "storeUrl": "https://www.perfect-union.com/locations/san-diego"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.02504449999998,
+          32.7158383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Plant Galaxy Riverside",
+        "license": "C10-0000876-LIC",
+        "address1": "1270 Center St",
+        "address2": "",
+        "city": "Riverside",
+        "state": "CA",
+        "zip": "92507",
+        "directionUrl": "https://maps.app.goo.gl/NZw9LANcKNGFXkGT6",
+        "storeUrl": "https://plantgalaxy.net/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.33895583724744,
+          34.01557146793744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Proper Wellness - Eureka",
+        "license": "C10-0000599-LIC",
+        "address1": "517 5th St",
+        "address2": "",
+        "city": "Eureka",
+        "state": "CA",
+        "zip": "95501",
+        "directionUrl": "https://maps.app.goo.gl/QUprkxzRTazXTuUh9",
+        "storeUrl": "https://properwellnesscenter.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.16554830000001,
+          40.802138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY",
+        "license": "C11-0001947-LIC",
+        "address1": "2311 S Santa Fe Ave",
+        "address2": "",
+        "city": "Vernon",
+        "state": "CA",
+        "zip": "90058",
+        "directionUrl": "https://www.google.com/maps/search/?api=1&query=34.016573199999996,-118.23201239999999&query_place_id=ChIJAVkmV5bIwoARvmbnBZ5eAGI",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.23201239999999,
+          34.016573199999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sundial Bishop",
+        "license": "C10-0001326-LIC",
+        "address1": "175 S Main St",
+        "address2": "",
+        "city": "Bishop",
+        "state": "CA",
+        "zip": "93514",
+        "directionUrl": "https://maps.app.goo.gl/pa124eHSYGq61Ctv9",
+        "storeUrl": "https://sundialcollective.com/bishop?utm_source=gmb-bishop&utm_campaign=dispenza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.39501913162047,
+          37.36087973456776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sundial Collective Red Bluff",
+        "license": "C10-0001195-LIC",
+        "address1": "723 Main St",
+        "address2": "",
+        "city": "Red Bluff",
+        "state": "CA",
+        "zip": "96080",
+        "directionUrl": "https://maps.app.goo.gl/UMQeTMUgC8yAKEQw6",
+        "storeUrl": "https://www.sundialcollective.com/dispensary-locations/red-bluff"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.23556449999998,
+          40.177637499999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sundial Collective Redding",
+        "license": "C10-0000036-LIC",
+        "address1": "827 Twin View Blvd",
+        "address2": "",
+        "city": "Redding",
+        "state": "CA",
+        "zip": "96003",
+        "directionUrl": "https://maps.app.goo.gl/KpnDirZ9Dbxgq2TU8",
+        "storeUrl": "https://www.sundialcollective.com/dispensary-locations/redding"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37108409999998,
+          40.61898660000001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sundial Woodland",
+        "license": "C10-0001580-LIC",
+        "address1": "3 Court St",
+        "address2": "",
+        "city": "Woodland",
+        "state": "CA",
+        "zip": "95695",
+        "directionUrl": "https://maps.app.goo.gl/Uty5rof2fwm6BtBE6",
+        "storeUrl": "https://www.sundialcollective.com/dispensary-locations/woodland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.7837986,
+          38.679090099999996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sweet Flower Westwood",
+        "license": "C10-0000359-LIC",
+        "address1": "1413 Westwood Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90024",
+        "directionUrl": "https://maps.app.goo.gl/X6G1VxSQNgwUQAhK8",
+        "storeUrl": "https://sweetflower.com/stores/westwood/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.44119934888855,
+          34.05501689476805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Maven Store Tarzana",
+        "license": "C10-0001128-LIC",
+        "address1": "18629 Ventura Blvd",
+        "address2": "",
+        "city": "Tarzana",
+        "state": "CA",
+        "zip": "91356",
+        "directionUrl": "https://maps.app.goo.gl/1nD2iN1BFp9Nfesc8",
+        "storeUrl": "https://www.themavenstoreca.com/home"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5393514,
+          34.1702978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Treehouse Moreno Valley",
+        "license": "C10-0000987-LIC",
+        "address1": "24081 Postal Ave",
+        "address2": "",
+        "city": "Moreno Valley",
+        "state": "CA",
+        "zip": "92553",
+        "directionUrl": "https://maps.app.goo.gl/55vaYMrkeLfPVPKc6",
+        "storeUrl": "http://www.treehouse.delivery/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.24216919999998,
+          33.940016799999995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Valley Verde Van Nuys",
+        "license": "C10-0000839-LIC",
+        "address1": "14903 Sherman Way",
+        "address2": "",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip": "91405",
+        "directionUrl": "https://maps.app.goo.gl/AuDqyT8XPDmNxrGF6",
+        "storeUrl": "https://www.keepingthevalleyverde.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.45772210000001,
+          34.2016445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Xzibits West Coast Cannabis Chatsworth",
+        "license": "C10-0000098-LIC",
+        "address1": "9155 Deering Ave",
+        "address2": "",
+        "city": "Chatsworth",
+        "state": "CA",
+        "zip": "91311",
+        "directionUrl": "https://maps.app.goo.gl/hxw4NoDmMzWdUU8w6",
+        "storeUrl": "https://xzibitswcc.com/pages/chatsworth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.5966978,
+          34.237150199999995
+        ]
+      }
     }
   ]
 }
