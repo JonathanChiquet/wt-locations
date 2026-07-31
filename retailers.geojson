@@ -7845,6 +7845,258 @@
           34.237150199999995
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bayside Cannabis Dispensary",
+        "license": "",
+        "address1": "224-15 Union Turnpike",
+        "address2": "",
+        "city": "Oakland Gardens",
+        "state": "NY",
+        "zip": "11364",
+        "directionUrl": "https://maps.app.goo.gl/5uU5qjoyfN3s797V6",
+        "storeUrl": "https://baysidecannabis.com/?utm_source=GMB&utm_medium=gmb&utm_campaign=gmb_local&utm_id=gmb_local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.7461568,
+          40.736131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Buzzwick Uptown",
+        "license": "",
+        "address1": "4930 Broadway",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10034",
+        "directionUrl": "https://maps.app.goo.gl/1qbHnwrkSD7sRV2UA",
+        "storeUrl": "https://buzzwicknyc.com/store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+            -73.92088467355453,
+            40.867646365013336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Chrome Flwrs",
+        "license": "",
+        "address1": "185 Nassau Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11222",
+        "directionUrl": "https://maps.app.goo.gl/DzGWyhBCnFVRu6id8",
+        "storeUrl": "https://www.chromeflwrs.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9457642,
+          40.7256244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Good Life Collective - Canandaigua",
+        "license": "",
+        "address1": "230 S Main St",
+        "address2": "",
+        "city": "Canandaigua",
+        "state": "NY",
+        "zip": "14424",
+        "directionUrl": "https://maps.app.goo.gl/dnFMDTiZmyF15iWM9",
+        "storeUrl": "https://goodlifeweed.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -77.27847386985373,
+            42.8843359120629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Happy Days Dispensary",
+        "license": "",
+        "address1": "105 NY-109",
+        "address2": "",
+        "city": "Farmingdale",
+        "state": "NY",
+        "zip": "11735",
+        "directionUrl": "https://maps.app.goo.gl/YZYaxWR3T6yL35f47",
+        "storeUrl": "https://www.happydaysli.com/?y_source=1_MTAyODg2NTkzMy03MTUtbG9jYXRpb24ud2Vic2l0ZQ%3D%3D"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4240281,
+          40.7227459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Highest Standards - Manhattan",
+        "license": "",
+        "address1": "2 Coenties Slip",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10004",
+        "directionUrl": "https://maps.app.goo.gl/TePVp1pNXgqJS33V9",
+        "storeUrl": "https://higheststandards.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+            -74.00977665636104,
+            40.70376470188085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Misfits Dispensary",
+        "license": "",
+        "address1": "400 Jefferson Rd",
+        "address2": "Suite 2",
+        "city": "Rochester",
+        "state": "NY",
+        "zip": "14623",
+        "directionUrl": "https://maps.app.goo.gl/gnbpo2mBmSTFRMyH6",
+        "storeUrl": "https://misfitsdispensary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+            -77.64097214180558,
+            43.090851240536296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Orange County Cannabis Co.",
+        "license": "",
+        "address1": "1308 Dolsontown Rd",
+        "address2": "Suite 3",
+        "city": "Middletown",
+        "state": "NY",
+        "zip": "10940",
+        "directionUrl": "https://maps.app.goo.gl/rxRBAqgbgxbhSatB6",
+        "storeUrl": "https://orangecountycannabisco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+            -74.40341831958378,
+            41.42890280709647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "State of Mind Dispensary - Albany",
+        "license": "",
+        "address1": "351 Southern Blvd",
+        "address2": "",
+        "city": "Albany",
+        "state": "NY",
+        "zip": "12209",
+        "directionUrl": "https://maps.app.goo.gl/76sfXXYmmbbtbJRf9",
+        "storeUrl": "https://itssom.com/location/albany/?utm_source=gmb&utm_campaign=organic_traffic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+            -73.77483852937567,
+            42.63029948310018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Superfly Dispensary",
+        "license": "",
+        "address1": "57 W 86th St",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10024",
+        "directionUrl": "https://maps.app.goo.gl/GfWSSh7VZ7eXdMoXA",
+        "storeUrl": "http://hellosuperfly.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.97092248149602,
+            40.78666981137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Gallery at Dumbo",
+        "license": "",
+        "address1": "31 Washington St",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11201",
+        "directionUrl": "https://maps.app.goo.gl/9y6VvRuJp7h51XMJ6",
+        "storeUrl": "http://thegalleryny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+            -73.98897541773339,
+            40.70342636906622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "ZenZest Cannabis Dispensary - Queens",
+        "license": "",
+        "address1": "272-06 Union Tpke",
+        "address2": "",
+        "city": "Queens",
+        "state": "NY",
+        "zip": "11040",
+        "directionUrl": "https://maps.app.goo.gl/c1JNmj4WZAHJmFJy5",
+        "storeUrl": "https://zenzestweeddispensary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+            -73.70110633916757,
+            40.752208876684975
+        ]
+      }
     }
   ]
 }
