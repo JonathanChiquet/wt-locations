@@ -8076,6 +8076,27 @@
             40.752208876684975
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Herbarium Queens",
+        "license": "",
+        "address1": "4-65 Onderdonk Ave",
+        "address2": "",
+        "city": "Ridgewood",
+        "state": "NY",
+        "zip": "11385",
+        "directionUrl": "https://maps.app.goo.gl/nrHgVq1ieZUHsLq8A",
+        "storeUrl": "https://herbarium.co/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+            -73.9110076824729,
+            40.70706502145545
+        ]
+      }
     }
   ]
 }
