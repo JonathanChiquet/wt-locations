@@ -8328,6 +8328,47 @@
         33.790252430410206
       ]
     }
+  },{
+    "type": "Feature",
+    "properties": {
+      "retailer": "The Flowery Palmetto Bay",
+      "license": "",
+      "address1": "8898 SW 144th St",
+      "address2": "",
+      "city": "Palmetto Bay",
+      "state": "FL",
+      "zip": "33176",
+      "directionUrl": "https://maps.app.goo.gl/Eq7Xq9U38Gc94k626",
+      "storeUrl": "https://theflowery.co/dispensary/palmetto-bay"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 
+        -80.33669201670706,
+        25.63623844925937
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "The Flowery Tampa",
+      "license": "",
+      "address1": "5235 S Dale Mabry Hwy",
+      "address2": "",
+      "city": "Tampa",
+      "state": "FL",
+      "zip": "33611",
+      "directionUrl": "https://maps.app.goo.gl/XUuod3khCL8PA5Ki9",
+      "storeUrl": "https://theflowery.co/dispensary/tampa"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 
+        -82.50586424716415,
+        27.888757875966377
+      ]
+    }
   }
   ]
 }
