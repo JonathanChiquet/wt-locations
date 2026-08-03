@@ -8097,6 +8097,237 @@
             40.70706502145545
         ]
       }
+    },
+     {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY Authentic 209 (Modesto)",
+      "license": "",
+      "address1": "426 McHenry Ave",
+      "address2": "",
+      "city": "Modesto",
+      "state": "CA",
+      "zip": "95354",
+      "directionUrl": "https://maps.app.goo.gl/kzbRcA874ckHo9Qq8",
+      "storeUrl": "https://theauthenticcannabis.com/locations/authentic-209?utm_source=google&utm_medium=organic&utm_campaign=authentic-209-gmb"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -120.99350220000001,
+        37.650404
+      ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY Costa Mesa (Harbor)",
+      "license": "",
+      "address1": "2710 Harbor Blvd",
+      "address2": "",
+      "city": "Costa Mesa",
+      "state": "CA",
+      "zip": "92626",
+      "directionUrl": "https://maps.app.goo.gl/2XryBK8uKgPErNCu6",
+      "storeUrl": "https://www.stiiizy.com/pages/costa-mesa-dispensary?utm_source=google&utm_medium=organic&utm_campaign=costa-mesa-gmb"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -117.91866619999998,
+        33.6714852
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY Fresno",
+      "license": "",
+      "address1": "6929 N Willow Ave Ste 103",
+      "address2": "",
+      "city": "Fresno",
+      "state": "CA",
+      "zip": "93710",
+      "directionUrl": "https://maps.app.goo.gl/AWEybax3DQX8dj8V7",
+      "storeUrl": "https://www.stiiizy.com/pages/fresno-dispensary?utm_source=google&utm_medium=organic&utm_campaign=fresno-gmb"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -119.73106670000001,
+        36.8373397
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY King's Crew (Long Beach)",
+      "license": "",
+      "address1": "5630 E Pacific Coast Hwy",
+      "address2": "",
+      "city": "Long Beach",
+      "state": "CA",
+      "zip": "90814",
+      "directionUrl": "https://maps.app.goo.gl/Sh9GCdyC5jkqEH5F6",
+      "storeUrl": "https://kingscrew.com/?utm_source=google&utm_medium=organic&utm_campaign=longbeach-gmblisting"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -118.12176737418763,
+        33.77486258132878
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY Madera",
+      "license": "",
+      "address1": "1105 Country Club Dr",
+      "address2": "",
+      "city": "Madera",
+      "state": "CA",
+      "zip": "93638",
+      "directionUrl": "https://maps.app.goo.gl/1fj3qucGafUKLgAW7",
+      "storeUrl": "https://www.stiiizy.com/pages/madera-dispensary?utm_source=google&utm_medium=organic&utm_campaign=madera-gmb"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 
+        -120.07208427358206,
+        36.97530846059718
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY Pacheco",
+      "license": "",
+      "address1": "5753 Pacheco Blvd",
+      "address2": "",
+      "city": "Pacheco",
+      "state": "CA",
+      "zip": "94553",
+      "directionUrl": "https://maps.app.goo.gl/UackagtXRCXxzwdH9",
+      "storeUrl": "https://www.stiiizy.com/pages/pacheco-dispensary?utm_source=google&utm_medium=organic&utm_campaign=pacheco-gmb"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+       -122.06655123736209,
+        37.985178466958246
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY San Jose (Airfield)",
+      "license": "",
+      "address1": "1190 Coleman Ave",
+      "address2": "",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95110",
+      "directionUrl": "https://maps.app.goo.gl/BfU8YJ6kGc9YSd6L7",
+      "storeUrl": "https://www.airfieldsupplyco.com/?utm_source=google&utm_medium=organic&utm_campaign=sanjose-gmblisting"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 
+        -121.93120065454899,
+        37.35697596089223
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY San Jose (Caliva)",
+      "license": "",
+      "address1": "1695 S 7th St",
+      "address2": "",
+      "city": "San Jose",
+      "state": "CA",
+      "zip": "95112",
+      "directionUrl": "https://maps.app.goo.gl/jdjsJzYHJA7pps6n6",
+      "storeUrl": "https://stiiizy.dispensary.shop/caliva-7thst/rec/menu?utm_source=google&utm_medium=id&utm_campaign=gmb"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 
+        -121.86507889872485,
+        37.31392312573546
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY Suisun City",
+      "license": "",
+      "address1": "521 Railroad Ave",
+      "address2": "",
+      "city": "Suisun City",
+      "state": "CA",
+      "zip": "94585",
+      "directionUrl": "https://maps.app.goo.gl/C9KV9LFnMvrYMyrQ6",
+      "storeUrl": "https://www.stiiizy.com/pages/suisun-city-dispensary?utm_source=google&utm_medium=organic&utm_campaign=suisun-city-gmb"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.00984622940622,
+        38.261789814286054
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY Union Square",
+      "license": "",
+      "address1": "180 O'Farrell St",
+      "address2": "",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94102",
+      "directionUrl": "https://maps.app.goo.gl/WXAUktMk33zFVy127",
+      "storeUrl": "https://www.stiiizy.com/pages/union-square-dispensary?utm_source=google&utm_medium=organic&utm_campaign=union-square-gmb"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.40695625270274,
+        37.78681835829142
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "STIIIZY Wilmington (PCH)",
+      "license": "",
+      "address1": "1026 W Pacific Coast Hwy",
+      "address2": "",
+      "city": "Wilmington",
+      "state": "CA",
+      "zip": "90744",
+      "directionUrl": "https://maps.app.goo.gl/TLrj6zoX5cLo1kLKA",
+      "storeUrl": "https://www.stiiizy.com/pages/wilmington-dispensary?utm_source=google&utm_medium=organic&utm_campaign=wilmington-gmb"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 
+        -118.27492597415312,
+        33.790252430410206
+      ]
+    }
+  }
   ]
 }
