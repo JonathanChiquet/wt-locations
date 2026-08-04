@@ -8369,6 +8369,216 @@
         27.888757875966377
       ]
     }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "IO Extracts",
+      "license": "",
+      "address1": "3000 E Valencia Rd, Suite 160",
+      "address2": "",
+      "city": "Tucson",
+      "state": "AZ",
+      "zip": "85706",
+      "directionUrl": "https://www.google.com/maps/search/?api=1&query=32.133494999999996,-110.92734399999999&query_place_id=ChIJlXZLBBh71oYRbn6g1XMlQLE",
+      "storeUrl": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -110.92734399999999,
+        32.133494999999996
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "Project Packs",
+      "license": "",
+      "address1": "2239 N Black Cyn Hwy",
+      "address2": "",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85009",
+      "directionUrl": "https://www.google.com/maps/search/?api=1&query=33.4724697,-112.11135130000001&query_place_id=ChIJbcv3QKQTK4cRjEocYx1EV5k",
+      "storeUrl": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.11135130000001,
+        33.4724697
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "Key Cannabis Springerville",
+      "license": "",
+      "address1": "900 East Main Street",
+      "address2": "",
+      "city": "Springerville",
+      "state": "AZ",
+      "zip": "85938",
+      "directionUrl": "https://maps.app.goo.gl/MZJqsfDuuuFFCAzn6",
+      "storeUrl": "https://keycannabis.com/shop/springerville-az/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=springerville"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -109.27301425821145,
+        34.132438228302185
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "Medusa Farms",
+      "license": "",
+      "address1": "3490 N Bank St",
+      "address2": "",
+      "city": "Kingman",
+      "state": "AZ",
+      "zip": "86409",
+      "directionUrl": "https://maps.app.goo.gl/2rrS5FJXvVkEcMeZ8",
+      "storeUrl": "http://www.medusafarms.com/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -114.01059892937567,
+        35.22459127525992
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "Trulieve Distribution",
+      "license": "",
+      "address1": "2512 E Magnolia St",
+      "address2": "",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85034",
+      "directionUrl": "https://www.google.com/maps/search/?api=1&query=33.4229503,-112.02723689999999&query_place_id=ChIJf767pzkOK4cRkI5BytdXg8s",
+      "storeUrl": ""
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.02723689999999,
+        33.4229503
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "Nature Med Medical License",
+      "license": "",
+      "address1": "5390 W Ina Rd",
+      "address2": "",
+      "city": "Marana",
+      "state": "AZ",
+      "zip": "85743",
+      "directionUrl": "https://maps.app.goo.gl/ibZiQf6Kr6b13mDV6",
+      "storeUrl": "https://naturemedaz.com/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -111.07944942143418,
+        32.33832421055512
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "TruMed",
+      "license": "",
+      "address1": "1613 N 40th St",
+      "address2": "",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85008",
+      "directionUrl": "https://maps.app.goo.gl/yo7aEadwR5QVvnL86",
+      "storeUrl": "https://trumedaz.com/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 
+       -111.99479114656916,
+        33.46641752655852
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "Key Cannabis Dispensary Phoenix",
+      "license": "",
+      "address1": "2601 W. Dunlap Avenue 21",
+      "address2": "",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85021",
+      "directionUrl": "https://maps.app.goo.gl/oDrwBUHH1kfevP6j8",
+      "storeUrl": "https://keycannabis.com/shop/phoenix-az/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=phoenix"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.11480193731717,
+        33.56700485879545
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "The Flower Shop Phoenix Distribution",
+      "license": "",
+      "address1": "3155 E Mcdowell Rd",
+      "address2": "Ste 2",
+      "city": "Phoenix",
+      "state": "AZ",
+      "zip": "85008",
+      "directionUrl": "https://maps.app.goo.gl/6trqjmb3HZ9PMB2h7",
+      "storeUrl": "https://theflowershopusa.com/phoenix?utm_source=google-business&utm_medium=organic"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [ 
+        -112.01249231218219,
+        33.46572302913506
+      ]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "retailer": "BEST Dispensary Mesa",
+      "license": "M 00000032DCOW00232310 / R 00000046ESTW28902560",
+      "address1": "1962 N. Higley Rd",
+      "address2": "",
+      "city": "Mesa",
+      "state": "AZ",
+      "zip": "85205",
+      "directionUrl": "https://maps.app.goo.gl/zupcPWcqe7CshdxG8",
+      "storeUrl": "http://www.bestdispensary.com/"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -111.7187168201237,
+        33.45098820635471
+      ]
+    }
   }
   ]
 }
