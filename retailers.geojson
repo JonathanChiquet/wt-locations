@@ -8579,6 +8579,909 @@
         33.45098820635471
       ]
     }
-  }
+  },
+  {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bethel Buds",
+        "license": "OCM-RETL-24-000049",
+        "address1": "1577 NY-17B",
+        "address2": "",
+        "city": "White Lake",
+        "state": "NY",
+        "zip": "12786",
+        "directionUrl": "https://maps.app.goo.gl/U6Yp549YJRLWNid76",
+        "storeUrl": "https://bethelbuds.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+         -74.83689158465691,
+         41.67375772827425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Dankley - Manhattan Fidi",
+        "license": "OCM-RETL-25-000450",
+        "address1": "85 Nassau Street",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10038",
+        "directionUrl": "https://maps.app.goo.gl/QoZA83QsyZSryq8j7",
+        "storeUrl": "http://dankley.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -74.00761952937567,
+          40.71028412140362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "My Bud 420",
+        "license": "OCM-RETL-24-000008",
+        "address1": "1798 E Tremont Ave",
+        "address2": "",
+        "city": "Bronx",
+        "state": "NY",
+        "zip": "10460",
+        "directionUrl": "https://www.google.com/maps/search/?api=1&query=1798%20E%20Tremont%20Ave%2C%20Bronx%2C%20NY%2010460",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.00776973307646,
+          40.71025972347031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Daily Green",
+        "license": "OCM-RETL-24-000254",
+        "address1": "719 7th Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10036",
+        "directionUrl": "https://maps.app.goo.gl/eHzVNu6ZNe58ZG3eA",
+        "storeUrl": "https://thedailygreennyc.com/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=dailygreen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98298873176597,
+          40.759859054855475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Lucky Leaf",
+        "license": "OCM-RETL-24-000013",
+        "address1": "50 N Highland Ave",
+        "address2": "",
+        "city": "Ossining",
+        "state": "NY",
+        "zip": "10562",
+        "directionUrl": "https://maps.app.goo.gl/uTwnynEAWMbUBNbQ9",
+        "storeUrl": "https://www.luckyleafny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.86087194286836,
+          41.16438466943683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Le Flora Cannabis",
+        "license": "OCM-RETL-25-000270",
+        "address1": "155 William St",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10038",
+        "directionUrl": "https://maps.app.goo.gl/H5EXfH94MrdgYREY6",
+        "storeUrl": "https://www.lefloracannabis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -74.00574525080985,
+          40.71006032188195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Beleaf medford",
+        "license": "",
+        "address1": "262 Middle Island Rd",
+        "address2": "",
+        "city": "Medford",
+        "state": "NY",
+        "zip": "11763",
+        "directionUrl": "https://maps.app.goo.gl/iSYbucHX96ctPXRw9",
+        "storeUrl": "https://beleafny.com/location/beleaf-medford/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -72.98851847540493,
+          40.84192142249633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "FlynnStoned - Bay Ridge",
+        "license": "OCM-CAURD-25-000281",
+        "address1": "8112 5th Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11209",
+        "directionUrl": "https://maps.app.goo.gl/GhUowN67X4kC485P8",
+        "storeUrl": "https://flynnstoned.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.02421000053992,
+          40.624963288257916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Starlife",
+        "license": "",
+        "address1": "1 Hall Ave",
+        "address2": "",
+        "city": "White Plains",
+        "state": "NY",
+        "zip": "10603",
+        "directionUrl": "https://maps.app.goo.gl/6YahzkvHBWRQdYSW6",
+        "storeUrl": "https://starlifedispensary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.75880045636104,
+          41.0386905702574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Long Island Cannabis Club",
+        "license": "OCM-CAURD-23-000012",
+        "address1": "94 East Industry Court",
+        "address2": "",
+        "city": "Deer Park",
+        "state": "NY",
+        "zip": "11729",
+        "directionUrl": "https://maps.app.goo.gl/f5edvhDMFgmyTiP29",
+        "storeUrl": "https://longislandcannabisclub.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.29676629683912,
+          40.7634611245748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Strong Strains",
+        "license": "OCM-CAURD-25-000272",
+        "address1": "19 Technology Dr",
+        "address2": "",
+        "city": "East Setauket",
+        "state": "NY",
+        "zip": "11733",
+        "directionUrl": "https://maps.app.goo.gl/EZs2hpzN9J4A1F1T8",
+        "storeUrl": "https://strongstrains.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.08671357540493,
+          40.89829391879911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "SeshNYC",
+        "license": "OCM-CAURD-24-000144",
+        "address1": "4219 Webster Ave",
+        "address2": "",
+        "city": "Bronx",
+        "state": "NY",
+        "zip": "10470",
+        "directionUrl": "https://maps.app.goo.gl/hLykN4d7RXh9puf78",
+        "storeUrl": "https://myseshnyc.com/?utm_source=google&utm_medium=organic&utm_campaign=gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86284386985373,
+          40.89641940192595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Central Budz",
+        "license": "",
+        "address1": "2247 Central Park Ave",
+        "address2": "",
+        "city": "Yonkers",
+        "state": "NY",
+        "zip": "10710",
+        "directionUrl": "https://maps.app.goo.gl/1oz41yzuybcFeKfn7",
+        "storeUrl": "https://centralbudz.com/?utm_campaign=gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83287484101797,
+          40.975644350519005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "FlynnStoned - Oswego",
+        "license": "OCM-RETL-24-000086",
+        "address1": "143 George St",
+        "address2": "",
+        "city": "Oswego",
+        "state": "NY",
+        "zip": "13126",
+        "directionUrl": "https://maps.app.goo.gl/X5TxCV87etrASKbp7",
+        "storeUrl": "https://flynnstoned.com/stores/flynnstoned-cannabis-dispensary-oswego-ny/?utm_source=gmb&utm_medium=organic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -76.48451656006183,
+          43.462925429613634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Nicklz",
+        "license": "OCM-CAURD-24-000151",
+        "address1": "797 8th Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10019",
+        "directionUrl": "https://maps.app.goo.gl/6qyqbVEFdHn624PZ9",
+        "storeUrl": "https://nicklzny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.98648154101795,
+          40.76145550074962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Midnight Moon",
+        "license": "OCM-RETL-24-000048",
+        "address1": "1536 Amsterdam Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10031",
+        "directionUrl": "https://maps.app.goo.gl/AB5sS5imoy53b1Qm8",
+        "storeUrl": "https://midnightmoon.nyc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95133356800335,
+          40.81960781747242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "FlynnStoned - Chelsea",
+        "license": "OCM-RETL-24-000041",
+        "address1": "206 8th Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10011",
+        "directionUrl": "https://maps.app.goo.gl/jBVhbM3fNa3cJL3L8",
+        "storeUrl": "https://flynnstoned.com/stores/flynnstoned-cannabis-dispensary-nyc-chelsea-ny/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.9987727005399,
+          40.74369832137032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Emerald Dispensary - Manhattan",
+        "license": "OCM-CAURD-24-000146",
+        "address1": "1190 Lexington Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10028",
+        "directionUrl": "https://maps.app.goo.gl/HvJdpWFeysGEFVMb7",
+        "storeUrl": "http://theemeraldny.com/uppereastside"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.95734178334642,
+          40.77652508324411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Emerald Dispensary - Bushwick",
+        "license": "OCM-CAURD-24-000057",
+        "address1": "85 Suydam St",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11221",
+        "directionUrl": "https://maps.app.goo.gl/6qoQJu4X3tRb8DRD9",
+        "storeUrl": "https://theemeraldny.com/bushwick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9289103023903,
+          40.6980274134404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Forever 420",
+        "license": "",
+        "address1": "1118 Pennsylvania Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11207",
+        "directionUrl": "https://maps.app.goo.gl/Gdmqe8wcXhSkB8qA7",
+        "storeUrl": "http://www.forever420ny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88667373492684,
+          40.65328416013574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Nughub",
+        "license": "OCM-CAURD-24-000183",
+        "address1": "1350 Forest Ave",
+        "address2": "",
+        "city": "Staten Island",
+        "state": "NY",
+        "zip": "10302",
+        "directionUrl": "https://maps.app.goo.gl/Zg8noD7f9KELBXba9",
+        "storeUrl": "https://www.nughubny.com/?utm_source=Google_GBP&utm_medium=organic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -74.13377685451064,
+          40.625777329229635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "High Dankery",
+        "license": "",
+        "address1": "7815 3rd Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11209",
+        "directionUrl": "https://maps.app.goo.gl/xfzDv5N7GyHTRHDcA",
+        "storeUrl": "https://highdankery.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.02810688704722,
+          40.62897899503617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Superbness",
+        "license": "",
+        "address1": "110 Broadway",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11249",
+        "directionUrl": "https://maps.app.goo.gl/DnGCBb54GSsssLzk8",
+        "storeUrl": "https://superbness.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.96447824873076,
+          40.7104140894332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vedaleaf",
+        "license": "OCM-CAURD-24-000198",
+        "address1": "2921 Erie Blvd E",
+        "address2": "Suite 3",
+        "city": "Syracuse",
+        "state": "NY",
+        "zip": "13224",
+        "directionUrl": "https://maps.app.goo.gl/ZrToyhckbFd9ZH4j8",
+        "storeUrl": "https://www.vedaleaf.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -76.08924311218217,
+          43.05591073239514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Happy Times SI",
+        "license": "OCM-RETL-25-000448",
+        "address1": "1399 Hylan Blvd",
+        "address2": "",
+        "city": "Staten Island",
+        "state": "NY",
+        "zip": "10305",
+        "directionUrl": "https://maps.app.goo.gl/qvRV7Qn73D6Xxoy18",
+        "storeUrl": "https://happytimescannabis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -74.08629669656916,
+          40.59471425840539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "OC Dispensary",
+        "license": "OCM-CAURD-25-000229",
+        "address1": "769 Franklin Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11238",
+        "directionUrl": "https://maps.app.goo.gl/UrWfRkzHnKkBjtAi9",
+        "storeUrl": "https://ocdispensary.co/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.95561727648474,
+          40.67260950384864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots",
+        "license": "OCM-CAURD-25-000241",
+        "address1": "330 Tompkins Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11216",
+        "directionUrl": "https://maps.app.goo.gl/hrBTfh8b7i2XGgV9A",
+        "storeUrl": "https://qualityroots.nyc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94389972197409,
+           40.686604814216544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannadreams",
+        "license": "",
+        "address1": "862 9th Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10019",
+        "directionUrl": "https://maps.app.goo.gl/xFGUHh841pcqydxY9",
+        "storeUrl": "https://cannadreams.nyc/?utm_source=google&utm_medium=organic&utm_campaign=gbp-profile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.98548102937566,
+          40.76723817953039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Plant",
+        "license": "OCM-CAURD-24-000063",
+        "address1": "2595 Central Park Ave",
+        "address2": "",
+        "city": "Scarsdale",
+        "state": "NY",
+        "zip": "10583",
+        "directionUrl": "https://maps.app.goo.gl/LzeDLYMzbjWeLJWG9",
+        "storeUrl": "https://fanoftheplant.com/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.82584556006184,
+          40.98614513015028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Greencup",
+        "license": "",
+        "address1": "95-38 Queens Blvd",
+        "address2": "",
+        "city": "Flushing",
+        "state": "NY",
+        "zip": "11374",
+        "directionUrl": "https://maps.app.goo.gl/jSBVa3hRrPqEf4468",
+        "storeUrl": "https://greencup.nyc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.86276905451065,
+          40.7302259089976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Seaweed",
+        "license": "",
+        "address1": "73-13 Beach Channel Dr",
+        "address2": "",
+        "city": "Arverne",
+        "state": "NY",
+        "zip": "11692",
+        "directionUrl": "https://maps.app.goo.gl/mZA1dyKySoXciodP9",
+        "storeUrl": "https://seaweedrbny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -73.80153907540495,
+          40.59071812389163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Flor de Fred",
+        "license": "",
+        "address1": "96-05 Liberty Ave",
+        "address2": "",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11417",
+        "directionUrl": "https://maps.app.goo.gl/dQdmv6ZLDo922jUa9",
+        "storeUrl": "https://flordefred.com/?utm_source=website&utm_medium=organic&utm_id=GBP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84182357224404,
+         40.680941575375265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Buds - Queens",
+        "license": "OCM-RETL-24-000220",
+        "address1": "245-02 Horace Harding Expy",
+        "address2": "",
+        "city": "Little Neck",
+        "state": "NY",
+        "zip": "11362",
+        "directionUrl": "https://maps.app.goo.gl/57KGt1pzUtdmW7nY9",
+        "storeUrl": "https://libertybudsnyc.com/cannabis-dispensary-queens-nassau/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.73239122197408,
+          40.75972226244849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Urban Leaf Cannabis Dispensary",
+        "license": "OCM-CAURD-24-000121",
+        "address1": "977 2nd Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10022",
+        "directionUrl": "https://maps.app.goo.gl/dESRdNdHRcijND4T9",
+        "storeUrl": "http://www.urbanleafny.com/?utm_source=gmb&utm_medium=organic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.96749374471878,
+          40.756185423251736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "New Metro",
+        "license": "OCM-CAURD-24-000061",
+        "address1": "221-50 Horace Harding Expy",
+        "address2": "",
+        "city": "Bayside",
+        "state": "NY",
+        "zip": "11364",
+        "directionUrl": "https://maps.app.goo.gl/LHcs2vZFNdfetphW9",
+        "storeUrl": "https://newmetro.club/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+         -73.75407529313831,
+          40.7494069098724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sky High Club",
+        "license": "OCM-CAURD-25-000239",
+        "address1": "129 Loisaida Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10009",
+        "directionUrl": "https://maps.app.goo.gl/WnQm4jMQsWHGsZPW6",
+        "storeUrl": "http://skyhighclubnyc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9781515060911,
+          40.72502959731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Lighthouse Cannabis",
+        "license": "OCM-CAURD-25-000290",
+        "address1": "381 Broadway",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10013",
+        "directionUrl": "https://maps.app.goo.gl/bWkR6EDx7LM27wi9A",
+        "storeUrl": "http://lighthousecannabis.co/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -74.0026411888976,
+          40.71837879414882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Liberty Buds",
+        "license": "OCM-CAURD-24-000075",
+        "address1": "1115 1st Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10065",
+        "directionUrl": "https://maps.app.goo.gl/iH3Dhzs32TnW8HsH9",
+        "storeUrl": "http://libertybudsnyc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.960615215883,
+          40.76129831802733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Society House",
+        "license": "OCM-CAURD-24-000162",
+        "address1": "2441 Flatbush Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11234",
+        "directionUrl": "https://maps.app.goo.gl/WhqHEyjKCixqVwCs7",
+        "storeUrl": "https://societyhousebk.com/?utm_source=GBP&utm_medium=organic&utm_campaign=brooklyn_GBP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.9223836974183,
+          40.61113123403042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Blue Forest Farms Dispensary",
+        "license": "OCM-RETL-24-000016",
+        "address1": "122 E 25th St",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10010",
+        "directionUrl": "https://maps.app.goo.gl/XrJkq2ytobWkJRDE6",
+        "storeUrl": "https://shop.blueforestfarmsdispensary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.98392970053992,
+          40.74120565354943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Chronic Brooklyn",
+        "license": "OCM-RETL-24-000051",
+        "address1": "483 3rd Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11215",
+        "directionUrl": "https://maps.app.goo.gl/eQ7McS3RHUEaRsCs6",
+        "storeUrl": "https://chronicbrooklyn.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.9909887140326,
+          40.670619043650156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sage Seeds",
+        "license": "",
+        "address1": "248-15 Union Turnpike",
+        "address2": "",
+        "city": "Bellrose",
+        "state": "NY",
+        "zip": "11426",
+        "directionUrl": "https://maps.app.goo.gl/hw8jcAgZ9AJPj58v6",
+        "storeUrl": "https://sageseedsny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+         -73.72130696006184,
+          40.74276583719685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Beleaf Calverton",
+        "license": "",
+        "address1": "4462 Middle Country Rd",
+        "address2": "",
+        "city": "Calverton",
+        "state": "NY",
+        "zip": "11933",
+        "directionUrl": "https://maps.app.goo.gl/qm9oFZ1x3YU1pLqC9",
+        "storeUrl": "https://beleafny.com/shop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+         -72.77999102567489,
+          40.92888051815324
+        ]
+      }
+    }
   ]
 }
