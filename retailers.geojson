@@ -9482,6 +9482,909 @@
           40.92888051815324
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Green Flower Wellness - Oakland Gardens",
+        "license": "",
+        "address1": "214-24 73rd Ave",
+        "address2": "",
+        "city": "Oakland Gardens",
+        "state": "NY",
+        "zip": "11364",
+        "directionUrl": "https://maps.app.goo.gl/MSothoFyzFm4ZAmf8",
+        "storeUrl": "https://greenflowerwellness.com/stores/green-flower-wellness-oakland-gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.75864643122605,
+          40.7404361700136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "High City Cannabis",
+        "license": "",
+        "address1": "22-35 31st St",
+        "address2": "",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11105",
+        "directionUrl": "https://maps.app.goo.gl/Eenp8DUo9zeHQP4r9",
+        "storeUrl": "http://highcityny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.91138594232845,
+          40.775349632830526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Kaya Bliss - Brooklyn Heights",
+        "license": "",
+        "address1": "64 Henry St",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11201",
+        "directionUrl": "https://maps.app.goo.gl/xXXdQdASErRozSN37",
+        "storeUrl": "https://kayablissnyc.com/location/brooklyn-heights/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.99247218465692,
+           40.69919967910651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "FlynnStoned - Staten Island",
+        "license": "",
+        "address1": "755 Forest Ave",
+        "address2": "",
+        "city": "Staten Island",
+        "state": "NY",
+        "zip": "10310",
+        "directionUrl": "https://maps.app.goo.gl/9pJCCi7F43VzDZfS6",
+        "storeUrl": "https://flynnstoned.com/?loc=Staten-Island"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+          -74.11434584232846,
+          40.62957547878426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Gaslight Dispensary",
+        "license": "",
+        "address1": "465 Forest Ave",
+        "address2": "",
+        "city": "Staten Island",
+        "state": "NY",
+        "zip": "10301",
+        "directionUrl": "https://maps.app.goo.gl/iAYHqx39J5swd3eV9",
+        "storeUrl": "https://gaslightdispensary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.10505905767155,
+          40.631105721214546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "FlynnStoned - Midtown East",
+        "license": "",
+        "address1": "820 2nd Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10017",
+        "directionUrl": "https://maps.app.goo.gl/YjPZ1qBeuMcVdVs5A",
+        "storeUrl": "https://flynnstoned.com/?loc=midtown-manhattan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.97113255983204,
+          40.751046369476434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Green Flower Wellness - Ozone Park",
+        "license": "",
+        "address1": "8508 Pitkin Ave",
+        "address2": "",
+        "city": "Ozone Park",
+        "state": "NY",
+        "zip": "11417",
+        "directionUrl": "https://maps.app.goo.gl/QhsHvYpBXDMDXRQy7",
+        "storeUrl": "https://greenflowerwellness.com/location/ozone-park/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.8511462730146,
+          40.67503377064834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "High Road Cannabis Dispensary",
+        "license": "",
+        "address1": "185-24 Horace Harding Expy",
+        "address2": "",
+        "city": "Fresh Meadows",
+        "state": "NY",
+        "zip": "11365",
+        "directionUrl": "https://maps.app.goo.gl/9J9uCXZntp5wWEDc9",
+        "storeUrl": "https://www.highroadnyc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.7884516,
+          40.73992814187859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Housing Works Cannabis Co - Broadway",
+        "license": "",
+        "address1": "750 Broadway",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10003",
+        "directionUrl": "https://maps.app.goo.gl/fVHZgMmKqbuxdZ8WA",
+        "storeUrl": "https://hwcannabis.co/dispensaries/broadway/?utm_medium=organic&utm_source=gbp&utm_campaign=broadway+store"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.99241207116424,
+          40.73057380267764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Good Daze Dispensary",
+        "license": "",
+        "address1": "253-06 Northern Blvd",
+        "address2": "",
+        "city": "Little Neck",
+        "state": "NY",
+        "zip": "11362",
+        "directionUrl": "https://maps.app.goo.gl/8XTff4d3qGT2YiCCA",
+        "storeUrl": "http://gooddaze.nyc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.73511645952193,
+          40.77091381599011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Mecca Cannabis",
+        "license": "",
+        "address1": "95-31 Jamaica Ave",
+        "address2": "",
+        "city": "Woodhaven",
+        "state": "NY",
+        "zip": "11421",
+        "directionUrl": "https://maps.app.goo.gl/aDCF7eYBzVTY6PJv5",
+        "storeUrl": "http://meccany.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.8493378846569,
+          40.694795316304166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Two Buds Dispensary",
+        "license": "",
+        "address1": "696 E 241st St",
+        "address2": "",
+        "city": "Bronx",
+        "state": "NY",
+        "zip": "10470",
+        "directionUrl": "https://maps.app.goo.gl/azHLbYsSgKhkqwwX7",
+        "storeUrl": "https://twobudsdispensary.nyc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.85076074232845,
+          40.90352962559234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Skones Dispensary",
+        "license": "",
+        "address1": "743 Central Park Ave",
+        "address2": "",
+        "city": "Yonkers",
+        "state": "NY",
+        "zip": "10704",
+        "directionUrl": "https://maps.app.goo.gl/6Co4AXHBb1FZdoQi8",
+        "storeUrl": "https://skonesdispensary.com/?utm_source=GMB&utm_medium=Website%20Link&utm_campaign=GMB-Website"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.85827334417884,
+          40.92696604499175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Stash Box",
+        "license": "",
+        "address1": "230-04 S Conduit Ave",
+        "address2": "",
+        "city": "Springfield Gardens",
+        "state": "NY",
+        "zip": "11413",
+        "directionUrl": "https://maps.app.goo.gl/tkssLu7D9U7Aebb87",
+        "storeUrl": "https://stashboxdispensary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.74718013043254,
+          40.66546935734653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hampton Premium Green",
+        "license": "",
+        "address1": "978 Montauk Hwy",
+        "address2": "",
+        "city": "Water Mill",
+        "state": "NY",
+        "zip": "11976",
+        "directionUrl": "https://maps.app.goo.gl/RQgZuSFcEAQedYJNA",
+        "storeUrl": "https://hamptonpremiumgreen.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -72.3472681,
+          40.915921773480044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Alchemy - Chelsea",
+        "license": "",
+        "address1": "302 8th Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10001",
+        "directionUrl": "https://maps.app.goo.gl/tYYgZGVCtfACqzzv7",
+        "storeUrl": "https://www.thealchemy.nyc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.99721341349269,
+          40.74682190231279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "MINDSET AIRMONT",
+        "license": "",
+        "address1": "296 Route 59",
+        "address2": "",
+        "city": "Airmont",
+        "state": "NY",
+        "zip": "10901",
+        "directionUrl": "https://maps.app.goo.gl/RsJzMdrZLHab2pGM7",
+        "storeUrl": "https://mindset420.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -74.11794781749413,
+          41.112489637945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catskill Mountain High",
+        "license": "",
+        "address1": "308 Plaza Rd",
+        "address2": "",
+        "city": "Kingston",
+        "state": "NY",
+        "zip": "12401",
+        "directionUrl": "https://maps.app.goo.gl/khCjfJH2tB9PNyZ58",
+        "storeUrl": "https://www.catskillmtnhigh.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.01945259205849,
+          41.937946535290465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Electric City Cannabis Co",
+        "license": "",
+        "address1": "1354 Lower Broadway",
+        "address2": "",
+        "city": "Schenectady",
+        "state": "NY",
+        "zip": "12306",
+        "directionUrl": "https://maps.app.goo.gl/FQtp9tb4VKU2UUeW6",
+        "storeUrl": "https://electriccitycannabisco.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.95456987116422,
+          42.80374848137707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Strains",
+        "license": "",
+        "address1": "161-05 29th Ave",
+        "address2": "",
+        "city": "Flushing",
+        "state": "NY",
+        "zip": "11358",
+        "directionUrl": "https://maps.app.goo.gl/ENMnhxqeWPKWmaQz7",
+        "storeUrl": "https://houseofstrains.com/store/?utm_source=google&utm_medium=gbp&utm_campaign=local"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.80317651534307,
+          40.77141613954448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Dispensary - East Syracuse",
+        "license": "",
+        "address1": "6701 Manlius Center Rd",
+        "address2": "",
+        "city": "East Syracuse",
+        "state": "NY",
+        "zip": "13057",
+        "directionUrl": "https://maps.app.goo.gl/ZN26GiXornWa5nYG6",
+        "storeUrl": "https://risecannabis.com/dispensaries/new-york/east-syracuse/?utm_source=google&utm_medium=organic&utm_campaign=GMB-east-syracuse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -76.05633390080985,
+          43.064220316299256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Dispensary - Clifton Park",
+        "license": "",
+        "address1": "1675 US-9",
+        "address2": "",
+        "city": "Clifton Park",
+        "state": "NY",
+        "zip": "12065",
+        "directionUrl": "https://maps.app.goo.gl/Yf8XNkU3uzwzsViz6",
+        "storeUrl": "https://risecannabis.com/dispensaries/new-york/halfmoon-clifton-park-dispensary/?utm_source=google&utm_medium=organic&utm_campaign=GMB-halfmoon-clifton-park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.76435039814962,
+          42.860752811212556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "RISE Dispensary - Henrietta",
+        "license": "",
+        "address1": "556 W Jefferson Rd",
+        "address2": "",
+        "city": "Rochester",
+        "state": "NY",
+        "zip": "14623",
+        "directionUrl": "https://maps.app.goo.gl/rF7E5xHwjhWZzKPFA",
+        "storeUrl": "https://risecannabis.com/dispensaries/new-york/henrietta/?utm_source=google&utm_medium=organic&utm_campaign=GMB-henrietta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+          -77.63030861349267,
+          43.08780554806487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Haze Poughkeepsie",
+        "license": "",
+        "address1": "2245 South Rd",
+        "address2": "",
+        "city": "Poughkeepsie",
+        "state": "NY",
+        "zip": "12601",
+        "directionUrl": "https://maps.app.goo.gl/MAMpgmp2X3Adw2di9",
+        "storeUrl": "https://www.thehazeny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.92143404417884,
+          41.64299272077471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "FlynnStoned - North Syracuse",
+        "license": "",
+        "address1": "3711 Brewerton Rd, Ste 8-10",
+        "address2": "",
+        "city": "North Syracuse",
+        "state": "NY",
+        "zip": "13212",
+        "directionUrl": "https://maps.app.goo.gl/2oaWWjoX54aLMfVB9",
+        "storeUrl": "https://flynnstoned.com/stores/flynnstoned-cannabis-dispensary-north-syracuse-ny/?utm_source=gmb&utm_medium=organic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -76.1463397,
+          43.11719296856054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Riverbend Dispensary",
+        "license": "",
+        "address1": "531 Warren St",
+        "address2": "",
+        "city": "Hudson",
+        "state": "NY",
+        "zip": "12534",
+        "directionUrl": "https://maps.app.goo.gl/Fa4iXkyZyQYFc4RS6",
+        "storeUrl": "https://riverbenddispensary.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78574122883578,
+          42.248779772983255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bud & Honey",
+        "license": "",
+        "address1": "241 5th Ave",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10016",
+        "directionUrl": "https://maps.app.goo.gl/TacRfx5xcUr6QU329",
+        "storeUrl": "https://budnhoneydispensary.com/menu/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=NYC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.98730463068617,
+          40.74438200549077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannavita",
+        "license": "",
+        "address1": "30-30 Steinway St",
+        "address2": "",
+        "city": "Astoria",
+        "state": "NY",
+        "zip": "11103",
+        "directionUrl": "https://maps.app.goo.gl/1MjUG9vA4pYGE7Nt5",
+        "storeUrl": "https://cannavitanyc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.91588477116422,
+          40.76342383861129
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannabis Huts - Poughkeepsie",
+        "license": "",
+        "address1": "4 Taft Ave",
+        "address2": "",
+        "city": "Poughkeepsie",
+        "state": "NY",
+        "zip": "12603",
+        "directionUrl": "https://maps.app.goo.gl/Ptwn6Uhv3KxrMBZKA",
+        "storeUrl": "https://cannabishuts.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.89612740185039,
+          41.696115071796754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "TAKE N TOKE",
+        "license": "",
+        "address1": "994 Atlantic Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11238",
+        "directionUrl": "https://maps.app.goo.gl/EJTsZ3vNxDfN7cqs6",
+        "storeUrl": "https://takentoke.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.96093561349268,
+          40.68037063953204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Mighty Lucky",
+        "license": "",
+        "address1": "259 Bowery",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10002",
+        "directionUrl": "https://maps.app.goo.gl/zk4PiTzkTb3XzP7X6",
+        "storeUrl": "https://mighty-lucky.com/collections/all?utm_source=google&utm_medium=ogranic&utm_campaign=gbp-website-link"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.99269605767155,
+          40.72346644165758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Caffiend The Bushwick",
+        "license": "",
+        "address1": "892 Wyckoff Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11237",
+        "directionUrl": "https://maps.app.goo.gl/9uLyrq4bDq19jhGt6",
+        "storeUrl": "https://www.thebushwicknyc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9068523,
+          40.69712998658922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Fireleaf NY",
+        "license": "",
+        "address1": "2102 Ralph Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11234",
+        "directionUrl": "https://maps.app.goo.gl/9YwzzXKVRoAMoxMQ8",
+        "storeUrl": "https://www.fireleafny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.91819311164228,
+          40.62635378613877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Altocanna",
+        "license": "",
+        "address1": "110 Chambers St",
+        "address2": "",
+        "city": "New York",
+        "state": "NY",
+        "zip": "10007",
+        "directionUrl": "https://maps.app.goo.gl/zxfEtaqTZ4fbsHZ18",
+        "storeUrl": "http://altocanna.nyc/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -74.00827948465692,
+          40.715054107445745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "MJ Dispensary - Spencerport",
+        "license": "",
+        "address1": "377 S Union St, Suite 5",
+        "address2": "",
+        "city": "Spencerport",
+        "state": "NY",
+        "zip": "14559",
+        "directionUrl": "https://maps.app.goo.gl/emT1PGNHeJxWzSQU9",
+        "storeUrl": "https://www.mjdispensary585.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -77.80479514442392,
+          43.1854942596224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannabis Corner",
+        "license": "",
+        "address1": "2227 Clifford Ave",
+        "address2": "",
+        "city": "Rochester",
+        "state": "NY",
+        "zip": "14609",
+        "directionUrl": "https://maps.app.goo.gl/zXxRH9E8TdafLfNT7",
+        "storeUrl": "https://cannabiscornerny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -77.56154195582114,
+          43.176237144728134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Upstate Pines",
+        "license": "",
+        "address1": "7345 S Broadway",
+        "address2": "",
+        "city": "Red Hook",
+        "state": "NY",
+        "zip": "12571",
+        "directionUrl": "https://maps.app.goo.gl/rStHaHma4M6fgsVc9",
+        "storeUrl": "http://www.upstatepines.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88145623068617,
+          41.98765870680732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Station",
+        "license": "",
+        "address1": "463 Main St",
+        "address2": "",
+        "city": "Beacon",
+        "state": "NY",
+        "zip": "12508",
+        "directionUrl": "https://maps.app.goo.gl/hLVng1vgWNyEauv66",
+        "storeUrl": "http://www.thestationbeacon.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+          -73.96542094232846,
+          41.5022423448635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cloud 914",
+        "license": "",
+        "address1": "807 Washington St",
+        "address2": "",
+        "city": "Peekskill",
+        "state": "NY",
+        "zip": "10566",
+        "directionUrl": "https://maps.app.goo.gl/LxYSBnKfipdrWKWy9",
+        "storeUrl": "https://www.cloud914.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+          -73.92688752883578,
+          41.276694103863925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Nice Yield",
+        "license": "",
+        "address1": "10-50 Jackson Ave",
+        "address2": "",
+        "city": "Long Island City",
+        "state": "NY",
+        "zip": "11101",
+        "directionUrl": "https://maps.app.goo.gl/j4jN6yixkUWVpK4u8",
+        "storeUrl": "http://www.niceyield.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.95263214232844,
+          40.74253926732761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannabis Huts - Newburgh",
+        "license": "",
+        "address1": "165 S Plank Rd",
+        "address2": "",
+        "city": "Newburgh",
+        "state": "NY",
+        "zip": "12550",
+        "directionUrl": "https://maps.app.goo.gl/TKALkcrfLF4edpqT7",
+        "storeUrl": "https://cannabishuts.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -74.06426747116421,
+          41.52283827045362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Dutchess Roots",
+        "license": "",
+        "address1": "2615 South Rd",
+        "address2": "",
+        "city": "Poughkeepsie",
+        "state": "NY",
+        "zip": "12601",
+        "directionUrl": "https://maps.app.goo.gl/D1yBYFu2Wijdu2QL6",
+        "storeUrl": "https://www.dutchessroots.com/?utm_source=google_business&utm_medium=organic&utm_campaign=GBP_poughkeepsie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.93091862883576,
+          41.668068154513506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Gallery Dumbo Dispensary",
+        "license": "",
+        "address1": "35 Washington St",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11201",
+        "directionUrl": "https://maps.app.goo.gl/EiwSGiAiNYjheyUJ7",
+        "storeUrl": "http://thegalleryny.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.93091862883576,
+          40.703487341539855
+        ]
+      }
     }
   ]
 }
