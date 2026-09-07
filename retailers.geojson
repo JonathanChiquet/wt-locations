@@ -10721,6 +10721,573 @@
           40.24106431949753
         ]
       }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — Packs",
+        "license": "",
+        "address1": "3551 Peck Rd",
+        "address2": "",
+        "city": "El Monte",
+        "state": "CA",
+        "zip": "91731",
+        "directionUrl": "https://maps.app.goo.gl/BBKCrYEbGLyDykv18",
+        "storeUrl": "https://www.packsclub.com/?utm_source=gmb-san-gabriel-valley&utm_medium=organic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.02560605767154,
+          34.07210492353216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — Phenos",
+        "license": "",
+        "address1": "1234 McHenry Ave C",
+        "address2": "",
+        "city": "Modesto",
+        "state": "CA",
+        "zip": "95350",
+        "directionUrl": "https://maps.app.goo.gl/aUxoP7s68LNYpzaq6",
+        "storeUrl": "https://www.tpg420.com/phenosmodesto?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.99273153253657,
+          37.66172009924769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — Flavors Oakland",
+        "license": "",
+        "address1": "2054 Mountain Blvd",
+        "address2": "",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94611",
+        "directionUrl": "https://maps.app.goo.gl/a8ZPexu2sDxCE7UR9",
+        "storeUrl": "https://www.tpg420.com/flavorsoakland?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.20917884232844,
+          37.826729160317846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "StashCo",
+        "license": "C9-0000848-LIC",
+        "address1": "12433 Ventura Blvd",
+        "address2": "",
+        "city": "Studio City",
+        "state": "CA",
+        "zip": "91604",
+        "directionUrl": "https://maps.app.goo.gl/78Ze325SfDkNif2j6",
+        "storeUrl": "http://www.stashstudiocity.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+         -118.40413154232844,
+          34.143109476592834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — X1",
+        "license": "",
+        "address1": "239 W 11th St",
+        "address2": "",
+        "city": "Tracy",
+        "state": "CA",
+        "zip": "95376",
+        "directionUrl": "https://maps.app.goo.gl/CD99mdH29QoQHY5R8",
+        "storeUrl": "https://www.tpg420.com/x1tracy?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.42946352698536,
+          37.74016399118333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Exotic Weeds",
+        "license": "",
+        "address1": "3085 E Campus Pointe Dr",
+        "address2": "",
+        "city": "Fresno",
+        "state": "CA",
+        "zip": "93710",
+        "directionUrl": "https://maps.app.goo.gl/JFc5EQ8qhmgw9XQM6",
+        "storeUrl": "http://www.fresnocannabis.co/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -119.73462574232846,
+          36.811865145105855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — Flavors Antioch",
+        "license": "",
+        "address1": "2615 Somersville Rd",
+        "address2": "",
+        "city": "Antioch",
+        "state": "CA",
+        "zip": "94509",
+        "directionUrl": "https://maps.app.goo.gl/Qrq7UY6VyNAtBWjo6",
+        "storeUrl": "https://www.tpg420.com/flavorsofantioch?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.84154945952194,
+          38.000019125052646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — PCF",
+        "license": "",
+        "address1": "1442 Angie Ave",
+        "address2": "",
+        "city": "Modesto",
+        "state": "CA",
+        "zip": "95351",
+        "directionUrl": "https://maps.app.goo.gl/2oWV2fRdPYK7Duku8",
+        "storeUrl": "https://www.tpg420.com/pcfceres?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -120.9398110846569,
+          37.61052441608615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Urban Smoke Broadway",
+        "license": "C10-0001290-LIC",
+        "address1": "9014 South Broadway",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90003",
+        "directionUrl": "https://maps.app.goo.gl/MuqZfT3P5qFdx2ng6",
+        "storeUrl": "https://urbansmokela.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.27794762883578,
+          33.95439363630118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Urban Smoke Avalon",
+        "license": "C10-0001689-LIC",
+        "address1": "10401 Avalon Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90003",
+        "directionUrl": "https://maps.app.goo.gl/F2yvXuwGvFkp3Dh29",
+        "storeUrl": "http://www.urbansmokela.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.26542851581462,
+          33.941930783566335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — Flavors Riverbank",
+        "license": "",
+        "address1": "2213 Patterson Rd",
+        "address2": "",
+        "city": "Riverbank",
+        "state": "CA",
+        "zip": "95367",
+        "directionUrl": "https://maps.app.goo.gl/MACc3cpU6UD5eGvR6",
+        "storeUrl": "https://www.tpg420.com/flavorsriverbank?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -120.95754173068616,
+          37.73319892342214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — Toasty",
+        "license": "",
+        "address1": "1236 C St",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95814",
+        "directionUrl": "https://maps.app.goo.gl/4z7GytY5NYAH39jK9",
+        "storeUrl": "https://www.tpg420.com/toastysacramento?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.4864687153431,
+          38.58690110642681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "MMD Redwood City",
+        "license": "C10-0001387-LIC",
+        "address1": "1764 Broadway",
+        "address2": "",
+        "city": "Redwood City",
+        "state": "CA",
+        "zip": "94063",
+        "directionUrl": "https://maps.app.goo.gl/1PjFbcPjXiuJcRLq6",
+        "storeUrl": "https://mmdshops.com/locations/redwood-city/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -122.22278115767156,
+          37.487110381618734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — Puff N Dash Chula Vista",
+        "license": "",
+        "address1": "646 H St",
+        "address2": "",
+        "city": "Chula Vista",
+        "state": "CA",
+        "zip": "91910",
+        "directionUrl": "https://maps.app.goo.gl/1Lju7b2T8gGfZ5un7",
+        "storeUrl": "https://www.puff-n-dash.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -117.09133535767154,
+          32.63038755628653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sharps Co",
+        "license": "C10-0000175-LIC",
+        "address1": "4030 Farm Supply Dr",
+        "address2": "",
+        "city": "Ceres",
+        "state": "CA",
+        "zip": "95307",
+        "directionUrl": "https://maps.app.goo.gl/xztoTFSWAf9RBHfN8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -120.98121327116424,
+          37.58011141441588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Off Green LA",
+        "license": "",
+        "address1": "8122 Sepulveda Blvd",
+        "address2": "",
+        "city": "Panorama City",
+        "state": "CA",
+        "zip": "",
+        "directionUrl": "https://maps.app.goo.gl/cbxZWRWf6pkvJfddA",
+        "storeUrl": "http://offgreenla.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.46639244178853,
+          34.21897058467791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Normandie",
+        "license": "C10-0001165-LIC",
+        "address1": "8300 Normandie Ave",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90044",
+        "directionUrl": "https://maps.app.goo.gl/8VDVnjtCq31vYnw2A",
+        "storeUrl": "https://catalyst-cannabis.com/shop?store=catalystnormandie&utm_source=google&utm_medium=organic&utm_campaign=business_profile&utm_content=delivery_pickup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.29997324417886,
+          33.963676706618344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Florence",
+        "license": "",
+        "address1": "316 W Florence Ave",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90003",
+        "directionUrl": "https://maps.app.goo.gl/mVtfnkw8zkRUTCVb6",
+        "storeUrl": "https://catalyst-cannabis.com/shop?store=catalystflorence&utm_source=google&utm_medium=organic&utm_campaign=business_profile&utm_content=delivery_pickup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.27899428650733,
+          33.97460400230444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Atwater The Joint",
+        "license": "C10-0001200-LIC",
+        "address1": "1715 Sycamore Ave",
+        "address2": "",
+        "city": "City of Atwater",
+        "state": "CA",
+        "zip": "95301",
+        "directionUrl": "https://maps.app.goo.gl/bvFLM75XvgLMSQvb7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -120.61606135952194,
+          37.346532215343366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Element 7 Cannabis Dispensary Marina",
+        "license": "C10-0001733-LIC",
+        "address1": "234 Reservation Rd",
+        "address2": "",
+        "city": "Marina",
+        "state": "CA",
+        "zip": "93933",
+        "directionUrl": "https://maps.app.goo.gl/wovoiSGamUV7edkq7",
+        "storeUrl": "https://www.e7ca.com/our-locations/marina/order"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.7972155846569,
+          36.68550346561963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Atrium Woodland Hills",
+        "license": "C10-0000226-LIC",
+        "address1": "5441 CA-27",
+        "address2": "",
+        "city": "Woodland Hills",
+        "state": "CA",
+        "zip": "91367",
+        "directionUrl": "https://maps.app.goo.gl/DX64qk2iVBt3sDrDA",
+        "storeUrl": "https://atriumstore.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.60750173193298,
+          34.171614725512775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — Puff N Dash City Heights",
+        "license": "C10-0000778-LIC",
+        "address1": "2281 Fairmount Ave",
+        "address2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92105",
+        "directionUrl": "https://maps.app.goo.gl/eiZygmK2ZnRXGQMQ6",
+        "storeUrl": "https://puff-n-dash.com/?utm_source=gbp&utm_medium=organic&utm_campaign=city-heights"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -117.09870977301463,
+          32.728816091386804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Pacafi — Flavors Santa Cruz",
+        "license": "",
+        "address1": "1515 Commercial Wy",
+        "address2": "",
+        "city": "Santa Cruz",
+        "state": "CA",
+        "zip": "95065",
+        "directionUrl": "https://maps.app.goo.gl/8cUuZCBDoHRs2FXN9",
+        "storeUrl": "https://www.tpg420.com/santacruzflavors?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.98387573068615,
+          36.98768291697336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Delta Boyz Dispensary",
+        "license": "C10-0000269-LIC",
+        "address1": "66 Main St",
+        "address2": "",
+        "city": "Isleton",
+        "state": "CA",
+        "zip": "95641",
+        "directionUrl": "https://maps.app.goo.gl/wB6SmFjzbk8jJYr9A",
+        "storeUrl": "http://deltaboyz.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+          -121.60383011349268,
+          38.16287528797586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "South Bay Canna Clinic [THE GREEN ANT, LLC]",
+        "license": "C10-0001076-LIC",
+        "address1": "1719 Pacific Coast Hwy",
+        "address2": "",
+        "city": "Lomita",
+        "state": "CA",
+        "zip": "90717",
+        "directionUrl": "https://maps.app.goo.gl/ewW4ET9XUpeDrn5T7",
+        "storeUrl": "https://jadeleaflomita.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.30840784232846,
+          33.7899453224572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Club by KO Collective",
+        "license": "C10-0001705-LIC",
+        "address1": "2425 Cleveland Ave #175",
+        "address2": "",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "zip": "95403",
+        "directionUrl": "https://maps.app.goo.gl/tQNCNEU8fA5mX6eB9",
+        "storeUrl": "http://www.kocollectivellc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -122.72873825627477,
+          38.46206251909796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Sesh House",
+        "license": "C10-0001140-LIC",
+        "address1": "6145 Vineland Ave",
+        "address2": "",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip": "91606",
+        "directionUrl": "https://maps.app.goo.gl/dPmovGHPpW8m5xKA7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.37064135767154,
+          34.18261419399558
+        ]
+      }
     }
   ]
 }
