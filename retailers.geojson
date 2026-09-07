@@ -10385,6 +10385,342 @@
           40.703487341539855
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trulieve PA - Lancaster",
+        "license": "",
+        "address1": "1603 Manheim Pike",
+        "address2": "",
+        "city": "Lancaster",
+        "state": "PA",
+        "zip": "17601",
+        "directionUrl": "https://maps.app.goo.gl/MxENc8N27xzkxkir5",
+        "storeUrl": "https://www.trulieve.com/dispensaries/pennsylvania/lancaster?utm_source=gmb&utm_medium=organic&utm_campaign=lancaster"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -76.33984596191225,
+          40.082067202170514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Rise Pennsylvania - West Mifflin",
+        "license": "",
+        "address1": "6111 Mountain View Dr",
+        "address2": "",
+        "city": "West Mifflin",
+        "state": "PA",
+        "zip": "15122",
+        "directionUrl": "https://maps.app.goo.gl/Mydt4orH9Wbx5rP57",
+        "storeUrl": "https://risecannabis.com/dispensaries/pennsylvania/west-mifflin/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.94080164841954,
+          40.34301677140507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Beyond/Hello Pennsylvania - West Chester",
+        "license": "",
+        "address1": "1261 West Chester Pike",
+        "address2": "",
+        "city": "West Chester",
+        "state": "PA",
+        "zip": "19382",
+        "directionUrl": "https://maps.app.goo.gl/236REoYBB22g568u7",
+        "storeUrl": "https://beyond-hello.com/pennsylvania-dispensaries/west-chester/?utm_source=gmb&utm_medium=organic&utm_campaign=west-chester"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55455667355453,
+          39.96831254045642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "DRK MTR - Pittsburgh",
+        "license": "",
+        "address1": "2400 Penn Ave",
+        "address2": "",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15222",
+        "directionUrl": "https://maps.app.goo.gl/yia4kEenVk145u3W9",
+        "storeUrl": "https://darkmattercanna.com/location/dark-matter-pittsburgh/?utm_source=google_business&utm_medium=organic&utm_campaign=gbp_pittsburgh"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.98019978650731,
+          40.453599460382804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bloc Dispensary - Bethlehem",
+        "license": "",
+        "address1": "3650 Nazareth Pike",
+        "address2": "Unit 1",
+        "city": "Bethlehem",
+        "state": "PA",
+        "zip": "18020",
+        "directionUrl": "https://maps.app.goo.gl/V2L4UCp6dtteVy9L8",
+        "storeUrl": "https://www.blocdispensary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -75.3462134920585,
+          40.67101849384612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trulieve PA - Pittsburgh",
+        "license": "",
+        "address1": "5600 Forward Ave",
+        "address2": "",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15217",
+        "directionUrl": "https://maps.app.goo.gl/hLctt9iFxTBKfyC57",
+        "storeUrl": "https://www.trulieve.com/dispensaries/pennsylvania/pittsburgh?utm_source=gmb&utm_medium=organic&utm_campaign=pittsburgh-forward"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -79.92707379020811,
+          40.42773706139312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trulieve PA - Coatesville",
+        "license": "",
+        "address1": "1951 Lincoln Hwy",
+        "address2": "",
+        "city": "Coatesville",
+        "state": "PA",
+        "zip": "19320",
+        "directionUrl": "https://maps.app.goo.gl/9tFF8ddDCoRrC3xg8",
+        "storeUrl": "https://www.trulieve.com/dispensaries/pennsylvania/coatesville?utm_source=gmb&utm_medium=organic&utm_campaign=coatesville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.78622594450856,
+          39.98980757161797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trulieve PA - Cranberry Township",
+        "license": "",
+        "address1": "20269 Rte 19 N",
+        "address2": "",
+        "city": "Cranberry Twp",
+        "state": "PA",
+        "zip": "16066",
+        "directionUrl": "https://maps.app.goo.gl/QRamsqzWCCVMy5up7",
+        "storeUrl": "https://www.trulieve.com/dispensaries/pennsylvania/cranberry-township?utm_source=gmb&utm_medium=organic&utm_campaign=cranberry-township"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -80.1032203269854,
+          40.688896367106416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Beyond/Hello Pennsylvania - Reading",
+        "license": "",
+        "address1": "300 Cherry St",
+        "address2": "",
+        "city": "Reading",
+        "state": "PA",
+        "zip": "19602",
+        "directionUrl": "https://maps.app.goo.gl/ohNmmxqkY8TTXauo8",
+        "storeUrl": "https://beyond-hello.com/pennsylvania-dispensaries/reading/?utm_source=gmb&utm_medium=organic&utm_campaign=reading"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -75.93097242698536,
+          40.33443932164021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Beyond/Hello Pennsylvania - Mt. Pocono",
+        "license": "",
+        "address1": "3192 PA-940",
+        "address2": "Suite 101",
+        "city": "Mt Pocono",
+        "state": "PA",
+        "zip": "18344",
+        "directionUrl": "https://maps.app.goo.gl/v9JqH3Br4pNq9J4x9",
+        "storeUrl": "https://beyond-hello.com/pennsylvania-dispensaries/mt-pocono/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -75.35917465197707,
+          41.30359871569493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trulieve PA - KOP Limerick",
+        "license": "",
+        "address1": "451 W Ridge Pike",
+        "address2": "",
+        "city": "Royersford",
+        "state": "PA",
+        "zip": "19468",
+        "directionUrl": "https://maps.app.goo.gl/qEZDKFYF3cRddxjS7",
+        "storeUrl": "https://www.trulieve.com/dispensaries/pennsylvania/limerick?utm_source=gmb&utm_medium=organic&utm_campaign=limerick"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -75.5292604396682,
+          40.23208366553784
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trulieve PA - Wilkes-Barre",
+        "license": "",
+        "address1": "1000 Wilkes Barre Township Boulevard",
+        "address2": "",
+        "city": "Wilkes-Barre Township",
+        "state": "PA",
+        "zip": "18702",
+        "directionUrl": "https://maps.app.goo.gl/GgtBbvawmSBwsjam6",
+        "storeUrl": "https://www.trulieve.com/dispensaries/pennsylvania/wilkes-barre?utm_source=gmb&utm_medium=organic&utm_campaign=wilkes-barre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -75.88247951164229,
+           41.22329562828136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trulieve PA - Philadelphia",
+        "license": "",
+        "address1": "300 Packer Ave",
+        "address2": "",
+        "city": "Philadelphia",
+        "state": "PA",
+        "zip": "19148",
+        "directionUrl": "https://maps.app.goo.gl/Bp9eC6FHAFtqUamL7",
+        "storeUrl": "https://www.trulieve.com/dispensaries/pennsylvania/philadelphia?utm_source=gmb&utm_medium=organic&utm_campaign=philadelphia-packer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -75.15469730185038,
+          39.90775006291808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vytal Options - Fogelsville",
+        "license": "",
+        "address1": "7720 Main St",
+        "address2": "",
+        "city": "Fogelsville",
+        "state": "PA",
+        "zip": "18051",
+        "directionUrl": "https://maps.app.goo.gl/FhKWubBcWfRatNpu7",
+        "storeUrl": "https://www.vytaloptions.com/fogelsville/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -75.62795808199665,
+          40.5831619580906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trulieve PA - Pittsburgh",
+        "license": "",
+        "address1": "200 Federal St",
+        "address2": "",
+        "city": "Pittsburgh",
+        "state": "PA",
+        "zip": "15212",
+        "directionUrl": "https://maps.app.goo.gl/euJtmXvL8pKFWH6UA",
+        "storeUrl": "https://www.trulieve.com/dispensaries/pennsylvania/pittsburgh-north-shore?utm_source=gmb&utm_medium=organic&utm_campaign=pittsburgh-north-shore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -80.00401885397075,
+          40.44865248261863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vytal Options - Lansdale",
+        "license": "",
+        "address1": "850 S Valley Forge Rd Ste P",
+        "address2": "",
+        "city": "Lansdale",
+        "state": "PA",
+        "zip": "19446",
+        "directionUrl": "https://maps.app.goo.gl/Ftgm2mYSaCWG2XpL7",
+        "storeUrl": "https://vytaloptions.com/locations/lansdale/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -75.30374021349269,
+          40.24106431949753
+        ]
+      }
     }
   ]
 }
