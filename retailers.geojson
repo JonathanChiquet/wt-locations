@@ -2349,7 +2349,7 @@
         "type": "Point",
         "coordinates": [
           -117.98992009498869,
-          33.80568443034848 
+          33.80568443034848
         ]
       }
     },
@@ -2389,7 +2389,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.3041, 34.1015844]
+        "coordinates": [
+          -118.3041,
+          34.1015844
+        ]
       }
     },
     {
@@ -2407,7 +2410,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.9192586, 33.6442191]
+        "coordinates": [
+          -117.9192586,
+          33.6442191
+        ]
       }
     },
     {
@@ -2425,7 +2431,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.0217779, 32.7762603]
+        "coordinates": [
+          -117.0217779,
+          32.7762603
+        ]
       }
     },
     {
@@ -2443,7 +2452,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.4919161, 34.1985896]
+        "coordinates": [
+          -118.4919161,
+          34.1985896
+        ]
       }
     },
     {
@@ -2461,7 +2473,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.5980116, 34.1978291]
+        "coordinates": [
+          -118.5980116,
+          34.1978291
+        ]
       }
     },
     {
@@ -2479,7 +2494,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.3425125, 33.6906035]
+        "coordinates": [
+          -117.3425125,
+          33.6906035
+        ]
       }
     },
     {
@@ -2497,7 +2515,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2321393, 34.052156]
+        "coordinates": [
+          -118.2321393,
+          34.052156
+        ]
       }
     },
     {
@@ -2515,7 +2536,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.7769181, 34.0620431]
+        "coordinates": [
+          -117.7769181,
+          34.0620431
+        ]
       }
     },
     {
@@ -2533,7 +2557,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.3012478, 34.1061861]
+        "coordinates": [
+          -117.3012478,
+          34.1061861
+        ]
       }
     },
     {
@@ -2551,7 +2578,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.2103288, 34.2571539]
+        "coordinates": [
+          -119.2103288,
+          34.2571539
+        ]
       }
     },
     {
@@ -2569,7 +2599,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.5628568, 34.2322458]
+        "coordinates": [
+          -118.5628568,
+          34.2322458
+        ]
       }
     },
     {
@@ -2587,7 +2620,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-118.2925826, 33.728552]
+        "coordinates": [
+          -118.2925826,
+          33.728552
+        ]
       }
     },
     {
@@ -2605,7 +2641,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1500118, 32.8213039]
+        "coordinates": [
+          -117.1500118,
+          32.8213039
+        ]
       }
     },
     {
@@ -2623,7 +2662,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.1150783, 32.7777437]
+        "coordinates": [
+          -117.1150783,
+          32.7777437
+        ]
       }
     },
     {
@@ -2641,7 +2683,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2175911, 32.8079859]
+        "coordinates": [
+          -117.2175911,
+          32.8079859
+        ]
       }
     },
     {
@@ -2659,7 +2704,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-117.2321836, 33.1940111]
+        "coordinates": [
+          -117.2321836,
+          33.1940111
+        ]
       }
     },
     {
@@ -2677,7 +2725,10 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-119.1712707, 34.2333994]
+        "coordinates": [
+          -119.1712707,
+          34.2333994
+        ]
       }
     },
     {
@@ -4420,7 +4471,7 @@
         "coordinates": [
           -73.97342385722186,
           40.79208644642007
-        ] 
+        ]
       }
     },
     {
@@ -4461,8 +4512,8 @@
         "type": "Point",
         "coordinates": [
           -73.84413193578672,
-          40.87842684606595 
-        ] 
+          40.87842684606595
+        ]
       }
     },
     {
@@ -4609,7 +4660,7 @@
         "coordinates": [
           -73.84947969160805,
           40.733561182195324
-        ] 
+        ]
       }
     },
     {
@@ -4775,9 +4826,9 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            -73.94268423154465,
-            40.836338699907955
-          ]
+          -73.94268423154465,
+          40.836338699907955
+        ]
       }
     },
     {
@@ -4840,7 +4891,7 @@
         "coordinates": [
           -73.82818562229392,
           40.851949641528165
-        ] 
+        ]
       }
     },
     {
@@ -5008,7 +5059,7 @@
         "coordinates": [
           -73.90661744557922,
           40.85352884507991
-        ] 
+        ]
       }
     },
     {
@@ -5232,7 +5283,7 @@
         "state": "NY",
         "zip": "11223",
         "directionUrl": "https://maps.app.goo.gl/HFZDpPpLSx4h82hJA",
-        "storeUrl": "https://easytimenyc.com/"
+        "storeUrl": "https://easytimesny.com/"
       },
       "geometry": {
         "type": "Point",
@@ -5323,7 +5374,7 @@
         "coordinates": [
           -73.84327479345819,
           40.67292893843511
-        ] 
+        ]
       }
     },
     {
@@ -5365,7 +5416,7 @@
         "coordinates": [
           -72.7074816995504,
           40.92331775851248
-        ]  
+        ]
       }
     },
     {
@@ -5386,7 +5437,7 @@
         "coordinates": [
           -73.020024139487,
           40.8292954935075
-        ] 
+        ]
       }
     },
     {
@@ -5407,7 +5458,7 @@
         "coordinates": [
           -73.86638998519884,
           40.732549773803854
-        ] 
+        ]
       }
     },
     {
@@ -5428,7 +5479,7 @@
         "coordinates": [
           -74.03272511250141,
           40.61924107816831
-        ] 
+        ]
       }
     },
     {
@@ -5470,7 +5521,7 @@
         "coordinates": [
           -74.13083001435156,
           40.61289570664693
-        ] 
+        ]
       }
     },
     {
@@ -5491,7 +5542,7 @@
         "coordinates": [
           -73.74483961065128,
           40.73008977670441
-        ] 
+        ]
       }
     },
     {
@@ -5679,7 +5730,7 @@
         "type": "Point",
         "coordinates": [
           -73.77344393578672,
-          40.91427866142026 
+          40.91427866142026
         ]
       }
     },
@@ -5700,7 +5751,7 @@
         "type": "Point",
         "coordinates": [
           -74.42265031990199,
-          41.384251721314044 
+          41.384251721314044
         ]
       }
     },
@@ -5805,7 +5856,7 @@
         "type": "Point",
         "coordinates": [
           -73.74601252229392,
-          40.992792611980065 
+          40.992792611980065
         ]
       }
     },
@@ -5847,7 +5898,7 @@
         "type": "Point",
         "coordinates": [
           -73.7635524029337,
-          41.03331382872425 
+          41.03331382872425
         ]
       }
     },
@@ -5868,7 +5919,7 @@
         "type": "Point",
         "coordinates": [
           -73.86740898975789,
-          41.158560627063395 
+          41.158560627063395
         ]
       }
     },
@@ -5889,7 +5940,7 @@
         "type": "Point",
         "coordinates": [
           -73.54529077811524,
-          41.18756277046335 
+          41.18756277046335
         ]
       }
     },
@@ -6036,7 +6087,7 @@
         "type": "Point",
         "coordinates": [
           -73.99423192044378,
-          41.567800326783996 
+          41.567800326783996
         ]
       }
     },
@@ -6854,7 +6905,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        -118.15895645814494,
+          -118.15895645814494,
           33.860523174340436
         ]
       }
@@ -6938,7 +6989,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        -118.42734020470432,
+          -118.42734020470432,
           34.31000439328347
         ]
       }
@@ -6959,8 +7010,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        -120.05666332792909,
-        36.96395014969114
+          -120.05666332792909,
+          36.96395014969114
         ]
       }
     },
@@ -7022,7 +7073,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-        -118.49006302799474,
+          -118.49006302799474,
           34.048515174301315
         ]
       }
@@ -7042,9 +7093,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-            -117.15521386610907,
-            32.774021555423644
+        "coordinates": [
+          -117.15521386610907,
+          32.774021555423644
         ]
       }
     },
@@ -7105,9 +7156,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-            -118.19897254148569,
-            34.11978162187336
+        "coordinates": [
+          -118.19897254148569,
+          34.11978162187336
         ]
       }
     },
@@ -7168,7 +7219,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -119.17690603549076,
           34.234661235780585
         ]
@@ -7189,9 +7240,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.46582160040784,
-            34.26542287131351
+          34.26542287131351
         ]
       }
     },
@@ -7315,7 +7366,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.42575476238144,
           34.05655443740869
         ]
@@ -7357,7 +7408,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -122.86994503344071,
           38.606660584430145
         ]
@@ -7756,7 +7807,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.44119934888855,
           34.05501689476805
         ]
@@ -7882,9 +7933,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-            -73.92088467355453,
-            40.867646365013336
+        "coordinates": [
+          -73.92088467355453,
+          40.867646365013336
         ]
       }
     },
@@ -7904,8 +7955,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            -77.27847386985373,
-            42.8843359120629
+          -77.27847386985373,
+          42.8843359120629
         ]
       }
     },
@@ -7945,9 +7996,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-            -74.00977665636104,
-            40.70376470188085
+        "coordinates": [
+          -74.00977665636104,
+          40.70376470188085
         ]
       }
     },
@@ -7966,9 +8017,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-            -77.64097214180558,
-            43.090851240536296
+        "coordinates": [
+          -77.64097214180558,
+          43.090851240536296
         ]
       }
     },
@@ -7987,9 +8038,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-            -74.40341831958378,
-            41.42890280709647
+        "coordinates": [
+          -74.40341831958378,
+          41.42890280709647
         ]
       }
     },
@@ -8008,9 +8059,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-            -73.77483852937567,
-            42.63029948310018
+        "coordinates": [
+          -73.77483852937567,
+          42.63029948310018
         ]
       }
     },
@@ -8030,8 +8081,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            -73.97092248149602,
-            40.78666981137
+          -73.97092248149602,
+          40.78666981137
         ]
       }
     },
@@ -8050,9 +8101,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
-            -73.98897541773339,
-            40.70342636906622
+        "coordinates": [
+          -73.98897541773339,
+          40.70342636906622
         ]
       }
     },
@@ -8071,9 +8122,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-            -73.70110633916757,
-            40.752208876684975
+        "coordinates": [
+          -73.70110633916757,
+          40.752208876684975
         ]
       }
     },
@@ -8093,494 +8144,495 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-            -73.9110076824729,
-            40.70706502145545
+          -73.9110076824729,
+          40.70706502145545
         ]
       }
     },
-     {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY Authentic 209 (Modesto)",
-      "license": "",
-      "address1": "426 McHenry Ave",
-      "address2": "",
-      "city": "Modesto",
-      "state": "CA",
-      "zip": "95354",
-      "directionUrl": "https://maps.app.goo.gl/kzbRcA874ckHo9Qq8",
-      "storeUrl": "https://theauthenticcannabis.com/locations/authentic-209?utm_source=google&utm_medium=organic&utm_campaign=authentic-209-gmb"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Authentic 209 (Modesto)",
+        "license": "",
+        "address1": "426 McHenry Ave",
+        "address2": "",
+        "city": "Modesto",
+        "state": "CA",
+        "zip": "95354",
+        "directionUrl": "https://maps.app.goo.gl/kzbRcA874ckHo9Qq8",
+        "storeUrl": "https://theauthenticcannabis.com/locations/authentic-209?utm_source=google&utm_medium=organic&utm_campaign=authentic-209-gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.99350220000001,
+          37.650404
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -120.99350220000001,
-        37.650404
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY Costa Mesa (Harbor)",
-      "license": "",
-      "address1": "2710 Harbor Blvd",
-      "address2": "",
-      "city": "Costa Mesa",
-      "state": "CA",
-      "zip": "92626",
-      "directionUrl": "https://maps.app.goo.gl/2XryBK8uKgPErNCu6",
-      "storeUrl": "https://www.stiiizy.com/pages/costa-mesa-dispensary?utm_source=google&utm_medium=organic&utm_campaign=costa-mesa-gmb"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Costa Mesa (Harbor)",
+        "license": "",
+        "address1": "2710 Harbor Blvd",
+        "address2": "",
+        "city": "Costa Mesa",
+        "state": "CA",
+        "zip": "92626",
+        "directionUrl": "https://maps.app.goo.gl/2XryBK8uKgPErNCu6",
+        "storeUrl": "https://www.stiiizy.com/pages/costa-mesa-dispensary?utm_source=google&utm_medium=organic&utm_campaign=costa-mesa-gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.91866619999998,
+          33.6714852
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -117.91866619999998,
-        33.6714852
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY Fresno",
-      "license": "",
-      "address1": "6929 N Willow Ave Ste 103",
-      "address2": "",
-      "city": "Fresno",
-      "state": "CA",
-      "zip": "93710",
-      "directionUrl": "https://maps.app.goo.gl/AWEybax3DQX8dj8V7",
-      "storeUrl": "https://www.stiiizy.com/pages/fresno-dispensary?utm_source=google&utm_medium=organic&utm_campaign=fresno-gmb"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Fresno",
+        "license": "",
+        "address1": "6929 N Willow Ave Ste 103",
+        "address2": "",
+        "city": "Fresno",
+        "state": "CA",
+        "zip": "93710",
+        "directionUrl": "https://maps.app.goo.gl/AWEybax3DQX8dj8V7",
+        "storeUrl": "https://www.stiiizy.com/pages/fresno-dispensary?utm_source=google&utm_medium=organic&utm_campaign=fresno-gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.73106670000001,
+          36.8373397
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -119.73106670000001,
-        36.8373397
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY King's Crew (Long Beach)",
-      "license": "",
-      "address1": "5630 E Pacific Coast Hwy",
-      "address2": "",
-      "city": "Long Beach",
-      "state": "CA",
-      "zip": "90814",
-      "directionUrl": "https://maps.app.goo.gl/Sh9GCdyC5jkqEH5F6",
-      "storeUrl": "https://kingscrew.com/?utm_source=google&utm_medium=organic&utm_campaign=longbeach-gmblisting"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY King's Crew (Long Beach)",
+        "license": "",
+        "address1": "5630 E Pacific Coast Hwy",
+        "address2": "",
+        "city": "Long Beach",
+        "state": "CA",
+        "zip": "90814",
+        "directionUrl": "https://maps.app.goo.gl/Sh9GCdyC5jkqEH5F6",
+        "storeUrl": "https://kingscrew.com/?utm_source=google&utm_medium=organic&utm_campaign=longbeach-gmblisting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.12176737418763,
+          33.77486258132878
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -118.12176737418763,
-        33.77486258132878
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY Madera",
-      "license": "",
-      "address1": "1105 Country Club Dr",
-      "address2": "",
-      "city": "Madera",
-      "state": "CA",
-      "zip": "93638",
-      "directionUrl": "https://maps.app.goo.gl/1fj3qucGafUKLgAW7",
-      "storeUrl": "https://www.stiiizy.com/pages/madera-dispensary?utm_source=google&utm_medium=organic&utm_campaign=madera-gmb"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Madera",
+        "license": "",
+        "address1": "1105 Country Club Dr",
+        "address2": "",
+        "city": "Madera",
+        "state": "CA",
+        "zip": "93638",
+        "directionUrl": "https://maps.app.goo.gl/1fj3qucGafUKLgAW7",
+        "storeUrl": "https://www.stiiizy.com/pages/madera-dispensary?utm_source=google&utm_medium=organic&utm_campaign=madera-gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.07208427358206,
+          36.97530846059718
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ 
-        -120.07208427358206,
-        36.97530846059718
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY Pacheco",
-      "license": "",
-      "address1": "5753 Pacheco Blvd",
-      "address2": "",
-      "city": "Pacheco",
-      "state": "CA",
-      "zip": "94553",
-      "directionUrl": "https://maps.app.goo.gl/UackagtXRCXxzwdH9",
-      "storeUrl": "https://www.stiiizy.com/pages/pacheco-dispensary?utm_source=google&utm_medium=organic&utm_campaign=pacheco-gmb"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Pacheco",
+        "license": "",
+        "address1": "5753 Pacheco Blvd",
+        "address2": "",
+        "city": "Pacheco",
+        "state": "CA",
+        "zip": "94553",
+        "directionUrl": "https://maps.app.goo.gl/UackagtXRCXxzwdH9",
+        "storeUrl": "https://www.stiiizy.com/pages/pacheco-dispensary?utm_source=google&utm_medium=organic&utm_campaign=pacheco-gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.06655123736209,
+          37.985178466958246
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-       -122.06655123736209,
-        37.985178466958246
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY San Jose (Airfield)",
-      "license": "",
-      "address1": "1190 Coleman Ave",
-      "address2": "",
-      "city": "San Jose",
-      "state": "CA",
-      "zip": "95110",
-      "directionUrl": "https://maps.app.goo.gl/BfU8YJ6kGc9YSd6L7",
-      "storeUrl": "https://www.airfieldsupplyco.com/?utm_source=google&utm_medium=organic&utm_campaign=sanjose-gmblisting"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY San Jose (Airfield)",
+        "license": "",
+        "address1": "1190 Coleman Ave",
+        "address2": "",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95110",
+        "directionUrl": "https://maps.app.goo.gl/BfU8YJ6kGc9YSd6L7",
+        "storeUrl": "https://www.airfieldsupplyco.com/?utm_source=google&utm_medium=organic&utm_campaign=sanjose-gmblisting"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.93120065454899,
+          37.35697596089223
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ 
-        -121.93120065454899,
-        37.35697596089223
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY San Jose (Caliva)",
-      "license": "",
-      "address1": "1695 S 7th St",
-      "address2": "",
-      "city": "San Jose",
-      "state": "CA",
-      "zip": "95112",
-      "directionUrl": "https://maps.app.goo.gl/jdjsJzYHJA7pps6n6",
-      "storeUrl": "https://stiiizy.dispensary.shop/caliva-7thst/rec/menu?utm_source=google&utm_medium=id&utm_campaign=gmb"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY San Jose (Caliva)",
+        "license": "",
+        "address1": "1695 S 7th St",
+        "address2": "",
+        "city": "San Jose",
+        "state": "CA",
+        "zip": "95112",
+        "directionUrl": "https://maps.app.goo.gl/jdjsJzYHJA7pps6n6",
+        "storeUrl": "https://stiiizy.dispensary.shop/caliva-7thst/rec/menu?utm_source=google&utm_medium=id&utm_campaign=gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.86507889872485,
+          37.31392312573546
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ 
-        -121.86507889872485,
-        37.31392312573546
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY Suisun City",
-      "license": "",
-      "address1": "521 Railroad Ave",
-      "address2": "",
-      "city": "Suisun City",
-      "state": "CA",
-      "zip": "94585",
-      "directionUrl": "https://maps.app.goo.gl/C9KV9LFnMvrYMyrQ6",
-      "storeUrl": "https://www.stiiizy.com/pages/suisun-city-dispensary?utm_source=google&utm_medium=organic&utm_campaign=suisun-city-gmb"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Suisun City",
+        "license": "",
+        "address1": "521 Railroad Ave",
+        "address2": "",
+        "city": "Suisun City",
+        "state": "CA",
+        "zip": "94585",
+        "directionUrl": "https://maps.app.goo.gl/C9KV9LFnMvrYMyrQ6",
+        "storeUrl": "https://www.stiiizy.com/pages/suisun-city-dispensary?utm_source=google&utm_medium=organic&utm_campaign=suisun-city-gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.00984622940622,
+          38.261789814286054
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -122.00984622940622,
-        38.261789814286054
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY Union Square",
-      "license": "",
-      "address1": "180 O'Farrell St",
-      "address2": "",
-      "city": "San Francisco",
-      "state": "CA",
-      "zip": "94102",
-      "directionUrl": "https://maps.app.goo.gl/WXAUktMk33zFVy127",
-      "storeUrl": "https://www.stiiizy.com/pages/union-square-dispensary?utm_source=google&utm_medium=organic&utm_campaign=union-square-gmb"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Union Square",
+        "license": "",
+        "address1": "180 O'Farrell St",
+        "address2": "",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94102",
+        "directionUrl": "https://maps.app.goo.gl/WXAUktMk33zFVy127",
+        "storeUrl": "https://www.stiiizy.com/pages/union-square-dispensary?utm_source=google&utm_medium=organic&utm_campaign=union-square-gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40695625270274,
+          37.78681835829142
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -122.40695625270274,
-        37.78681835829142
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "STIIIZY Wilmington (PCH)",
-      "license": "",
-      "address1": "1026 W Pacific Coast Hwy",
-      "address2": "",
-      "city": "Wilmington",
-      "state": "CA",
-      "zip": "90744",
-      "directionUrl": "https://maps.app.goo.gl/TLrj6zoX5cLo1kLKA",
-      "storeUrl": "https://www.stiiizy.com/pages/wilmington-dispensary?utm_source=google&utm_medium=organic&utm_campaign=wilmington-gmb"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "STIIIZY Wilmington (PCH)",
+        "license": "",
+        "address1": "1026 W Pacific Coast Hwy",
+        "address2": "",
+        "city": "Wilmington",
+        "state": "CA",
+        "zip": "90744",
+        "directionUrl": "https://maps.app.goo.gl/TLrj6zoX5cLo1kLKA",
+        "storeUrl": "https://www.stiiizy.com/pages/wilmington-dispensary?utm_source=google&utm_medium=organic&utm_campaign=wilmington-gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.27492597415312,
+          33.790252430410206
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ 
-        -118.27492597415312,
-        33.790252430410206
-      ]
-    }
-  },{
-    "type": "Feature",
-    "properties": {
-      "retailer": "The Flowery Palmetto Bay",
-      "license": "",
-      "address1": "8898 SW 144th St",
-      "address2": "",
-      "city": "Palmetto Bay",
-      "state": "FL",
-      "zip": "33176",
-      "directionUrl": "https://maps.app.goo.gl/Eq7Xq9U38Gc94k626",
-      "storeUrl": "https://theflowery.co/dispensary/palmetto-bay"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Palmetto Bay",
+        "license": "",
+        "address1": "8898 SW 144th St",
+        "address2": "",
+        "city": "Palmetto Bay",
+        "state": "FL",
+        "zip": "33176",
+        "directionUrl": "https://maps.app.goo.gl/Eq7Xq9U38Gc94k626",
+        "storeUrl": "https://theflowery.co/dispensary/palmetto-bay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.33669201670706,
+          25.63623844925937
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ 
-        -80.33669201670706,
-        25.63623844925937
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "The Flowery Tampa",
-      "license": "",
-      "address1": "5235 S Dale Mabry Hwy",
-      "address2": "",
-      "city": "Tampa",
-      "state": "FL",
-      "zip": "33611",
-      "directionUrl": "https://maps.app.goo.gl/XUuod3khCL8PA5Ki9",
-      "storeUrl": "https://theflowery.co/dispensary/tampa"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flowery Tampa",
+        "license": "",
+        "address1": "5235 S Dale Mabry Hwy",
+        "address2": "",
+        "city": "Tampa",
+        "state": "FL",
+        "zip": "33611",
+        "directionUrl": "https://maps.app.goo.gl/XUuod3khCL8PA5Ki9",
+        "storeUrl": "https://theflowery.co/dispensary/tampa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.50586424716415,
+          27.888757875966377
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ 
-        -82.50586424716415,
-        27.888757875966377
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "IO Extracts",
-      "license": "",
-      "address1": "3000 E Valencia Rd, Suite 160",
-      "address2": "",
-      "city": "Tucson",
-      "state": "AZ",
-      "zip": "85706",
-      "directionUrl": "https://www.google.com/maps/search/?api=1&query=32.133494999999996,-110.92734399999999&query_place_id=ChIJlXZLBBh71oYRbn6g1XMlQLE",
-      "storeUrl": ""
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "IO Extracts",
+        "license": "",
+        "address1": "3000 E Valencia Rd, Suite 160",
+        "address2": "",
+        "city": "Tucson",
+        "state": "AZ",
+        "zip": "85706",
+        "directionUrl": "https://www.google.com/maps/search/?api=1&query=32.133494999999996,-110.92734399999999&query_place_id=ChIJlXZLBBh71oYRbn6g1XMlQLE",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.92734399999999,
+          32.133494999999996
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -110.92734399999999,
-        32.133494999999996
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "Project Packs",
-      "license": "",
-      "address1": "2239 N Black Cyn Hwy",
-      "address2": "",
-      "city": "Phoenix",
-      "state": "AZ",
-      "zip": "85009",
-      "directionUrl": "https://www.google.com/maps/search/?api=1&query=33.4724697,-112.11135130000001&query_place_id=ChIJbcv3QKQTK4cRjEocYx1EV5k",
-      "storeUrl": ""
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Project Packs",
+        "license": "",
+        "address1": "2239 N Black Cyn Hwy",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85009",
+        "directionUrl": "https://www.google.com/maps/search/?api=1&query=33.4724697,-112.11135130000001&query_place_id=ChIJbcv3QKQTK4cRjEocYx1EV5k",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.11135130000001,
+          33.4724697
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -112.11135130000001,
-        33.4724697
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "Key Cannabis Springerville",
-      "license": "",
-      "address1": "900 East Main Street",
-      "address2": "",
-      "city": "Springerville",
-      "state": "AZ",
-      "zip": "85938",
-      "directionUrl": "https://maps.app.goo.gl/MZJqsfDuuuFFCAzn6",
-      "storeUrl": "https://keycannabis.com/shop/springerville-az/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=springerville"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Key Cannabis Springerville",
+        "license": "",
+        "address1": "900 East Main Street",
+        "address2": "",
+        "city": "Springerville",
+        "state": "AZ",
+        "zip": "85938",
+        "directionUrl": "https://maps.app.goo.gl/MZJqsfDuuuFFCAzn6",
+        "storeUrl": "https://keycannabis.com/shop/springerville-az/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=springerville"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.27301425821145,
+          34.132438228302185
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -109.27301425821145,
-        34.132438228302185
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "Medusa Farms",
-      "license": "",
-      "address1": "3490 N Bank St",
-      "address2": "",
-      "city": "Kingman",
-      "state": "AZ",
-      "zip": "86409",
-      "directionUrl": "https://maps.app.goo.gl/2rrS5FJXvVkEcMeZ8",
-      "storeUrl": "http://www.medusafarms.com/"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Medusa Farms",
+        "license": "",
+        "address1": "3490 N Bank St",
+        "address2": "",
+        "city": "Kingman",
+        "state": "AZ",
+        "zip": "86409",
+        "directionUrl": "https://maps.app.goo.gl/2rrS5FJXvVkEcMeZ8",
+        "storeUrl": "http://www.medusafarms.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.01059892937567,
+          35.22459127525992
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -114.01059892937567,
-        35.22459127525992
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "Trulieve Distribution",
-      "license": "",
-      "address1": "2512 E Magnolia St",
-      "address2": "",
-      "city": "Phoenix",
-      "state": "AZ",
-      "zip": "85034",
-      "directionUrl": "https://www.google.com/maps/search/?api=1&query=33.4229503,-112.02723689999999&query_place_id=ChIJf767pzkOK4cRkI5BytdXg8s",
-      "storeUrl": ""
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trulieve Distribution",
+        "license": "",
+        "address1": "2512 E Magnolia St",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85034",
+        "directionUrl": "https://www.google.com/maps/search/?api=1&query=33.4229503,-112.02723689999999&query_place_id=ChIJf767pzkOK4cRkI5BytdXg8s",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.02723689999999,
+          33.4229503
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -112.02723689999999,
-        33.4229503
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "Nature Med Medical License",
-      "license": "",
-      "address1": "5390 W Ina Rd",
-      "address2": "",
-      "city": "Marana",
-      "state": "AZ",
-      "zip": "85743",
-      "directionUrl": "https://maps.app.goo.gl/ibZiQf6Kr6b13mDV6",
-      "storeUrl": "https://naturemedaz.com/"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Nature Med Medical License",
+        "license": "",
+        "address1": "5390 W Ina Rd",
+        "address2": "",
+        "city": "Marana",
+        "state": "AZ",
+        "zip": "85743",
+        "directionUrl": "https://maps.app.goo.gl/ibZiQf6Kr6b13mDV6",
+        "storeUrl": "https://naturemedaz.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.07944942143418,
+          32.33832421055512
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -111.07944942143418,
-        32.33832421055512
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "TruMed",
-      "license": "",
-      "address1": "1613 N 40th St",
-      "address2": "",
-      "city": "Phoenix",
-      "state": "AZ",
-      "zip": "85008",
-      "directionUrl": "https://maps.app.goo.gl/yo7aEadwR5QVvnL86",
-      "storeUrl": "https://trumedaz.com/"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "TruMed",
+        "license": "",
+        "address1": "1613 N 40th St",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85008",
+        "directionUrl": "https://maps.app.goo.gl/yo7aEadwR5QVvnL86",
+        "storeUrl": "https://trumedaz.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.99479114656916,
+          33.46641752655852
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ 
-       -111.99479114656916,
-        33.46641752655852
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "Key Cannabis Dispensary Phoenix",
-      "license": "",
-      "address1": "2601 W. Dunlap Avenue 21",
-      "address2": "",
-      "city": "Phoenix",
-      "state": "AZ",
-      "zip": "85021",
-      "directionUrl": "https://maps.app.goo.gl/oDrwBUHH1kfevP6j8",
-      "storeUrl": "https://keycannabis.com/shop/phoenix-az/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=phoenix"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Key Cannabis Dispensary Phoenix",
+        "license": "",
+        "address1": "2601 W. Dunlap Avenue 21",
+        "address2": "",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85021",
+        "directionUrl": "https://maps.app.goo.gl/oDrwBUHH1kfevP6j8",
+        "storeUrl": "https://keycannabis.com/shop/phoenix-az/?utm_source=terrayn_gbp&utm_medium=organic&utm_campaign=phoenix"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.11480193731717,
+          33.56700485879545
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -112.11480193731717,
-        33.56700485879545
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "The Flower Shop Phoenix Distribution",
-      "license": "",
-      "address1": "3155 E Mcdowell Rd",
-      "address2": "Ste 2",
-      "city": "Phoenix",
-      "state": "AZ",
-      "zip": "85008",
-      "directionUrl": "https://maps.app.goo.gl/6trqjmb3HZ9PMB2h7",
-      "storeUrl": "https://theflowershopusa.com/phoenix?utm_source=google-business&utm_medium=organic"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Flower Shop Phoenix Distribution",
+        "license": "",
+        "address1": "3155 E Mcdowell Rd",
+        "address2": "Ste 2",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip": "85008",
+        "directionUrl": "https://maps.app.goo.gl/6trqjmb3HZ9PMB2h7",
+        "storeUrl": "https://theflowershopusa.com/phoenix?utm_source=google-business&utm_medium=organic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.01249231218219,
+          33.46572302913506
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [ 
-        -112.01249231218219,
-        33.46572302913506
-      ]
-    }
-  },
-  {
-    "type": "Feature",
-    "properties": {
-      "retailer": "BEST Dispensary Mesa",
-      "license": "M 00000032DCOW00232310 / R 00000046ESTW28902560",
-      "address1": "1962 N. Higley Rd",
-      "address2": "",
-      "city": "Mesa",
-      "state": "AZ",
-      "zip": "85205",
-      "directionUrl": "https://maps.app.goo.gl/zupcPWcqe7CshdxG8",
-      "storeUrl": "http://www.bestdispensary.com/"
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "BEST Dispensary Mesa",
+        "license": "M 00000032DCOW00232310 / R 00000046ESTW28902560",
+        "address1": "1962 N. Higley Rd",
+        "address2": "",
+        "city": "Mesa",
+        "state": "AZ",
+        "zip": "85205",
+        "directionUrl": "https://maps.app.goo.gl/zupcPWcqe7CshdxG8",
+        "storeUrl": "http://www.bestdispensary.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.7187168201237,
+          33.45098820635471
+        ]
+      }
     },
-    "geometry": {
-      "type": "Point",
-      "coordinates": [
-        -111.7187168201237,
-        33.45098820635471
-      ]
-    }
-  },
-  {
+    {
       "type": "Feature",
       "properties": {
         "retailer": "Bethel Buds",
@@ -8595,9 +8647,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-         -74.83689158465691,
-         41.67375772827425
+        "coordinates": [
+          -74.83689158465691,
+          41.67375772827425
         ]
       }
     },
@@ -8616,7 +8668,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.00761952937567,
           40.71028412140362
         ]
@@ -8679,7 +8731,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.86087194286836,
           41.16438466943683
         ]
@@ -8700,7 +8752,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.00574525080985,
           40.71006032188195
         ]
@@ -8721,7 +8773,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -72.98851847540493,
           40.84192142249633
         ]
@@ -8763,7 +8815,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.75880045636104,
           41.0386905702574
         ]
@@ -8805,7 +8857,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.08671357540493,
           40.89829391879911
         ]
@@ -8868,7 +8920,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -76.48451656006183,
           43.462925429613634
         ]
@@ -8931,7 +8983,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.9987727005399,
           40.74369832137032
         ]
@@ -8952,7 +9004,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.95734178334642,
           40.77652508324411
         ]
@@ -9015,7 +9067,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.13377685451064,
           40.625777329229635
         ]
@@ -9057,7 +9109,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.96447824873076,
           40.7104140894332
         ]
@@ -9078,7 +9130,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -76.08924311218217,
           43.05591073239514
         ]
@@ -9099,7 +9151,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.08629669656916,
           40.59471425840539
         ]
@@ -9120,7 +9172,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.95561727648474,
           40.67260950384864
         ]
@@ -9143,7 +9195,7 @@
         "type": "Point",
         "coordinates": [
           -73.94389972197409,
-           40.686604814216544
+          40.686604814216544
         ]
       }
     },
@@ -9162,7 +9214,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.98548102937566,
           40.76723817953039
         ]
@@ -9183,7 +9235,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.82584556006184,
           40.98614513015028
         ]
@@ -9204,7 +9256,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.86276905451065,
           40.7302259089976
         ]
@@ -9226,7 +9278,7 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-         -73.80153907540495,
+          -73.80153907540495,
           40.59071812389163
         ]
       }
@@ -9248,7 +9300,7 @@
         "type": "Point",
         "coordinates": [
           -73.84182357224404,
-         40.680941575375265
+          40.680941575375265
         ]
       }
     },
@@ -9267,7 +9319,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.73239122197408,
           40.75972226244849
         ]
@@ -9288,7 +9340,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.96749374471878,
           40.756185423251736
         ]
@@ -9309,8 +9361,8 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-         -73.75407529313831,
+        "coordinates": [
+          -73.75407529313831,
           40.7494069098724
         ]
       }
@@ -9351,7 +9403,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.0026411888976,
           40.71837879414882
         ]
@@ -9372,7 +9424,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.960615215883,
           40.76129831802733
         ]
@@ -9393,7 +9445,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.9223836974183,
           40.61113123403042
         ]
@@ -9414,7 +9466,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.98392970053992,
           40.74120565354943
         ]
@@ -9435,7 +9487,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.9909887140326,
           40.670619043650156
         ]
@@ -9456,8 +9508,8 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-         -73.72130696006184,
+        "coordinates": [
+          -73.72130696006184,
           40.74276583719685
         ]
       }
@@ -9477,8 +9529,8 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
-         -72.77999102567489,
+        "coordinates": [
+          -72.77999102567489,
           40.92888051815324
         ]
       }
@@ -9498,7 +9550,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.75864643122605,
           40.7404361700136
         ]
@@ -9519,7 +9571,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.91138594232845,
           40.775349632830526
         ]
@@ -9540,9 +9592,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.99247218465692,
-           40.69919967910651
+          40.69919967910651
         ]
       }
     },
@@ -9561,7 +9613,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
+        "coordinates": [
           -74.11434584232846,
           40.62957547878426
         ]
@@ -9624,7 +9676,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.8511462730146,
           40.67503377064834
         ]
@@ -9645,7 +9697,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.7884516,
           40.73992814187859
         ]
@@ -9687,7 +9739,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.73511645952193,
           40.77091381599011
         ]
@@ -9708,7 +9760,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.8493378846569,
           40.694795316304166
         ]
@@ -9729,7 +9781,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.85076074232845,
           40.90352962559234
         ]
@@ -9750,7 +9802,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.85827334417884,
           40.92696604499175
         ]
@@ -9771,7 +9823,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.74718013043254,
           40.66546935734653
         ]
@@ -9792,7 +9844,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -72.3472681,
           40.915921773480044
         ]
@@ -9813,7 +9865,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.99721341349269,
           40.74682190231279
         ]
@@ -9834,7 +9886,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.11794781749413,
           41.112489637945
         ]
@@ -9876,7 +9928,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.95456987116422,
           42.80374848137707
         ]
@@ -9897,7 +9949,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.80317651534307,
           40.77141613954448
         ]
@@ -9918,7 +9970,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -76.05633390080985,
           43.064220316299256
         ]
@@ -9939,7 +9991,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.76435039814962,
           42.860752811212556
         ]
@@ -9960,7 +10012,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
+        "coordinates": [
           -77.63030861349267,
           43.08780554806487
         ]
@@ -9981,7 +10033,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.92143404417884,
           41.64299272077471
         ]
@@ -10002,7 +10054,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -76.1463397,
           43.11719296856054
         ]
@@ -10044,7 +10096,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.98730463068617,
           40.74438200549077
         ]
@@ -10065,7 +10117,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.91588477116422,
           40.76342383861129
         ]
@@ -10086,7 +10138,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.89612740185039,
           41.696115071796754
         ]
@@ -10107,7 +10159,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.96093561349268,
           40.68037063953204
         ]
@@ -10128,7 +10180,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.99269605767155,
           40.72346644165758
         ]
@@ -10170,7 +10222,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.91819311164228,
           40.62635378613877
         ]
@@ -10191,7 +10243,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.00827948465692,
           40.715054107445745
         ]
@@ -10212,7 +10264,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -77.80479514442392,
           43.1854942596224
         ]
@@ -10233,7 +10285,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -77.56154195582114,
           43.176237144728134
         ]
@@ -10275,7 +10327,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
+        "coordinates": [
           -73.96542094232846,
           41.5022423448635
         ]
@@ -10296,7 +10348,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
+        "coordinates": [
           -73.92688752883578,
           41.276694103863925
         ]
@@ -10317,7 +10369,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.95263214232844,
           40.74253926732761
         ]
@@ -10338,7 +10390,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.06426747116421,
           41.52283827045362
         ]
@@ -10359,7 +10411,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.93091862883576,
           41.668068154513506
         ]
@@ -10380,7 +10432,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.93091862883576,
           40.703487341539855
         ]
@@ -10401,7 +10453,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -76.33984596191225,
           40.082067202170514
         ]
@@ -10485,7 +10537,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -75.3462134920585,
           40.67101849384612
         ]
@@ -10506,7 +10558,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -79.92707379020811,
           40.42773706139312
         ]
@@ -10548,7 +10600,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -80.1032203269854,
           40.688896367106416
         ]
@@ -10569,7 +10621,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -75.93097242698536,
           40.33443932164021
         ]
@@ -10590,7 +10642,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -75.35917465197707,
           41.30359871569493
         ]
@@ -10611,7 +10663,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -75.5292604396682,
           40.23208366553784
         ]
@@ -10632,9 +10684,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -75.88247951164229,
-           41.22329562828136
+          41.22329562828136
         ]
       }
     },
@@ -10653,7 +10705,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -75.15469730185038,
           39.90775006291808
         ]
@@ -10674,7 +10726,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -75.62795808199665,
           40.5831619580906
         ]
@@ -10695,7 +10747,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -80.00401885397075,
           40.44865248261863
         ]
@@ -10716,13 +10768,13 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -75.30374021349269,
           40.24106431949753
         ]
       }
     },
-     {
+    {
       "type": "Feature",
       "properties": {
         "retailer": "Pacafi — Packs",
@@ -10737,7 +10789,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.02560605767154,
           34.07210492353216
         ]
@@ -10800,8 +10852,8 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
-         -118.40413154232844,
+        "coordinates": [
+          -118.40413154232844,
           34.143109476592834
         ]
       }
@@ -10821,7 +10873,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -121.42946352698536,
           37.74016399118333
         ]
@@ -10842,7 +10894,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -119.73462574232846,
           36.811865145105855
         ]
@@ -10863,7 +10915,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -121.84154945952194,
           38.000019125052646
         ]
@@ -10884,7 +10936,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -120.9398110846569,
           37.61052441608615
         ]
@@ -10926,7 +10978,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.26542851581462,
           33.941930783566335
         ]
@@ -10947,7 +10999,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -120.95754173068616,
           37.73319892342214
         ]
@@ -10968,7 +11020,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -121.4864687153431,
           38.58690110642681
         ]
@@ -10989,7 +11041,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -122.22278115767156,
           37.487110381618734
         ]
@@ -11010,7 +11062,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -117.09133535767154,
           32.63038755628653
         ]
@@ -11031,7 +11083,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -120.98121327116424,
           37.58011141441588
         ]
@@ -11052,7 +11104,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.46639244178853,
           34.21897058467791
         ]
@@ -11073,7 +11125,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.29997324417886,
           33.963676706618344
         ]
@@ -11094,7 +11146,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.27899428650733,
           33.97460400230444
         ]
@@ -11115,7 +11167,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -120.61606135952194,
           37.346532215343366
         ]
@@ -11136,7 +11188,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -121.7972155846569,
           36.68550346561963
         ]
@@ -11157,7 +11209,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.60750173193298,
           34.171614725512775
         ]
@@ -11178,7 +11230,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -117.09870977301463,
           32.728816091386804
         ]
@@ -11199,7 +11251,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -121.98387573068615,
           36.98768291697336
         ]
@@ -11220,7 +11272,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
+        "coordinates": [
           -121.60383011349268,
           38.16287528797586
         ]
@@ -11241,7 +11293,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.30840784232846,
           33.7899453224572
         ]
@@ -11262,7 +11314,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -122.72873825627477,
           38.46206251909796
         ]
@@ -11283,7 +11335,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.37064135767154,
           34.18261419399558
         ]
@@ -11304,7 +11356,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
+        "coordinates": [
           -74.14665881349266,
           40.54127788854037
         ]
@@ -11325,7 +11377,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.94207052883577,
           40.60006691060479
         ]
@@ -11346,7 +11398,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.9895677,
           40.747199855080936
         ]
@@ -11367,7 +11419,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -77.32118243704723,
           43.06306115858354
         ]
@@ -11388,7 +11440,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.99208657116422,
           40.684118549025555
         ]
@@ -11409,7 +11461,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.97443954417886,
           40.753606938243145
         ]
@@ -11430,7 +11482,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.16773878650731,
           40.628977963503814
         ]
@@ -11451,7 +11503,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.84663907116423,
           43.123221916153646
         ]
@@ -11472,7 +11524,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.57832391188391,
           43.31409802405494
         ]
@@ -11493,7 +11545,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
+        "coordinates": [
           -73.88673427116422,
           42.69712247532529
         ]
@@ -11514,7 +11566,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.76474800451064,
           42.820782024461
         ]
@@ -11535,7 +11587,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.9901412883577,
           40.741551058417464
         ]
@@ -11556,7 +11608,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -74.08677264047805,
           40.60618730657416
         ]
@@ -11577,7 +11629,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -76.1558078865073,
           43.06331857360289
         ]
@@ -11598,7 +11650,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -78.82349737116422,
           42.97877300914591
         ]
@@ -11619,7 +11671,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -78.18166409999999,
           42.997312302827154
         ]
@@ -11640,7 +11692,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -76.1726481,
           42.6073520791347
         ]
@@ -11661,7 +11713,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -75.89190007301463,
           42.1631560759597
         ]
@@ -11682,7 +11734,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.93588452698538,
           41.706035391419285
         ]
@@ -11703,7 +11755,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.98524729629919,
           40.736403442397815
         ]
@@ -11724,7 +11776,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -123.19970356931664,
           39.131461051920276
         ]
@@ -11745,7 +11797,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.58029081599342,
           34.23156902751427
         ]
@@ -11766,7 +11818,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.37825591534167,
           34.19447424694637
         ]
@@ -11787,7 +11839,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -122.7396099589164,
           38.47731918084767
         ]
@@ -11829,7 +11881,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -118.46926127301249,
           34.216428614286436
         ]
@@ -11850,7 +11902,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
+        "coordinates": [
           -121.43277838650624,
           38.6015371310925
         ]
@@ -11871,7 +11923,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -123.2054137828104,
           39.13629361864145
         ]
@@ -11892,9 +11944,9 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [  
+        "coordinates": [
           -118.32076537116457,
-           34.04352895610364
+          34.04352895610364
         ]
       }
     },
@@ -11913,7 +11965,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -121.48606531349375,
           38.56711995813462
         ]
@@ -11976,7 +12028,7 @@
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [ 
+        "coordinates": [
           -73.9569561288354,
           40.71897550282565
         ]
