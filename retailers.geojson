@@ -11708,6 +11708,279 @@
           40.736403442397815
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannavine Distro",
+        "license": "",
+        "address1": "1230 Airport Park Blvd",
+        "address2": "",
+        "city": "Ukiah",
+        "state": "CA",
+        "zip": "95482",
+        "directionUrl": "https://maps.app.goo.gl/hzunGiXuTLTWEgwu9",
+        "storeUrl": "https://www.trycannavine.com/ukiah-cannabis-dispensary/?utm_source=google&utm_medium=organic&utm_campaign=nearfront"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -123.19970356931664,
+          39.131461051920276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Happy Valley Manufacturing And Distribution LLC",
+        "license": "",
+        "address1": "20500 Nordhoff St",
+        "address2": "",
+        "city": "Chatsworth",
+        "state": "CA",
+        "zip": "91311",
+        "directionUrl": "https://maps.app.goo.gl/wZH4ekSV8p4wncPY7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.58029081599342,
+          34.23156902751427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Kolor Koncept Inc",
+        "license": "",
+        "address1": "11333 Vanowen St",
+        "address2": "",
+        "city": "North Hollywood",
+        "state": "CA",
+        "zip": "91605",
+        "directionUrl": "https://maps.app.goo.gl/NK3PHF2Q2x14LehS8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.37825591534167,
+          34.19447424694637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vibe by California - Distro",
+        "license": "",
+        "address1": "3407 Industrial Drive, Unit D",
+        "address2": "",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "zip": "95403",
+        "directionUrl": "https://maps.app.goo.gl/ckenba7VnDZsvgff8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -122.7396099589164,
+          38.47731918084767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bud Bees Delivery Mission Hills",
+        "license": "",
+        "address1": "10237 Sepulveda Blvd",
+        "address2": "",
+        "city": "San Fernando (Mission Hills)",
+        "state": "CA",
+        "zip": "91345",
+        "directionUrl": "https://maps.app.goo.gl/Ysac9NzQBGzEbMcw9",
+        "storeUrl": "https://budbees.la/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.46771621349376,
+          34.25675765730132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Community Creative Network",
+        "license": "",
+        "address1": "15424 Cabrito Rd, Unit #3",
+        "address2": "",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip": "91406",
+        "directionUrl": "https://maps.app.goo.gl/XTytChPG3MVS3qfk7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -118.46926127301249,
+          34.216428614286436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Kolas Arden 104",
+        "license": "",
+        "address1": "1760 Challenge Way",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95815",
+        "directionUrl": "https://maps.app.goo.gl/uHQRzYRnEfbibYMX9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+          -121.43277838650624,
+          38.6015371310925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cookies Mendocino",
+        "license": "",
+        "address1": "1104 S State St",
+        "address2": "",
+        "city": "Ukiah",
+        "state": "CA",
+        "zip": "95482",
+        "directionUrl": "https://maps.app.goo.gl/WYmoXtRrBfWz2hgcA",
+        "storeUrl": "https://ukiah.cookies.co/?utm_source=gmb&utm_medium=organic&utm_campaign=gbp-listing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -123.2054137828104,
+          39.13629361864145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Catalyst Mid-Wilshire",
+        "license": "",
+        "address1": "3318 Venice Blvd",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90019",
+        "directionUrl": "https://maps.app.goo.gl/uV4VLmjNp33zBsmeA",
+        "storeUrl": "https://catalyst-cannabis.com/shop?store=catalystmidcity&utm_source=google&utm_medium=organic&utm_campaign=business_profile&utm_content=delivery_pickup"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [  
+          -118.32076537116457,
+           34.04352895610364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "All About Wellness",
+        "license": "",
+        "address1": "1820 S St",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95811",
+        "directionUrl": "https://maps.app.goo.gl/oVapeubYPYZaVYrQ6",
+        "storeUrl": "https://www.allabout916.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -121.48606531349375,
+          38.56711995813462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Kolas, Doctors Orders",
+        "license": "",
+        "address1": "1704 Main Ave",
+        "address2": "",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95838",
+        "directionUrl": "https://maps.app.goo.gl/2hV3zrfMguTpFCfk8",
+        "storeUrl": "https://kolas.com/?utm_source=google&utm_medium=organic&utm_campaign=google_business_profile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.42661208650625,
+          38.654563793298514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Cannabis Realm of New York - Queens",
+        "license": "",
+        "address1": "172-02 Hillside Ave",
+        "address2": "",
+        "city": "Jamaica",
+        "state": "NY",
+        "zip": "11432",
+        "directionUrl": "https://maps.app.goo.gl/7NiKJ3ya6QaFhuDM8",
+        "storeUrl": "https://cannabisrealmny.com/locations/queens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.78988465767083,
+          40.711744150765504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hii NYC - Williamsburg",
+        "license": "",
+        "address1": "152 Bedford Ave",
+        "address2": "",
+        "city": "Brooklyn",
+        "state": "NY",
+        "zip": "11249",
+        "directionUrl": "https://maps.app.goo.gl/Uua8ZpmnKjkG3gHP9",
+        "storeUrl": "https://hiinyc.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [ 
+          -73.9569561288354,
+          40.71897550282565
+        ]
+      }
     }
   ]
 }
