@@ -6367,27 +6367,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Phinest Buds",
-        "license": "",
-        "address1": "576 Dick Rd suite 10a",
-        "address2": "",
-        "city": "Depew",
-        "state": "NY",
-        "zip": "14043",
-        "directionUrl": "https://maps.app.goo.gl/QAsSAPzTCGUTJHzJ9",
-        "storeUrl": "https://phinestbuds.com/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -78.73706470478385,
-          42.91732381412745
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Flavor Factory",
         "license": "",
         "address1": "7101 Packard Rd",
@@ -12031,6 +12010,27 @@
         "coordinates": [
           -73.9569561288354,
           40.71897550282565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Phinest Buds",
+        "license": "",
+        "address1": "516 Dick Rd",
+        "address2": "Ste 10a",
+        "city": "Buffalo",
+        "state": "NY",
+        "zip": "14043",
+        "directionUrl": "https://maps.app.goo.gl/bCi9dzhU1yuTEk2a8",
+        "storeUrl": "https://thephinestbuds.com/?utm_source=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.73808394628173,
+          42.917398427909426
         ]
       }
     }
