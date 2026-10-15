@@ -2440,27 +2440,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Lemonnade Van Nuys",
-        "license": "",
-        "address1": "7040 Hayvenhurst Ave",
-        "address2": "",
-        "city": "Lake Balboa",
-        "state": "CA",
-        "zip": "91406",
-        "directionUrl": "https://maps.app.goo.gl/cmYQdoD8K7y77KhSA",
-        "storeUrl": "https://weedmaps.com/dispensaries/lemonnade-van-nuys?filter%5Bmatch%5D=wizard-trees"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.4919161,
-          34.1985896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "The Marathon Collective",
         "license": "",
         "address1": "7011 Canoga Ave",
@@ -7837,27 +7816,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Valley Verde Van Nuys",
-        "license": "C10-0000839-LIC",
-        "address1": "14903 Sherman Way",
-        "address2": "",
-        "city": "Van Nuys",
-        "state": "CA",
-        "zip": "91405",
-        "directionUrl": "https://maps.app.goo.gl/AuDqyT8XPDmNxrGF6",
-        "storeUrl": "https://www.keepingthevalleyverde.com/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.45772210000001,
-          34.2016445
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Xzibits West Coast Cannabis Chatsworth",
         "license": "C10-0000098-LIC",
         "address1": "9155 Deering Ave",
@@ -11848,27 +11806,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Community Creative Network",
-        "license": "",
-        "address1": "15424 Cabrito Rd, Unit #3",
-        "address2": "",
-        "city": "Van Nuys",
-        "state": "CA",
-        "zip": "91406",
-        "directionUrl": "https://maps.app.goo.gl/XTytChPG3MVS3qfk7",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.46926127301249,
-          34.216428614286436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Kolas Arden 104",
         "license": "",
         "address1": "1760 Challenge Way",
@@ -12031,6 +11968,27 @@
         "coordinates": [
           -78.73808394628173,
           42.917398427909426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Lemonnade Van Nuys",
+        "license": "",
+        "address1": "7040 Hayvenhurst Pl",
+        "address2": "",
+        "city": "Van Nuys",
+        "state": "CA",
+        "zip": "91406",
+        "directionUrl": "https://maps.app.goo.gl/DMTZF6oqJAtRBuHm9",
+        "storeUrl": "http://lemonnadevannuys.com/?utm_source=gmb&utm_medium=organic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.49181954279445,
+          34.198722679403346
         ]
       }
     }
