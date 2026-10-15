@@ -12012,6 +12012,447 @@
           38.5098252
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "All Natural Shingle Springs",
+        "license": "",
+        "address1": "4151 Shingle Rd S",
+        "address2": "Suite 2",
+        "city": "Shingle Springs",
+        "state": "CA",
+        "zip": "95682",
+        "directionUrl": "https://maps.app.goo.gl/FwwnnDxXRQVoaxkCA",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.9357721,
+          38.6597003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Buzz Cannabis Harbor",
+        "license": "",
+        "address1": "1200 Harbor Dr",
+        "address2": "",
+        "city": "National City",
+        "state": "CA",
+        "zip": "91950",
+        "directionUrl": "https://maps.app.goo.gl/NS5SZiYLvG9w4wrE9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1139112,
+          32.6697512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Gemme Verdi",
+        "license": "",
+        "address1": "899 Columbus Ave",
+        "address2": "",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94133",
+        "directionUrl": "https://maps.app.goo.gl/zGQcBLaPjtRwZzmz5",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4137475,
+          37.8025916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Goldn Bloom San Diego",
+        "license": "",
+        "address1": "3385 Sunrise St",
+        "address2": "",
+        "city": "San Diego",
+        "state": "CA",
+        "zip": "92102",
+        "directionUrl": "https://maps.app.goo.gl/E8Rvxi9NchjAxUNG8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1212534,
+          32.7140184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Greenfield",
+        "license": "",
+        "address1": "4687 Mission St",
+        "address2": "",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94112",
+        "directionUrl": "https://maps.app.goo.gl/7pBcYVwKMvanEDdA6",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4355654,
+          37.723262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Hi-Fidelity",
+        "license": "",
+        "address1": "2465 Telegraph Ave",
+        "address2": "",
+        "city": "Berkeley",
+        "state": "CA",
+        "zip": "94704",
+        "directionUrl": "https://maps.app.goo.gl/V2fjBaQnfP2gKqGL7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.2584478,
+          37.8657265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "JadeRoom Torrance",
+        "license": "",
+        "address1": "22865 Lockness Ave",
+        "address2": "",
+        "city": "Torrance",
+        "state": "CA",
+        "zip": "90501",
+        "directionUrl": "https://maps.app.goo.gl/8e9uSAXi8Uc7idUUA",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3072735,
+          33.8174752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Megan's Organic Market Goleta",
+        "license": "",
+        "address1": "5999 Hollister Ave",
+        "address2": "",
+        "city": "Goleta",
+        "state": "CA",
+        "zip": "93117",
+        "directionUrl": "https://maps.app.goo.gl/Cq8H7XSn9uRfV9678",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8304933,
+          34.4358715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Megan's Organic Market San Luis Obispo",
+        "license": "",
+        "address1": "280 Higuera St",
+        "address2": "",
+        "city": "San Luis Obispo",
+        "state": "CA",
+        "zip": "93401",
+        "directionUrl": "https://maps.app.goo.gl/4ZQ83LqJVWvgoKgQ8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.6699668,
+          35.2723451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "MMD Hollywood",
+        "license": "",
+        "address1": "1515 N Cahuenga Blvd",
+        "address2": "",
+        "city": "Hollywood",
+        "state": "CA",
+        "zip": "90028",
+        "directionUrl": "https://maps.app.goo.gl/1zVoqPL3qGSbX35u9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3297582,
+          34.0984988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Natural Aid Pharmacy",
+        "license": "",
+        "address1": "8124 Foothill Blvd",
+        "address2": "",
+        "city": "Sunland",
+        "state": "CA",
+        "zip": "91040",
+        "directionUrl": "https://maps.app.goo.gl/MT3BiqDX3PGae8wx9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.3101576,
+          34.2595229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Originals Factory",
+        "license": "",
+        "address1": "6500 Stanford Ave",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90001",
+        "directionUrl": "https://maps.app.goo.gl/y88Kr4YAQeq7ENZC7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2626528,
+          33.9810049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Higher Level",
+        "license": "",
+        "address1": "4795 N Blackstone Ave",
+        "address2": "",
+        "city": "Fresno",
+        "state": "CA",
+        "zip": "93726",
+        "directionUrl": "https://maps.app.goo.gl/wpyDARMNiW1iSTdn8",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7907566,
+          36.8047832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "4Twenty Market Weed Dispensary Oakland",
+        "license": "",
+        "address1": "8440 Enterprise Way",
+        "address2": "",
+        "city": "Oakland",
+        "state": "CA",
+        "zip": "94621",
+        "directionUrl": "https://maps.app.goo.gl/P9VNqnR1NazrDTBf9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.1939996,
+          37.7438727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Fireplace Arcata",
+        "license": "",
+        "address1": "1041 F St",
+        "address2": "",
+        "city": "Arcata",
+        "state": "CA",
+        "zip": "95521",
+        "directionUrl": "https://maps.app.goo.gl/7QCrDpeouiZTntdE6",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.0844446,
+          40.8696634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Fireplace Eureka",
+        "license": "",
+        "address1": "1628 Broadway",
+        "address2": "",
+        "city": "Eureka",
+        "state": "CA",
+        "zip": "95501",
+        "directionUrl": "https://maps.app.goo.gl/SehdmgbYSXWRXdAz5",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.1787885,
+          40.7923478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Sweet Spot 2",
+        "license": "",
+        "address1": "925 Piner Rd",
+        "address2": "",
+        "city": "Santa Rosa",
+        "state": "CA",
+        "zip": "95403",
+        "directionUrl": "https://maps.app.goo.gl/S9A6Ha5QhHkK3fnDA",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.7360034,
+          38.4722408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Tujunga Hills Cannabis",
+        "license": "",
+        "address1": "7031 Foothill Blvd",
+        "address2": "",
+        "city": "Tujunga",
+        "state": "CA",
+        "zip": "91042",
+        "directionUrl": "https://maps.app.goo.gl/bguyKqjTFq2d52aF9",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2844112,
+          34.2481695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "WeedHub Storefront",
+        "license": "",
+        "address1": "3407 Geary Blvd",
+        "address2": "",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94118",
+        "directionUrl": "https://maps.app.goo.gl/iZjHZ36TPea8o9u2A",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.4554776,
+          37.78121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Xzibit's West Coast Cannabis Marina Del Rey",
+        "license": "C10-0000460-LIC",
+        "address1": "13452 W Washington Blvd",
+        "address2": "",
+        "city": "Marina del Rey",
+        "state": "CA",
+        "zip": "90292",
+        "directionUrl": "https://maps.app.goo.gl/hrJxiP7bPAJEvhfe7",
+        "storeUrl": "https://xzibitsmarina.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4460845,
+          33.9910709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "ZZ Flux - DTLA",
+        "license": "",
+        "address1": "2019 Pasadena Ave",
+        "address2": "",
+        "city": "Los Angeles",
+        "state": "CA",
+        "zip": "90031",
+        "directionUrl": "https://maps.app.goo.gl/UaiGrupiZ6bWgJAt7",
+        "storeUrl": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2207271,
+          34.0748283
+        ]
+      }
     }
   ]
 }
