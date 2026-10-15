@@ -2358,7 +2358,7 @@
       "properties": {
         "retailer": "Cookies Woodland Hills",
         "license": "",
-        "address1": "5334 Alhama Dr",
+        "address1": "5338 Alhama Dr",
         "address2": "",
         "city": "Woodland Hills",
         "state": "CA",
@@ -2369,8 +2369,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.59196012382449,
-          34.166484758677356
+          -118.5927326,
+          34.1662939
         ]
       }
     },
@@ -11035,7 +11035,7 @@
         "address2": "",
         "city": "Panorama City",
         "state": "CA",
-        "zip": "",
+        "zip": "91402",
         "directionUrl": "https://maps.app.goo.gl/cbxZWRWf6pkvJfddA",
         "storeUrl": "http://offgreenla.com/"
       },
