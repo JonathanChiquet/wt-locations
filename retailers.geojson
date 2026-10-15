@@ -949,7 +949,7 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Swish Cannabis [VALLEY OPPORTUNITIES LLC]",
+        "retailer": "Swish Cannabis",
         "license": "C10-0000976-LIC",
         "address1": "10701 Burbank Blvd W",
         "address2": "",
@@ -970,7 +970,7 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "The Ounce [NEWCORP ACQUISITION LLC]",
+        "retailer": "The Ounce",
         "license": "C10-0001218-LIC",
         "address1": "11032 Magnolia Blvd",
         "address2": "",
@@ -991,7 +991,7 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Kanna [KANNA INC]",
+        "retailer": "Kanna",
         "license": "C10-0000419-LIC",
         "address1": "2019 Macarthur Blvd",
         "address2": "",
@@ -11218,7 +11218,7 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "South Bay Canna Clinic [THE GREEN ANT, LLC]",
+        "retailer": "South Bay Canna Clinic",
         "license": "C10-0001076-LIC",
         "address1": "1719 Pacific Coast Hwy",
         "address2": "",
