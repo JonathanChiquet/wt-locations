@@ -2364,7 +2364,7 @@
         "state": "CA",
         "zip": "91364",
         "directionUrl": "https://maps.app.goo.gl/8zJzdn6Aopc4DTor5",
-        "storeUrl": "https://weedmaps.com/dispensaries/the-loft-co-op?filter%5Bmatch%5D=wizard-trees"
+        "storeUrl": "https://www.woodlandhills.cookies.co/"
       },
       "geometry": {
         "type": "Point",
@@ -11989,6 +11989,27 @@
         "coordinates": [
           -118.49181954279445,
           34.198722679403346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Alpaca Bowl",
+        "license": "C9-0000204-LIC",
+        "address1": "8880 Elder Creek Rd",
+        "address2": "Suite 155",
+        "city": "Sacramento",
+        "state": "CA",
+        "zip": "95828",
+        "directionUrl": "https://maps.app.goo.gl/Qj4bxTfaLF6HhpDUA",
+        "storeUrl": "https://alpaca.club/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.3730137,
+          38.5098252
         ]
       }
     }
