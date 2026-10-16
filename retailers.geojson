@@ -1033,27 +1033,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Catalyst Pomona",
-        "license": "C10-0001405-LIC",
-        "address1": "1958 S Garey Ave",
-        "address2": "",
-        "city": "Pomona",
-        "state": "CA",
-        "zip": "91766",
-        "directionUrl": "https://maps.app.goo.gl/ViqA3GkAa2pmoYrS7",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.74246193520578,
-          34.062398380736326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Higher Ground San Bernardino",
         "license": "C10-0001021-LIC",
         "address1": "240 Redlands Blvd E",
@@ -1622,7 +1601,7 @@
       "type": "Feature",
       "properties": {
         "retailer": "Catalyst Pomona",
-        "license": "",
+        "license": "C10-0000903-LIC",
         "address1": "456 E Holt Ave",
         "address2": "",
         "city": "Pomona",
