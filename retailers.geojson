@@ -1159,27 +1159,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Nature's Story",
-        "license": "C10-0001023-LIC",
-        "address1": "6455 Topanga Canyon Blvd N",
-        "address2": "",
-        "city": "Woodland Hills",
-        "state": "CA",
-        "zip": "91303",
-        "directionUrl": "https://maps.app.goo.gl/GCQhfXCyEMfZBi8h9",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.60615414432186,
-          34.18823869541415
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "The Vault Woodland Hills",
         "license": "C10-0000458-LIC",
         "address1": "22815 Ventura Blvd",
@@ -1579,27 +1558,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Cannavine Distro",
-        "license": "",
-        "address1": "1230 Airport Park Blvd",
-        "address2": "Suite C",
-        "city": "Ukiah",
-        "state": "CA",
-        "zip": "95482",
-        "directionUrl": "https://maps.app.goo.gl/nwLEDbJpUF32WDDw7",
-        "storeUrl": "https://weedmaps.com/dispensaries/cannavine?filter%5Bmatch%5D=wizard-trees"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -123.19946300803086,
-          39.15917978240136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Catalyst Halladay St",
         "license": "",
         "address1": "3122 Halladay St",
@@ -1636,27 +1594,6 @@
         "coordinates": [
           -118.12279791764976,
           34.64659042172238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Catalyst Mid City",
-        "license": "",
-        "address1": "3318 Venice Blvd",
-        "address2": "",
-        "city": "Los Angeles",
-        "state": "CA",
-        "zip": "90019",
-        "directionUrl": "https://maps.app.goo.gl/B6VKfLh9VUg16T9f7",
-        "storeUrl": "https://weedmaps.com/dispensaries/catalyst-mid-city?filter%5Bmatch%5D=wizard-trees"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.32075464464837,
-          34.043586714557
         ]
       }
     },
@@ -4246,27 +4183,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Maitri Medicinals - Pittsburgh",
-        "license": "",
-        "address1": "5845 Centre Ave",
-        "address2": "",
-        "city": "Pittsburgh",
-        "state": "PA",
-        "zip": "",
-        "directionUrl": "https://maps.app.goo.gl/3r58QxK839ozzEsVA",
-        "storeUrl": "https://weedmaps.com/dispensaries/maitri-medicinals-pittsburgh?filter%5Bmatch%5D=wizard-trees"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.93039821566074,
-          40.45868558425048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Vytal Options - State College",
         "license": "",
         "address1": "1653 N Atherton St",
@@ -5164,27 +5080,6 @@
         "coordinates": [
           -73.94526017048987,
           40.72574057298124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Hii",
-        "license": "",
-        "address1": "152 Bedford Ave",
-        "address2": "",
-        "city": "Brooklyn",
-        "state": "NY",
-        "zip": "11249",
-        "directionUrl": "https://maps.app.goo.gl/Xdgtfqs4toWtUtKx7",
-        "storeUrl": "https://hiinyc.com/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.95616217441494,
-          40.71893884490039
         ]
       }
     },
@@ -6409,27 +6304,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "REQUESTED from Mindset",
-        "license": "",
-        "address1": "51 Main St",
-        "address2": "",
-        "city": "Tarrytown",
-        "state": "NY",
-        "zip": "10591",
-        "directionUrl": "https://maps.app.goo.gl/qm77UgMoUcq48oaw7",
-        "storeUrl": "https://mindsettarrytown.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.85957125537173,
-          41.07706812225233
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Farmers Choice",
         "license": "",
         "address1": "18 Westage Dr Suite 7",
@@ -6577,27 +6451,6 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Cannabis Realm Queens",
-        "license": "",
-        "address1": "172-02 Hillside Ave",
-        "address2": "",
-        "city": "Jamaica",
-        "state": "NY",
-        "zip": "11432",
-        "directionUrl": "https://maps.app.goo.gl/QzQibJ1jkm7P1G677",
-        "storeUrl": "https://cannabisrealmny.com"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.78924090711868,
-          40.71169128972447
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "retailer": "Say Less",
         "license": "",
         "address1": "3764 E Tremont Ave",
@@ -6634,132 +6487,6 @@
         "coordinates": [
           -73.9583274126573,
           40.608951145352
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Fluent",
-        "license": "",
-        "address1": "1015 E Main St",
-        "address2": "",
-        "city": "Annville",
-        "state": "PA",
-        "zip": "17003",
-        "directionUrl": "https://maps.app.goo.gl/znGAcNbBB1PNJ4Up9",
-        "storeUrl": "https://weedmaps.com/dispensaries/fluent-annville?filter%5Bmatch%5D=wizard-trees"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.49720768211446,
-          40.33337835375471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Maitri Medicinals",
-        "license": "",
-        "address1": "27 W Main St",
-        "address2": "",
-        "city": "Uniontown",
-        "state": "PA",
-        "zip": "15401",
-        "directionUrl": "https://maps.app.goo.gl/cQBBYi6We3huz8bL6",
-        "storeUrl": "https://weedmaps.com/dispensaries/maitri-medicinals?filter%5Bmatch%5D=wizard-trees"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.72579243577599,
-          39.90081819951048
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Maitri Medicinals",
-        "license": "",
-        "address1": "100 Bair Blvd",
-        "address2": "",
-        "city": "New Stanton",
-        "state": "PA",
-        "zip": "15672",
-        "directionUrl": "https://maps.app.goo.gl/FMXwJSyfjitMEpcT7",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -79.6102645455679,
-          40.22028159466043
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Hive",
-        "license": "",
-        "address1": "1490 High St",
-        "address2": "",
-        "city": "Williamsport",
-        "state": "PA",
-        "zip": "17701",
-        "directionUrl": "https://maps.app.goo.gl/6S3BhXjWPiAW72RUA",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.03549488789635,
-          41.244724038886865
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Hive",
-        "license": "",
-        "address1": "2625 N Susquehanna Trail",
-        "address2": "",
-        "city": "Shamokin Dam",
-        "state": "PA",
-        "zip": "17876",
-        "directionUrl": "https://maps.app.goo.gl/6tHJMyBJ4Cc3Phyi8",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.8266831474183,
-          40.84270310507093
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Hive",
-        "license": "",
-        "address1": "1612 N Atherton St",
-        "address2": "",
-        "city": "State College",
-        "state": "PA",
-        "zip": "16803",
-        "directionUrl": "https://maps.app.goo.gl/qJ9ZtxMwpJyCUZmH7",
-        "storeUrl": ""
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.89297127016296,
-          40.80754070948984
         ]
       }
     },
@@ -11704,7 +11431,7 @@
         "retailer": "Cannavine Distro",
         "license": "",
         "address1": "1230 Airport Park Blvd",
-        "address2": "",
+        "address2": "Suite C",
         "city": "Ukiah",
         "state": "CA",
         "zip": "95482",
@@ -11779,27 +11506,6 @@
         "coordinates": [
           -122.7396099589164,
           38.47731918084767
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "retailer": "Bud Bees Delivery Mission Hills",
-        "license": "",
-        "address1": "10237 Sepulveda Blvd",
-        "address2": "",
-        "city": "San Fernando (Mission Hills)",
-        "state": "CA",
-        "zip": "91345",
-        "directionUrl": "https://maps.app.goo.gl/Ysac9NzQBGzEbMcw9",
-        "storeUrl": "https://budbees.la/"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -118.46771621349376,
-          34.25675765730132
         ]
       }
     },
