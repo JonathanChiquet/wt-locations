@@ -5086,7 +5086,7 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "TreeHouse",
+        "retailer": "TreeHouse Brooklyn",
         "license": "",
         "address1": "69 6th Ave",
         "address2": "",
@@ -6346,7 +6346,7 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "TreeHouse",
+        "retailer": "TreeHouse Nyack",
         "license": "",
         "address1": "28 NY-59",
         "address2": "",
@@ -6396,7 +6396,7 @@
         "state": "NY",
         "zip": "10591",
         "directionUrl": "https://maps.app.goo.gl/QaFSNrreApGdBvaB7",
-        "storeUrl": "https://mindsetarrytown.com"
+        "storeUrl": "https://mindsettarrytown.com"
       },
       "geometry": {
         "type": "Point",
@@ -10210,7 +10210,7 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Trulieve PA - Pittsburgh",
+        "retailer": "Trulieve PA - Pittsburgh (Forward Ave)",
         "license": "",
         "address1": "5600 Forward Ave",
         "address2": "",
@@ -10399,7 +10399,7 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Trulieve PA - Pittsburgh",
+        "retailer": "Trulieve PA - Pittsburgh (Federal St)",
         "license": "",
         "address1": "200 Federal St",
         "address2": "",
