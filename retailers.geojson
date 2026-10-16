@@ -5008,15 +5008,15 @@
         "address2": "",
         "city": "New York",
         "state": "NY",
-        "zip": "100031",
+        "zip": "10031",
         "directionUrl": "https://maps.app.goo.gl/9QU7oMiiUVf7zcv57",
         "storeUrl": "https://strainsforlife.com/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.95015663980398,
-          40.82699051650367
+          -73.9506287,
+          40.8268688
         ]
       }
     },
@@ -6563,14 +6563,14 @@
         "city": "Los Angeles",
         "state": "CA",
         "zip": "90036",
-        "directionUrl": "https://www.google.com/maps/search/?api=1&query=34.078079599999995,-118.34379140000001&query_place_id=ChIJS0DcZNa4woARTKMJVjMHzUE",
+        "directionUrl": "https://maps.app.goo.gl/tEssPmiDRKVPRitr6",
         "storeUrl": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -118.15895645814494,
-          33.860523174340436
+          -118.3438584,
+          34.067117
         ]
       }
     },
@@ -8327,14 +8327,14 @@
         "city": "Bronx",
         "state": "NY",
         "zip": "10460",
-        "directionUrl": "https://www.google.com/maps/search/?api=1&query=1798%20E%20Tremont%20Ave%2C%20Bronx%2C%20NY%2010460",
+        "directionUrl": "https://maps.app.goo.gl/dMyQBk9dwXuPBLQh6",
         "storeUrl": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -74.00776973307646,
-          40.71025972347031
+          -73.867555,
+          40.8399195
         ]
       }
     },
@@ -10070,14 +10070,14 @@
         "city": "Brooklyn",
         "state": "NY",
         "zip": "11201",
-        "directionUrl": "https://maps.app.goo.gl/EiwSGiAiNYjheyUJ7",
+        "directionUrl": "https://maps.app.goo.gl/ZfYtAb6B4xz4jV579",
         "storeUrl": "http://thegalleryny.com/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.93091862883576,
-          40.703487341539855
+          -73.9894153,
+          40.7033003
         ]
       }
     },
