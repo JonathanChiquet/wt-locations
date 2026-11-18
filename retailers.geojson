@@ -12138,6 +12138,1119 @@
           34.0748283
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Monroe",
+        "license": "",
+        "address1": "14750 Laplaisance Rd",
+        "address2": "Unit H160",
+        "city": "Monroe",
+        "state": "MI",
+        "zip": "48161",
+        "directionUrl": "https://maps.app.goo.gl/KeMLn6eY8HYK2QaR8",
+        "storeUrl": "https://shophod.com/monroe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.39177657329489,
+          41.88620830650054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trapstars Monroe",
+        "license": "",
+        "address1": "14930 Laplaisance Rd",
+        "address2": "Ste 121",
+        "city": "Monroe",
+        "state": "MI",
+        "zip": "48161",
+        "directionUrl": "https://maps.app.goo.gl/9GNym4mq65W3PSR46",
+        "storeUrl": "https://joyology.com/location/monroe/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.392772,
+          41.8868251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "BOWZ Luna Pier",
+        "license": "",
+        "address1": "10501 Evans Dr",
+        "address2": "",
+        "city": "Luna Pier",
+        "state": "MI",
+        "zip": "48157",
+        "directionUrl": "https://maps.app.goo.gl/e7atT2z3rfSvSr4n9",
+        "storeUrl": "https://bowzcannabis.com/mi/luna-pier?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4463257,
+          41.8075145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots Monroe",
+        "license": "",
+        "address1": "1121 S Monroe St",
+        "address2": "",
+        "city": "Monroe",
+        "state": "MI",
+        "zip": "48161",
+        "directionUrl": "https://maps.app.goo.gl/p9DEVk5GYDMbQVy78",
+        "storeUrl": "https://getqualityroots.com/locations/monroe/?utm_source=google&utm_medium=organic&utm_campaign=monroe-gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4061027,
+          41.9058948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Ann Arbor",
+        "license": "",
+        "address1": "2730 Jackson Ave",
+        "address2": "",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "zip": "48103",
+        "directionUrl": "https://maps.app.goo.gl/c9rZk5RBNT215KTp8",
+        "storeUrl": "https://shophod.com/ann-arbor/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7851628,
+          42.2823204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Ypsilanti",
+        "license": "",
+        "address1": "80 Ecorse Rd",
+        "address2": "",
+        "city": "Ypsilanti",
+        "state": "MI",
+        "zip": "48198",
+        "directionUrl": "https://maps.app.goo.gl/WT3MjoLhz6P4xqa78",
+        "storeUrl": "https://shophod.com/ypsilanti/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5979465,
+          42.2400985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Information Entropy Ann Arbor",
+        "license": "",
+        "address1": "1115 Broadway St",
+        "address2": "",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "zip": "48105",
+        "directionUrl": "https://maps.app.goo.gl/h4K4CJAe48zVTqKZ7",
+        "storeUrl": "https://informationentropy.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.737858,
+          42.290213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Cake House Ann Arbor",
+        "license": "",
+        "address1": "2115 S State St",
+        "address2": "",
+        "city": "Ann Arbor",
+        "state": "MI",
+        "zip": "48104",
+        "directionUrl": "https://maps.app.goo.gl/jdN56LBsjQZohLR19",
+        "storeUrl": "https://cakehousecannabis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7389495,
+          42.2556713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "BOWZ Riverview",
+        "license": "",
+        "address1": "15600 King Rd",
+        "address2": "",
+        "city": "Riverview",
+        "state": "MI",
+        "zip": "48193",
+        "directionUrl": "https://maps.app.goo.gl/6rb8CQsASpNhq3RE6",
+        "storeUrl": "https://bowzcannabis.com/mi/riverview?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2118235,
+          42.1557599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Top Cannabis Outlet",
+        "license": "",
+        "address1": "286 Burke St",
+        "address2": "",
+        "city": "River Rouge",
+        "state": "MI",
+        "zip": "48218",
+        "directionUrl": "https://maps.app.goo.gl/sQ3WXzRJqFhgzcMT8",
+        "storeUrl": "https://topcannabisoutlet.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1355401,
+          42.2704109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank 8 Mile",
+        "license": "",
+        "address1": "3340 E 8 Mile Rd",
+        "address2": "",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48234",
+        "directionUrl": "https://maps.app.goo.gl/bkyX9w7oBkuqSWKa7",
+        "storeUrl": "https://shophod.com/8-mile/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0705207,
+          42.4468449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Gratiot",
+        "license": "",
+        "address1": "11999 Gratiot Ave",
+        "address2": "",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48213",
+        "directionUrl": "https://maps.app.goo.gl/us7ibC8DNzj5bA4o6",
+        "storeUrl": "https://shophod.com/gratiot/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9929362,
+          42.4126708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots Hamtramck",
+        "license": "",
+        "address1": "2024 Caniff Ave",
+        "address2": "",
+        "city": "Hamtramck",
+        "state": "MI",
+        "zip": "48212",
+        "directionUrl": "https://maps.app.goo.gl/DzP7RcBvJB5JfAoi8",
+        "storeUrl": "https://getqualityroots.com/locations/detroit/?utm_source=google&utm_medium=organic&utm_campaign=detroit-gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0671288,
+          42.3970281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Fort St",
+        "license": "",
+        "address1": "3394 S Fort St",
+        "address2": "",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48217",
+        "directionUrl": "https://maps.app.goo.gl/PbTyL19sjSNhYbFv8",
+        "storeUrl": "https://shophod.com/fort-st/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1662799,
+          42.2639123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Refinery Detroit",
+        "license": "",
+        "address1": "12641 Stout St",
+        "address2": "",
+        "city": "Detroit",
+        "state": "MI",
+        "zip": "48223",
+        "directionUrl": "https://maps.app.goo.gl/5UdH51NSPYD9uVgG7",
+        "storeUrl": "https://refinemi.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2408884,
+          42.3802024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vibe Dispensary Inkster",
+        "license": "",
+        "address1": "29385 Cherry Hill Rd",
+        "address2": "",
+        "city": "Inkster",
+        "state": "MI",
+        "zip": "48141",
+        "directionUrl": "https://maps.app.goo.gl/TxoBrfZ7nRhbVueT8",
+        "storeUrl": "http://letsvibe420.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3292899,
+          42.3109684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Garden City",
+        "license": "",
+        "address1": "32330 Ford Rd",
+        "address2": "",
+        "city": "Garden City",
+        "state": "MI",
+        "zip": "48135",
+        "directionUrl": "https://maps.app.goo.gl/TU6gNm5ku36SGsen9",
+        "storeUrl": "https://shophod.com/garden-city/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3594523,
+          42.3267899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Nature's Remedy Cannabis Ferndale",
+        "license": "",
+        "address1": "925 E Drayton St",
+        "address2": "",
+        "city": "Ferndale",
+        "state": "MI",
+        "zip": "48220",
+        "directionUrl": "https://maps.app.goo.gl/YgNBbadWQR23saT58",
+        "storeUrl": "https://naturesremedymi.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1263788,
+          42.4669819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Cake House Pleasant Ridge",
+        "license": "",
+        "address1": "420 E 10 Mile Rd",
+        "address2": "Suite A & B",
+        "city": "Pleasant Ridge",
+        "state": "MI",
+        "zip": "48069",
+        "directionUrl": "https://maps.app.goo.gl/tJLGAkh8wnDLAjz48",
+        "storeUrl": "https://cakehousecannabis.com/location/pleasant-ridge/shop-now/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1347213,
+          42.4744227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots Berkley",
+        "license": "",
+        "address1": "3916 W 11 Mile Rd",
+        "address2": "",
+        "city": "Berkley",
+        "state": "MI",
+        "zip": "48072",
+        "directionUrl": "https://maps.app.goo.gl/WdjMiv9RfY8YJFy48",
+        "storeUrl": "https://getqualityroots.com/locations/berkley/?utm_source=google&utm_medium=organic&utm_campaign=berkley-gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1991296,
+          42.488743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots Madison Heights",
+        "license": "",
+        "address1": "350 E 14 Mile Rd",
+        "address2": "",
+        "city": "Madison Heights",
+        "state": "MI",
+        "zip": "48071",
+        "directionUrl": "https://maps.app.goo.gl/Zcn4iaTsiQ6SyPqE6",
+        "storeUrl": "https://getqualityroots.com/locations/madison-heights/?utm_source=google&utm_medium=organic&utm_campaign=madison_heights_gmb"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1048684,
+          42.5339309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots Waterford",
+        "license": "",
+        "address1": "1700 Tull Ct",
+        "address2": "",
+        "city": "Waterford Township",
+        "state": "MI",
+        "zip": "48327",
+        "directionUrl": "https://maps.app.goo.gl/iqU6u3nbbZ3MPhtW8",
+        "storeUrl": "https://getqualityroots.com/locations/waterford/?utm_source=google&utm_medium=organic&utm_campaign=waterford-gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4377741,
+          42.6616033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots Pontiac",
+        "license": "",
+        "address1": "41 Walton Blvd",
+        "address2": "",
+        "city": "Pontiac",
+        "state": "MI",
+        "zip": "48340",
+        "directionUrl": "https://maps.app.goo.gl/JHzR3Tcg5UMbFzhU8",
+        "storeUrl": "https://getqualityroots.com/locations/pontiac/?utm_source=google&utm_medium=organic&utm_campaign=pontiac-gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2990588,
+          42.6773349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Center Line",
+        "license": "",
+        "address1": "26829 Lawrence Ave",
+        "address2": "",
+        "city": "Center Line",
+        "state": "MI",
+        "zip": "48015",
+        "directionUrl": "https://maps.app.goo.gl/pdkNssuw7V88Fh7T6",
+        "storeUrl": "https://shophod.com/center-line/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0330725,
+          42.4909036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Loud! Cannabis",
+        "license": "",
+        "address1": "32900 Dequindre Rd",
+        "address2": "",
+        "city": "Warren",
+        "state": "MI",
+        "zip": "48092",
+        "directionUrl": "https://maps.app.goo.gl/ZNuUpE9JS3okD15c9",
+        "storeUrl": "http://findloud.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0866341,
+          42.5336907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Bowdega Utica",
+        "license": "",
+        "address1": "45411 Park Ave",
+        "address2": "",
+        "city": "Utica",
+        "state": "MI",
+        "zip": "48315",
+        "directionUrl": "https://maps.app.goo.gl/U2obQBB4cACKFwDP9",
+        "storeUrl": "https://www.bowdega.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0117094,
+          42.6291473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Puff Utica",
+        "license": "",
+        "address1": "44825 Van Dyke Ave",
+        "address2": "",
+        "city": "Utica",
+        "state": "MI",
+        "zip": "48317",
+        "directionUrl": "https://maps.app.goo.gl/GQEqdhcUksFPVt1WA",
+        "storeUrl": "https://www.puffutica.com/?utm_source=gmb&utm_medium=website_click&utm_campaign=utica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0326326,
+          42.6248153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Information Entropy New Buffalo",
+        "license": "",
+        "address1": "18350 US-12",
+        "address2": "",
+        "city": "New Buffalo",
+        "state": "MI",
+        "zip": "49117",
+        "directionUrl": "https://maps.app.goo.gl/mnAfsNXD1SGM3Arg6",
+        "storeUrl": "https://informationentropy.com/new-buffalo-menu/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7595267,
+          41.7883832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Refinery New Buffalo",
+        "license": "",
+        "address1": "19281 US-12",
+        "address2": "",
+        "city": "New Buffalo",
+        "state": "MI",
+        "zip": "49117",
+        "directionUrl": "https://maps.app.goo.gl/4Rsbf18vqdDTbmuFA",
+        "storeUrl": "https://refinemi.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7857435,
+          41.7702898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank New Buffalo",
+        "license": "",
+        "address1": "19333 M-239",
+        "address2": "",
+        "city": "New Buffalo",
+        "state": "MI",
+        "zip": "49117",
+        "directionUrl": "https://maps.app.goo.gl/ZETt9rjKvZLAiY7g6",
+        "storeUrl": "https://shophod.com/new-buffalo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.726811,
+          41.7695651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Trapstars New Buffalo",
+        "license": "",
+        "address1": "13964 Grand Ave",
+        "address2": "",
+        "city": "New Buffalo",
+        "state": "MI",
+        "zip": "49117",
+        "directionUrl": "https://maps.app.goo.gl/Ec1PUcRMHwLTqHGq6",
+        "storeUrl": "https://trapstars.co/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7914922,
+          41.765647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Elevated Exotics New Buffalo",
+        "license": "",
+        "address1": "13899 Grand Ave",
+        "address2": "",
+        "city": "New Buffalo",
+        "state": "MI",
+        "zip": "49117",
+        "directionUrl": "https://maps.app.goo.gl/HWwwuvEqPdYVKtev8",
+        "storeUrl": "https://www.elevatedexotics.com/new-buffalo-mi/?utm_source=google&utm_medium=organic&utm_campaign=google-business-profile-new-buffalo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7902523,
+          41.7652028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vibe New Buffalo",
+        "license": "",
+        "address1": "19689 US-12",
+        "address2": "",
+        "city": "New Buffalo",
+        "state": "MI",
+        "zip": "49117",
+        "directionUrl": "https://maps.app.goo.gl/ktzp2gt1MSjrC1vB8",
+        "storeUrl": "https://letsvibe420.com/locations/new-buffalo-2/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7954332,
+          41.7632794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Blow New Buffalo",
+        "license": "",
+        "address1": "19839 US-12",
+        "address2": "",
+        "city": "New Buffalo",
+        "state": "MI",
+        "zip": "49117",
+        "directionUrl": "https://maps.app.goo.gl/PpdiJNmXf9P8WnSP8",
+        "storeUrl": "https://blowcannabis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.799663,
+          41.7602819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Kalamazoo",
+        "license": "",
+        "address1": "1986 S Sprinkle Rd",
+        "address2": "",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "zip": "49048",
+        "directionUrl": "https://maps.app.goo.gl/qMUBW1zbjbVgETQq8",
+        "storeUrl": "https://shophod.com/kalamazoo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5313586,
+          42.2709905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Refinery Kalamazoo",
+        "license": "",
+        "address1": "3650 Alvan Rd",
+        "address2": "",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "zip": "49001",
+        "directionUrl": "https://maps.app.goo.gl/FACvAJs8dCzcdYwg7",
+        "storeUrl": "https://refinemi.com/kalamazoo/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5318609,
+          42.2634642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots Kalamazoo",
+        "license": "",
+        "address1": "104 N Drake Rd",
+        "address2": "",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "zip": "49009",
+        "directionUrl": "https://maps.app.goo.gl/sS3hX12ask5a1cVB9",
+        "storeUrl": "https://getqualityroots.com/locations/kalamazoo/?utm_source=google&utm_medium=organic&utm_campaign=kalamazoo-gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6474816,
+          42.2928133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Herbana Kalamazoo",
+        "license": "",
+        "address1": "2705 W Michigan Ave",
+        "address2": "",
+        "city": "Kalamazoo",
+        "state": "MI",
+        "zip": "49006",
+        "directionUrl": "https://maps.app.goo.gl/SBoXUz1yK3SRzo9QA",
+        "storeUrl": "https://findherbana.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6227172,
+          42.2811023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Lansing",
+        "license": "",
+        "address1": "2901 N East St",
+        "address2": "",
+        "city": "Lansing",
+        "state": "MI",
+        "zip": "48906",
+        "directionUrl": "https://maps.app.goo.gl/vcpbvtiN3j3P8BZN8",
+        "storeUrl": "https://shophod.com/lansing/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5431458,
+          42.7629247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Cake House Lansing",
+        "license": "",
+        "address1": "5031 S Cedar St",
+        "address2": "Suite C",
+        "city": "Lansing",
+        "state": "MI",
+        "zip": "48910",
+        "directionUrl": "https://maps.app.goo.gl/6RitSBAGSENBQJXt9",
+        "storeUrl": "https://cakehousecannabis.com/location/lansing/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5474368,
+          42.6833502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Herbana Lansing",
+        "license": "",
+        "address1": "2001 W Saginaw St",
+        "address2": "",
+        "city": "Lansing",
+        "state": "MI",
+        "zip": "48915",
+        "directionUrl": "https://maps.app.goo.gl/H9GhTBiziXRJdz9t5",
+        "storeUrl": "https://findherbana.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5790905,
+          42.7408142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Herbana Haslett",
+        "license": "",
+        "address1": "2119 Haslett Rd",
+        "address2": "Suite A",
+        "city": "Haslett",
+        "state": "MI",
+        "zip": "48840",
+        "directionUrl": "https://maps.app.goo.gl/kJ9jdxrc3La97RAb9",
+        "storeUrl": "https://findherbana.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4266277,
+          42.7465194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Cake House Battle Creek",
+        "license": "",
+        "address1": "1230 E Michigan Ave",
+        "address2": "",
+        "city": "Battle Creek",
+        "state": "MI",
+        "zip": "49014",
+        "directionUrl": "https://maps.app.goo.gl/Btjmw8hmmdhr4TR59",
+        "storeUrl": "https://www.thecakehousemichigan.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1218004,
+          42.3099469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots Battle Creek",
+        "license": "",
+        "address1": "1028 E Michigan Ave",
+        "address2": "",
+        "city": "Battle Creek",
+        "state": "MI",
+        "zip": "49014",
+        "directionUrl": "https://maps.app.goo.gl/dmYativwKXHCK1oQ6",
+        "storeUrl": "https://getqualityroots.com/locations/battle-creek/?utm_source=google&utm_medium=organic&utm_campaign=battle-creek-gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1352066,
+          42.3103584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Vibe Quincy",
+        "license": "",
+        "address1": "133 W Chicago St",
+        "address2": "",
+        "city": "Quincy",
+        "state": "MI",
+        "zip": "49082",
+        "directionUrl": "https://maps.app.goo.gl/npt3vpLoKVVdoBWc7",
+        "storeUrl": "https://letsvibe420.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8981113,
+          41.9412285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Saginaw",
+        "license": "",
+        "address1": "3054 E Holland Rd",
+        "address2": "",
+        "city": "Saginaw",
+        "state": "MI",
+        "zip": "48601",
+        "directionUrl": "https://maps.app.goo.gl/XfpAQC9X7kdUkCiB7",
+        "storeUrl": "https://shophod.com/saginaw/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9040933,
+          43.414414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Quality Roots Corunna",
+        "license": "",
+        "address1": "898 Corunna Ave",
+        "address2": "",
+        "city": "Corunna",
+        "state": "MI",
+        "zip": "48817",
+        "directionUrl": "https://maps.app.goo.gl/t3wrL8Mo1u4D1YWcA",
+        "storeUrl": "https://getqualityroots.com/locations/corunna/?utm_source=google&utm_medium=organic&utm_campaign=corunna-gbp"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.137639,
+          42.9854558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Grand Rapids",
+        "license": "",
+        "address1": "3510 E Mall Dr SE",
+        "address2": "",
+        "city": "Grand Rapids",
+        "state": "MI",
+        "zip": "49546",
+        "directionUrl": "https://maps.app.goo.gl/fckKZ3K44Q4esMTE9",
+        "storeUrl": "https://shophod.com/grand-rapids/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5827048,
+          42.9161482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "The Trap Cannabis Co",
+        "license": "",
+        "address1": "1817 Commerce St",
+        "address2": "",
+        "city": "Muskegon",
+        "state": "MI",
+        "zip": "49441",
+        "directionUrl": "https://maps.app.goo.gl/mFBV8MxGY1vUkZ958",
+        "storeUrl": "https://www.thetrapcannabis.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2497615,
+          43.2195442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Lapeer",
+        "license": "",
+        "address1": "200 E Genesee St",
+        "address2": "Unit 1 & 2",
+        "city": "Lapeer",
+        "state": "MI",
+        "zip": "48446",
+        "directionUrl": "https://maps.app.goo.gl/uCDL5i1J2gWLoTcb6",
+        "storeUrl": "https://shophod.com/lapeer/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.303825,
+          43.0503541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "House of Dank Traverse City",
+        "license": "",
+        "address1": "514 Munson Ave",
+        "address2": "",
+        "city": "Traverse City",
+        "state": "MI",
+        "zip": "49686",
+        "directionUrl": "https://maps.app.goo.gl/nxY9pq1znNRR7TPM9",
+        "storeUrl": "https://shophod.com/traverse-city/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5786237,
+          44.7580724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Elevated Exotics Menominee",
+        "license": "",
+        "address1": "1012 20th Ave",
+        "address2": "",
+        "city": "Menominee",
+        "state": "MI",
+        "zip": "49858",
+        "directionUrl": "https://maps.app.goo.gl/psPC5k68J2BCYUfs6",
+        "storeUrl": "https://www.elevatedexotics.com/menominee-mi/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.615136,
+          45.1170853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "retailer": "Elevated Exotics Escanaba",
+        "license": "",
+        "address1": "923 Ludington St",
+        "address2": "",
+        "city": "Escanaba",
+        "state": "MI",
+        "zip": "49829",
+        "directionUrl": "https://maps.app.goo.gl/TrmoxJr7awgJV1W77",
+        "storeUrl": "https://www.elevatedexotics.com/escanaba-mi/?utm_source=google&utm_medium=organic&utm_campaign=google-business-profile-escanaba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0609552,
+          45.7454555
+        ]
+      }
     }
   ]
 }
