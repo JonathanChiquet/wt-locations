@@ -12485,30 +12485,36 @@
         "city": "Garden City",
         "state": "MI",
         "zip": "48135",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/TU6gNm5ku36SGsen9",
+        "storeUrl": "https://shophod.com/garden-city/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.3594523,
+          42.3267899
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Nature's Remedy Cannabis",
+        "retailer": "Nature Remedy Cannabis Ferndale",
         "license": "",
         "address1": "925 E Drayton St",
         "address2": "",
         "city": "Ferndale",
         "state": "MI",
         "zip": "48220",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/YgNBbadWQR23saT58",
+        "storeUrl": "https://naturesremedymi.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.1263788,
+          42.4669819
+        ]
       }
     },
     {
@@ -12521,12 +12527,15 @@
         "city": "Pleasant Ridge",
         "state": "MI",
         "zip": "48069",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/tJLGAkh8wnDLAjz48",
+        "storeUrl": "https://cakehousecannabis.com/location/pleasant-ridge/shop-now/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.1347213,
+          42.4744227
+        ]
       }
     },
     {
@@ -12539,12 +12548,15 @@
         "city": "Berkley",
         "state": "MI",
         "zip": "48072",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/WdjMiv9RfY8YJFy48",
+        "storeUrl": "https://getqualityroots.com/locations/berkley/?utm_source=google&utm_medium=organic&utm_campaign=berkley-gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.1991296,
+          42.488743
+        ]
       }
     },
     {
@@ -12557,12 +12569,15 @@
         "city": "Madison Heights",
         "state": "MI",
         "zip": "48071",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/Zcn4iaTsiQ6SyPqE6",
+        "storeUrl": "https://getqualityroots.com/locations/madison-heights/?utm_source=google&utm_medium=organic&utm_campaign=madison_heights_gmb"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.1048684,
+          42.5339309
+        ]
       }
     },
     {
@@ -12575,12 +12590,15 @@
         "city": "Waterford Township",
         "state": "MI",
         "zip": "48327",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/iqU6u3nbbZ3MPhtW8",
+        "storeUrl": "https://getqualityroots.com/locations/waterford/?utm_source=google&utm_medium=organic&utm_campaign=waterford-gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.4377741,
+          42.6616033
+        ]
       }
     },
     {
@@ -12588,17 +12606,20 @@
       "properties": {
         "retailer": "Quality Roots Pontiac",
         "license": "",
-        "address1": "41 E Walton Blvd",
+        "address1": "41 Walton Blvd",
         "address2": "",
         "city": "Pontiac",
         "state": "MI",
         "zip": "48340",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/JHzR3Tcg5UMbFzhU8",
+        "storeUrl": "https://getqualityroots.com/locations/pontiac/?utm_source=google&utm_medium=organic&utm_campaign=pontiac-gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.2990588,
+          42.6773349
+        ]
       }
     },
     {
@@ -12611,12 +12632,15 @@
         "city": "Center Line",
         "state": "MI",
         "zip": "48015",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/pdkNssuw7V88Fh7T6",
+        "storeUrl": "https://shophod.com/center-line/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.0330725,
+          42.4909036
+        ]
       }
     },
     {
@@ -12629,12 +12653,15 @@
         "city": "Warren",
         "state": "MI",
         "zip": "48092",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/ZNuUpE9JS3okD15c9",
+        "storeUrl": "http://findloud.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.0866341,
+          42.5336907
+        ]
       }
     },
     {
@@ -12647,12 +12674,15 @@
         "city": "Utica",
         "state": "MI",
         "zip": "48315",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/U2obQBB4cACKFwDP9",
+        "storeUrl": "https://www.bowdega.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.0117094,
+          42.6291473
+        ]
       }
     },
     {
@@ -12665,30 +12695,36 @@
         "city": "Utica",
         "state": "MI",
         "zip": "48317",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/GQEqdhcUksFPVt1WA",
+        "storeUrl": "https://www.puffutica.com/?utm_source=gmb&utm_medium=website_click&utm_campaign=utica"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.0326326,
+          42.6248153
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Information Entropy I(x4)",
+        "retailer": "Information Entropy New Buffalo",
         "license": "",
-        "address1": "18350 US Hwy 12",
+        "address1": "18350 US-12",
         "address2": "",
         "city": "New Buffalo",
         "state": "MI",
         "zip": "49117",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/mnAfsNXD1SGM3Arg6",
+        "storeUrl": "https://informationentropy.com/new-buffalo-menu/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -86.7595267,
+          41.7883832
+        ]
       }
     },
     {
@@ -12696,17 +12732,20 @@
       "properties": {
         "retailer": "The Refinery New Buffalo",
         "license": "",
-        "address1": "19281 US Hwy 12",
+        "address1": "19281 US-12",
         "address2": "",
         "city": "New Buffalo",
         "state": "MI",
         "zip": "49117",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/4Rsbf18vqdDTbmuFA",
+        "storeUrl": "https://refinemi.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -86.7857435,
+          41.7702898
+        ]
       }
     },
     {
@@ -12719,12 +12758,15 @@
         "city": "New Buffalo",
         "state": "MI",
         "zip": "49117",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/ZETt9rjKvZLAiY7g6",
+        "storeUrl": "https://shophod.com/new-buffalo/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -86.726811,
+          41.7695651
+        ]
       }
     },
     {
@@ -12737,12 +12779,15 @@
         "city": "New Buffalo",
         "state": "MI",
         "zip": "49117",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/Ec1PUcRMHwLTqHGq6",
+        "storeUrl": "https://trapstars.co/?utm_source=google&utm_medium=organic&utm_campaign=gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -86.7914922,
+          41.765647
+        ]
       }
     },
     {
@@ -12755,12 +12800,15 @@
         "city": "New Buffalo",
         "state": "MI",
         "zip": "49117",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/HWwwuvEqPdYVKtev8",
+        "storeUrl": "https://www.elevatedexotics.com/new-buffalo-mi/?utm_source=google&utm_medium=organic&utm_campaign=google-business-profile-new-buffalo"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -86.7902523,
+          41.7652028
+        ]
       }
     },
     {
@@ -12768,35 +12816,41 @@
       "properties": {
         "retailer": "Vibe New Buffalo",
         "license": "",
-        "address1": "19689 US Hwy 12",
+        "address1": "19689 US-12",
         "address2": "",
         "city": "New Buffalo",
         "state": "MI",
         "zip": "49117",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/ktzp2gt1MSjrC1vB8",
+        "storeUrl": "https://letsvibe420.com/locations/new-buffalo-2/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -86.7954332,
+          41.7632794
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Blow Cannabis",
+        "retailer": "Blow New Buffalo",
         "license": "",
-        "address1": "19839 US Hwy 12",
+        "address1": "19839 US-12",
         "address2": "",
         "city": "New Buffalo",
         "state": "MI",
         "zip": "49117",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/PpdiJNmXf9P8WnSP8",
+        "storeUrl": "https://blowcannabis.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -86.799663,
+          41.7602819
+        ]
       }
     },
     {
@@ -12809,12 +12863,15 @@
         "city": "Kalamazoo",
         "state": "MI",
         "zip": "49048",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/qMUBW1zbjbVgETQq8",
+        "storeUrl": "https://shophod.com/kalamazoo/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -85.5313586,
+          42.2709905
+        ]
       }
     },
     {
@@ -12827,12 +12884,15 @@
         "city": "Kalamazoo",
         "state": "MI",
         "zip": "49001",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/FACvAJs8dCzcdYwg7",
+        "storeUrl": "https://refinemi.com/kalamazoo/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -85.5318609,
+          42.2634642
+        ]
       }
     },
     {
@@ -12845,12 +12905,15 @@
         "city": "Kalamazoo",
         "state": "MI",
         "zip": "49009",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/sS3hX12ask5a1cVB9",
+        "storeUrl": "https://getqualityroots.com/locations/kalamazoo/?utm_source=google&utm_medium=organic&utm_campaign=kalamazoo-gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -85.6474816,
+          42.2928133
+        ]
       }
     },
     {
@@ -12863,12 +12926,15 @@
         "city": "Kalamazoo",
         "state": "MI",
         "zip": "49006",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/SBoXUz1yK3SRzo9QA",
+        "storeUrl": "https://findherbana.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -85.6227172,
+          42.2811023
+        ]
       }
     },
     {
@@ -12881,12 +12947,15 @@
         "city": "Lansing",
         "state": "MI",
         "zip": "48906",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/vcpbvtiN3j3P8BZN8",
+        "storeUrl": "https://shophod.com/lansing/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -84.5431458,
+          42.7629247
+        ]
       }
     },
     {
@@ -12899,12 +12968,15 @@
         "city": "Lansing",
         "state": "MI",
         "zip": "48910",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/6RitSBAGSENBQJXt9",
+        "storeUrl": "https://cakehousecannabis.com/location/lansing/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -84.5474368,
+          42.6833502
+        ]
       }
     },
     {
@@ -12917,12 +12989,15 @@
         "city": "Lansing",
         "state": "MI",
         "zip": "48915",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/H9GhTBiziXRJdz9t5",
+        "storeUrl": "https://findherbana.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -84.5790905,
+          42.7408142
+        ]
       }
     },
     {
@@ -12935,12 +13010,15 @@
         "city": "Haslett",
         "state": "MI",
         "zip": "48840",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/kJ9jdxrc3La97RAb9",
+        "storeUrl": "https://findherbana.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -84.4266277,
+          42.7465194
+        ]
       }
     },
     {
@@ -12953,12 +13031,15 @@
         "city": "Battle Creek",
         "state": "MI",
         "zip": "49014",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/Btjmw8hmmdhr4TR59",
+        "storeUrl": "https://www.thecakehousemichigan.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -85.1218004,
+          42.3099469
+        ]
       }
     },
     {
@@ -12971,12 +13052,15 @@
         "city": "Battle Creek",
         "state": "MI",
         "zip": "49014",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/dmYativwKXHCK1oQ6",
+        "storeUrl": "https://getqualityroots.com/locations/battle-creek/?utm_source=google&utm_medium=organic&utm_campaign=battle-creek-gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -85.1352066,
+          42.3103584
+        ]
       }
     },
     {
@@ -12989,12 +13073,15 @@
         "city": "Quincy",
         "state": "MI",
         "zip": "49082",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/npt3vpLoKVVdoBWc7",
+        "storeUrl": "https://letsvibe420.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -84.8981113,
+          41.9412285
+        ]
       }
     },
     {
@@ -13007,12 +13094,15 @@
         "city": "Saginaw",
         "state": "MI",
         "zip": "48601",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/XfpAQC9X7kdUkCiB7",
+        "storeUrl": "https://shophod.com/saginaw/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.9040933,
+          43.414414
+        ]
       }
     },
     {
@@ -13025,12 +13115,15 @@
         "city": "Corunna",
         "state": "MI",
         "zip": "48817",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/t3wrL8Mo1u4D1YWcA",
+        "storeUrl": "https://getqualityroots.com/locations/corunna/?utm_source=google&utm_medium=organic&utm_campaign=corunna-gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -84.137639,
+          42.9854558
+        ]
       }
     },
     {
@@ -13043,12 +13136,15 @@
         "city": "Grand Rapids",
         "state": "MI",
         "zip": "49546",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/fckKZ3K44Q4esMTE9",
+        "storeUrl": "https://shophod.com/grand-rapids/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -85.5827048,
+          42.9161482
+        ]
       }
     },
     {
@@ -13061,12 +13157,15 @@
         "city": "Muskegon",
         "state": "MI",
         "zip": "49441",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/mFBV8MxGY1vUkZ958",
+        "storeUrl": "https://www.thetrapcannabis.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -86.2497615,
+          43.2195442
+        ]
       }
     },
     {
@@ -13079,12 +13178,15 @@
         "city": "Lapeer",
         "state": "MI",
         "zip": "48446",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/uCDL5i1J2gWLoTcb6",
+        "storeUrl": "https://shophod.com/lapeer/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.303825,
+          43.0503541
+        ]
       }
     },
     {
@@ -13097,12 +13199,15 @@
         "city": "Traverse City",
         "state": "MI",
         "zip": "49686",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/nxY9pq1znNRR7TPM9",
+        "storeUrl": "https://shophod.com/traverse-city/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -85.5786237,
+          44.7580724
+        ]
       }
     },
     {
@@ -13115,12 +13220,15 @@
         "city": "Menominee",
         "state": "MI",
         "zip": "49858",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/psPC5k68J2BCYUfs6",
+        "storeUrl": "https://www.elevatedexotics.com/menominee-mi/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -87.615136,
+          45.1170853
+        ]
       }
     },
     {
@@ -13133,12 +13241,15 @@
         "city": "Escanaba",
         "state": "MI",
         "zip": "49829",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/TrmoxJr7awgJV1W77",
+        "storeUrl": "https://www.elevatedexotics.com/escanaba-mi/?utm_source=google&utm_medium=organic&utm_campaign=google-business-profile-escanaba"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -87.0609552,
+          45.7454555
+        ]
       }
     }
   ]
