@@ -12142,19 +12142,22 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "H.O.D. Monroe",
+        "retailer": "House of Dank Monroe",
         "license": "",
         "address1": "14750 Laplaisance Rd",
         "address2": "Unit H160",
         "city": "Monroe",
         "state": "MI",
         "zip": "48161",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/KeMLn6eY8HYK2QaR8",
+        "storeUrl": "https://shophod.com/monroe/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.39177657329489,
+          41.88620830650054
+        ]
       }
     },
     {
@@ -12167,12 +12170,15 @@
         "city": "Monroe",
         "state": "MI",
         "zip": "48161",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/9GNym4mq65W3PSR46",
+        "storeUrl": "https://joyology.com/location/monroe/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.392772,
+          41.8868251
+        ]
       }
     },
     {
@@ -12185,12 +12191,15 @@
         "city": "Luna Pier",
         "state": "MI",
         "zip": "48157",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/e7atT2z3rfSvSr4n9",
+        "storeUrl": "https://bowzcannabis.com/mi/luna-pier?utm_source=google&utm_medium=organic&utm_campaign=gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.4463257,
+          41.8075145
+        ]
       }
     },
     {
@@ -12203,12 +12212,15 @@
         "city": "Monroe",
         "state": "MI",
         "zip": "48161",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/p9DEVk5GYDMbQVy78",
+        "storeUrl": "https://getqualityroots.com/locations/monroe/?utm_source=google&utm_medium=organic&utm_campaign=monroe-gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.4061027,
+          41.9058948
+        ]
       }
     },
     {
@@ -12221,12 +12233,15 @@
         "city": "Ann Arbor",
         "state": "MI",
         "zip": "48103",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/c9rZk5RBNT215KTp8",
+        "storeUrl": "https://shophod.com/ann-arbor/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.7851628,
+          42.2823204
+        ]
       }
     },
     {
@@ -12239,30 +12254,36 @@
         "city": "Ypsilanti",
         "state": "MI",
         "zip": "48198",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/WT3MjoLhz6P4xqa78",
+        "storeUrl": "https://shophod.com/ypsilanti/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.5979465,
+          42.2400985
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Information Entropy I(x5)",
+        "retailer": "Information Entropy Ann Arbor",
         "license": "",
         "address1": "1115 Broadway St",
         "address2": "",
         "city": "Ann Arbor",
         "state": "MI",
         "zip": "48105",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/h4K4CJAe48zVTqKZ7",
+        "storeUrl": "https://informationentropy.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.737858,
+          42.290213
+        ]
       }
     },
     {
@@ -12275,12 +12296,15 @@
         "city": "Ann Arbor",
         "state": "MI",
         "zip": "48104",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/jdN56LBsjQZohLR19",
+        "storeUrl": "https://cakehousecannabis.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.7389495,
+          42.2556713
+        ]
       }
     },
     {
@@ -12293,30 +12317,36 @@
         "city": "Riverview",
         "state": "MI",
         "zip": "48193",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/6rb8CQsASpNhq3RE6",
+        "storeUrl": "https://bowzcannabis.com/mi/riverview?utm_source=google&utm_medium=organic&utm_campaign=gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.2118235,
+          42.1557599
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Vibe River Rouge",
+        "retailer": "Top Cannabis Outlet",
         "license": "",
         "address1": "286 Burke St",
         "address2": "",
         "city": "River Rouge",
         "state": "MI",
         "zip": "48218",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/sQ3WXzRJqFhgzcMT8",
+        "storeUrl": "https://topcannabisoutlet.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.1355401,
+          42.2704109
+        ]
       }
     },
     {
@@ -12329,30 +12359,36 @@
         "city": "Detroit",
         "state": "MI",
         "zip": "48234",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/bkyX9w7oBkuqSWKa7",
+        "storeUrl": "https://shophod.com/8-mile/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.0705207,
+          42.4468449
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "retailer": "House of Dank Eastside",
+        "retailer": "House of Dank Gratiot",
         "license": "",
         "address1": "11999 Gratiot Ave",
         "address2": "",
         "city": "Detroit",
         "state": "MI",
         "zip": "48213",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/us7ibC8DNzj5bA4o6",
+        "storeUrl": "https://shophod.com/gratiot/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -82.9929362,
+          42.4126708
+        ]
       }
     },
     {
@@ -12365,12 +12401,15 @@
         "city": "Hamtramck",
         "state": "MI",
         "zip": "48212",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/DzP7RcBvJB5JfAoi8",
+        "storeUrl": "https://getqualityroots.com/locations/detroit/?utm_source=google&utm_medium=organic&utm_campaign=detroit-gbp"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.0671288,
+          42.3970281
+        ]
       }
     },
     {
@@ -12383,12 +12422,15 @@
         "city": "Detroit",
         "state": "MI",
         "zip": "48217",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/PbTyL19sjSNhYbFv8",
+        "storeUrl": "https://shophod.com/fort-st/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.1662799,
+          42.2639123
+        ]
       }
     },
     {
@@ -12401,30 +12443,36 @@
         "city": "Detroit",
         "state": "MI",
         "zip": "48223",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/5UdH51NSPYD9uVgG7",
+        "storeUrl": "https://refinemi.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.2408884,
+          42.3802024
+        ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "retailer": "Vibe Inkster",
+        "retailer": "Vibe Dispensary Inkster",
         "license": "",
         "address1": "29385 Cherry Hill Rd",
         "address2": "",
         "city": "Inkster",
         "state": "MI",
         "zip": "48141",
-        "directionUrl": "",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/TxoBrfZ7nRhbVueT8",
+        "storeUrl": "http://letsvibe420.com/"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": []
+        "coordinates": [
+          -83.3292899,
+          42.3109684
+        ]
       }
     },
     {
