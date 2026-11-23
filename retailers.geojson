@@ -12079,21 +12079,21 @@
     {
       "type": "Feature",
       "properties": {
-        "retailer": "WeedHub Storefront",
-        "license": "",
+        "retailer": "WeedHub",
+        "license": "C10-0000940-LIC",
         "address1": "3407 Geary Blvd",
         "address2": "",
         "city": "San Francisco",
         "state": "CA",
         "zip": "94118",
-        "directionUrl": "https://maps.app.goo.gl/iZjHZ36TPea8o9u2A",
-        "storeUrl": ""
+        "directionUrl": "https://maps.app.goo.gl/ePePwgAExq4WXWBV8",
+        "storeUrl": "https://weedhubsf.com/"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.4554776,
-          37.78121
+          -122.45547760223421,
+          37.781481318672185
         ]
       }
     },
